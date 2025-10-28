@@ -10,7 +10,7 @@
 						"width": null,
 						"height": null,
 						"mime": "image/x-icon",
-						"url": "/good-thinking-archives/assets/favicon_18540578c9.ico",
+						"url": "/good-thinking-archive/assets/favicon_18540578c9.ico",
 						"size": 15.41,
 						"formats": null,
 						"hash": "favicon_18540578c9",
@@ -32,12 +32,12 @@
 							"width": 1772,
 							"height": 1000,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/OG_Image_a7bd58e917.png",
+							"url": "/good-thinking-archive/assets/OG_Image_a7bd58e917.png",
 							"size": 140.96,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/large_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/large_OG_Image_a7bd58e917.png",
 									"hash": "large_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "large_OG Image.png",
@@ -48,7 +48,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/small_OG_Image_a7bd58e917.png",
 									"hash": "small_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "small_OG Image.png",
@@ -59,7 +59,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/medium_OG_Image_a7bd58e917.png",
 									"hash": "medium_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "medium_OG Image.png",
@@ -70,7 +70,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/thumbnail_OG_Image_a7bd58e917.png",
 									"hash": "thumbnail_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "thumbnail_OG Image.png",
@@ -98,12 +98,12 @@
 							"width": 784,
 							"height": 310,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/good_thinking_logo_7c3c6f2edf.png",
+							"url": "/good-thinking-archive/assets/good_thinking_logo_7c3c6f2edf.png",
 							"size": 19.88,
 							"formats": {
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archive/assets/small_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "small_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "small_good-thinking-logo.png",
@@ -114,7 +114,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archive/assets/medium_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "medium_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "medium_good-thinking-logo.png",
@@ -125,7 +125,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archive/assets/thumbnail_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "thumbnail_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "thumbnail_good-thinking-logo.png",
@@ -322,12 +322,12 @@
 							"width": 1440,
 							"height": 618,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+							"url": "/good-thinking-archive/assets/Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 							"size": 13.62,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "large_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -338,7 +338,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "small_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -349,7 +349,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "medium_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -360,7 +360,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "thumbnail_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -508,12 +508,12 @@
 									"width": 2979,
 									"height": 822,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+									"url": "/good-thinking-archive/assets/TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 									"size": 28.57,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "large_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -524,7 +524,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "small_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -535,7 +535,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "medium_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -546,7 +546,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "thumbnail_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -575,12 +575,12 @@
 									"width": 1200,
 									"height": 576,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/London_Councils_logo_b7a368c43d.png",
+									"url": "/good-thinking-archive/assets/London_Councils_logo_b7a368c43d.png",
 									"size": 17.25,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/large_London_Councils_logo_b7a368c43d.png",
 											"hash": "large_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "large_London_Councils_logo.png",
@@ -591,7 +591,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/small_London_Councils_logo_b7a368c43d.png",
 											"hash": "small_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "small_London_Councils_logo.png",
@@ -602,7 +602,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/medium_London_Councils_logo_b7a368c43d.png",
 											"hash": "medium_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "medium_London_Councils_logo.png",
@@ -613,7 +613,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/thumbnail_London_Councils_logo_b7a368c43d.png",
 											"hash": "thumbnail_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "thumbnail_London_Councils_logo.png",
@@ -642,7 +642,7 @@
 									"width": 164,
 									"height": 28,
 									"mime": "image/svg+xml",
-									"url": "/good-thinking-archives/assets/thriveldn_logo_new_46bc98177f.svg",
+									"url": "/good-thinking-archive/assets/thriveldn_logo_new_46bc98177f.svg",
 									"size": 2.59,
 									"formats": null,
 									"hash": "thriveldn_logo_new_46bc98177f",
@@ -664,7 +664,7 @@
 									"width": 179,
 									"height": 15,
 									"mime": "image/svg+xml",
-									"url": "/good-thinking-archives/assets/mayor_of_london_637a4de9c4.svg",
+									"url": "/good-thinking-archive/assets/mayor_of_london_637a4de9c4.svg",
 									"size": 7.16,
 									"formats": null,
 									"hash": "mayor_of_london_637a4de9c4",
@@ -686,12 +686,12 @@
 									"width": 1233,
 									"height": 355,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/ADPH_Logo_9507f2c60f.png",
+									"url": "/good-thinking-archive/assets/ADPH_Logo_9507f2c60f.png",
 									"size": 24.44,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/large_ADPH_Logo_9507f2c60f.png",
 											"hash": "large_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "large_ADPH Logo.png",
@@ -702,7 +702,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/small_ADPH_Logo_9507f2c60f.png",
 											"hash": "small_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "small_ADPH Logo.png",
@@ -713,7 +713,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/medium_ADPH_Logo_9507f2c60f.png",
 											"hash": "medium_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "medium_ADPH Logo.png",
@@ -724,7 +724,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/thumbnail_ADPH_Logo_9507f2c60f.png",
 											"hash": "thumbnail_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "thumbnail_ADPH Logo.png",
@@ -759,12 +759,12 @@
 					"width": 400,
 					"height": 444,
 					"mime": "image/png",
-					"url": "/good-thinking-archives/assets/Clear_Fear_logo_91c5fb2cab.png",
+					"url": "/good-thinking-archive/assets/Clear_Fear_logo_91c5fb2cab.png",
 					"size": 8.68,
 					"formats": {
 						"thumbnail": {
 							"ext": ".png",
-							"url": "/good-thinking-archives/assets/thumbnail_Clear_Fear_logo_91c5fb2cab.png",
+							"url": "/good-thinking-archive/assets/thumbnail_Clear_Fear_logo_91c5fb2cab.png",
 							"hash": "thumbnail_Clear_Fear_logo_91c5fb2cab",
 							"mime": "image/png",
 							"name": "thumbnail_Clear Fear logo.png",
@@ -781,7 +781,7 @@
 			}
 		},
 		"updatedAt": "2023-08-22T16:57:45.170Z",
-		"mainCopy": "<p>Clear Fear is a free app developed to reduce anxiety using effective Cognitive Behavioural Therapy (CBT) techniques. It was developed by a charity with input from young people and is recommended for 11 to 19-year-olds.</p><p><strong>How could it help me?</strong></p><p>The fear of threat, or anxiety, is like a strong gust of wind. It drags you in and makes you want to fight it or run away.</p><p>Instead, you can face your fear with the Clear Fear app and reduce the physical responses to threat by learning to breathe, relax and be mindful, changing your thoughts and behaviours and releasing your emotions.</p><p>Anxiety is a natural response to fear, threat and apprehension. However when anxiety is extreme or goes on for a long time, or the response to a threat is disproportionately large and affects a person negatively, it may become an anxiety disorder.</p><p>Anxiety disorders are the most common form of mental health problems and respond very well to a form of treatment called Cognitive Behavioural Therapy or CBT. Clear Fear is based on CBT techniques.</p><p><strong>What do people say about it?</strong></p><p>\"Wow! I tried this out for a friend, and wow. It's nice! I recommend it to people who are struggling with anxiety. Or maybe you're just going through a rough bit. Whatever you need it for, this app is excellent!\" – <em>Google Play user</em></p><p>\"Well set out app. Easy to use. Good graphics. Regularly updated. It signposts users to their new app if a person reports low mood. This is interesting as often a service user will have both anxiety symptoms and low mood symptoms. The app mainly focuses on anxiety stand alone. This may be frustrating for a user. Despite the lack of formal research and low numbers in their pilot study this app delivers on content.\" – <em>ORCHA Review</em></p><p>“I am absolutely awestruck by this app! I have had it for 4 days and my mood is getting so much better, along with my anxiety and stress levels. I love the breathing exercise...” <em>– App Store user</em></p><p><strong>Where can I get it?</strong></p><p>You can download the free Clear Fear app from the <a href=\"https://clearfear.app.link/clearfear-london\" rel=\"noopener noreferrer\" target=\"_blank\">App Store</a> or <a href=\"https://play.google.com/store/apps/details?id=uk.org.stem4.clearfear\" rel=\"noopener noreferrer\" target=\"_blank\">Google Play</a>.</p><p><img src=\"/good-thinking-archives/assets/Clear_Fear_App_Images_width_800_e9f781663e.png\" alt=\"Clear Fear app page screenshots\"></p><p><strong>Considerations</strong></p><p><strong>This app is not suitable for people with severe mental health problems or those who are suicidal. It is also not suitable for younger age groups without professional support.</strong></p>",
+		"mainCopy": "<p>Clear Fear is a free app developed to reduce anxiety using effective Cognitive Behavioural Therapy (CBT) techniques. It was developed by a charity with input from young people and is recommended for 11 to 19-year-olds.</p><p><strong>How could it help me?</strong></p><p>The fear of threat, or anxiety, is like a strong gust of wind. It drags you in and makes you want to fight it or run away.</p><p>Instead, you can face your fear with the Clear Fear app and reduce the physical responses to threat by learning to breathe, relax and be mindful, changing your thoughts and behaviours and releasing your emotions.</p><p>Anxiety is a natural response to fear, threat and apprehension. However when anxiety is extreme or goes on for a long time, or the response to a threat is disproportionately large and affects a person negatively, it may become an anxiety disorder.</p><p>Anxiety disorders are the most common form of mental health problems and respond very well to a form of treatment called Cognitive Behavioural Therapy or CBT. Clear Fear is based on CBT techniques.</p><p><strong>What do people say about it?</strong></p><p>\"Wow! I tried this out for a friend, and wow. It's nice! I recommend it to people who are struggling with anxiety. Or maybe you're just going through a rough bit. Whatever you need it for, this app is excellent!\" – <em>Google Play user</em></p><p>\"Well set out app. Easy to use. Good graphics. Regularly updated. It signposts users to their new app if a person reports low mood. This is interesting as often a service user will have both anxiety symptoms and low mood symptoms. The app mainly focuses on anxiety stand alone. This may be frustrating for a user. Despite the lack of formal research and low numbers in their pilot study this app delivers on content.\" – <em>ORCHA Review</em></p><p>“I am absolutely awestruck by this app! I have had it for 4 days and my mood is getting so much better, along with my anxiety and stress levels. I love the breathing exercise...” <em>– App Store user</em></p><p><strong>Where can I get it?</strong></p><p>You can download the free Clear Fear app from the <a href=\"https://clearfear.app.link/clearfear-london\" rel=\"noopener noreferrer\" target=\"_blank\">App Store</a> or <a href=\"https://play.google.com/store/apps/details?id=uk.org.stem4.clearfear\" rel=\"noopener noreferrer\" target=\"_blank\">Google Play</a>.</p><p><img src=\"/good-thinking-archive/assets/Clear_Fear_App_Images_width_800_e9f781663e.png\" alt=\"Clear Fear app page screenshots\"></p><p><strong>Considerations</strong></p><p><strong>This app is not suitable for people with severe mental health problems or those who are suicidal. It is also not suitable for younger age groups without professional support.</strong></p>",
 		"metadata": {
 			"id": "676",
 			"description": "Clear Fear is a free app to help children and young people manage symptoms of anxiety. It is recommended for 11 to 19-year-olds.",

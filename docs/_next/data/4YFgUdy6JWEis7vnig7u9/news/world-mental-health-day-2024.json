@@ -10,7 +10,7 @@
 						"width": null,
 						"height": null,
 						"mime": "image/x-icon",
-						"url": "/good-thinking-archives/assets/favicon_18540578c9.ico",
+						"url": "/good-thinking-archive/assets/favicon_18540578c9.ico",
 						"size": 15.41,
 						"formats": null,
 						"hash": "favicon_18540578c9",
@@ -32,12 +32,12 @@
 							"width": 1772,
 							"height": 1000,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/OG_Image_a7bd58e917.png",
+							"url": "/good-thinking-archive/assets/OG_Image_a7bd58e917.png",
 							"size": 140.96,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/large_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/large_OG_Image_a7bd58e917.png",
 									"hash": "large_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "large_OG Image.png",
@@ -48,7 +48,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/small_OG_Image_a7bd58e917.png",
 									"hash": "small_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "small_OG Image.png",
@@ -59,7 +59,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/medium_OG_Image_a7bd58e917.png",
 									"hash": "medium_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "medium_OG Image.png",
@@ -70,7 +70,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/thumbnail_OG_Image_a7bd58e917.png",
 									"hash": "thumbnail_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "thumbnail_OG Image.png",
@@ -98,12 +98,12 @@
 							"width": 784,
 							"height": 310,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/good_thinking_logo_7c3c6f2edf.png",
+							"url": "/good-thinking-archive/assets/good_thinking_logo_7c3c6f2edf.png",
 							"size": 19.88,
 							"formats": {
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archive/assets/small_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "small_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "small_good-thinking-logo.png",
@@ -114,7 +114,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archive/assets/medium_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "medium_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "medium_good-thinking-logo.png",
@@ -125,7 +125,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archive/assets/thumbnail_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "thumbnail_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "thumbnail_good-thinking-logo.png",
@@ -322,12 +322,12 @@
 							"width": 1440,
 							"height": 618,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+							"url": "/good-thinking-archive/assets/Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 							"size": 13.62,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "large_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -338,7 +338,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "small_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -349,7 +349,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "medium_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -360,7 +360,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "thumbnail_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -508,12 +508,12 @@
 									"width": 2979,
 									"height": 822,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+									"url": "/good-thinking-archive/assets/TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 									"size": 28.57,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "large_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -524,7 +524,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "small_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -535,7 +535,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "medium_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -546,7 +546,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "thumbnail_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -575,12 +575,12 @@
 									"width": 1200,
 									"height": 576,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/London_Councils_logo_b7a368c43d.png",
+									"url": "/good-thinking-archive/assets/London_Councils_logo_b7a368c43d.png",
 									"size": 17.25,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/large_London_Councils_logo_b7a368c43d.png",
 											"hash": "large_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "large_London_Councils_logo.png",
@@ -591,7 +591,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/small_London_Councils_logo_b7a368c43d.png",
 											"hash": "small_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "small_London_Councils_logo.png",
@@ -602,7 +602,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/medium_London_Councils_logo_b7a368c43d.png",
 											"hash": "medium_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "medium_London_Councils_logo.png",
@@ -613,7 +613,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/thumbnail_London_Councils_logo_b7a368c43d.png",
 											"hash": "thumbnail_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "thumbnail_London_Councils_logo.png",
@@ -642,7 +642,7 @@
 									"width": 164,
 									"height": 28,
 									"mime": "image/svg+xml",
-									"url": "/good-thinking-archives/assets/thriveldn_logo_new_46bc98177f.svg",
+									"url": "/good-thinking-archive/assets/thriveldn_logo_new_46bc98177f.svg",
 									"size": 2.59,
 									"formats": null,
 									"hash": "thriveldn_logo_new_46bc98177f",
@@ -664,7 +664,7 @@
 									"width": 179,
 									"height": 15,
 									"mime": "image/svg+xml",
-									"url": "/good-thinking-archives/assets/mayor_of_london_637a4de9c4.svg",
+									"url": "/good-thinking-archive/assets/mayor_of_london_637a4de9c4.svg",
 									"size": 7.16,
 									"formats": null,
 									"hash": "mayor_of_london_637a4de9c4",
@@ -686,12 +686,12 @@
 									"width": 1233,
 									"height": 355,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/ADPH_Logo_9507f2c60f.png",
+									"url": "/good-thinking-archive/assets/ADPH_Logo_9507f2c60f.png",
 									"size": 24.44,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/large_ADPH_Logo_9507f2c60f.png",
 											"hash": "large_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "large_ADPH Logo.png",
@@ -702,7 +702,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/small_ADPH_Logo_9507f2c60f.png",
 											"hash": "small_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "small_ADPH Logo.png",
@@ -713,7 +713,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/medium_ADPH_Logo_9507f2c60f.png",
 											"hash": "medium_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "medium_ADPH Logo.png",
@@ -724,7 +724,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/thumbnail_ADPH_Logo_9507f2c60f.png",
 											"hash": "thumbnail_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "thumbnail_ADPH Logo.png",
@@ -761,12 +761,12 @@
 								"width": 3515,
 								"height": 3516,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Person_using_desktop_computer_23da712bdb.png",
+								"url": "/good-thinking-archive/assets/Person_using_desktop_computer_23da712bdb.png",
 								"size": 445.61,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archive/assets/large_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "large_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "large_Person using desktop computer.png",
@@ -777,7 +777,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archive/assets/small_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "small_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "small_Person using desktop computer.png",
@@ -788,7 +788,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archive/assets/medium_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "medium_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "medium_Person using desktop computer.png",
@@ -799,7 +799,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archive/assets/thumbnail_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "thumbnail_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "thumbnail_Person using desktop computer.png",
@@ -834,12 +834,12 @@
 								"width": 3117,
 								"height": 2536,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+								"url": "/good-thinking-archive/assets/Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 								"size": 439.49,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archive/assets/large_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "large_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "large_Hand holding a tablet showing a Good Thinking page.png",
@@ -850,7 +850,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archive/assets/small_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "small_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "small_Hand holding a tablet showing a Good Thinking page.png",
@@ -861,7 +861,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archive/assets/medium_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "medium_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "medium_Hand holding a tablet showing a Good Thinking page.png",
@@ -872,7 +872,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archive/assets/thumbnail_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "thumbnail_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "thumbnail_Hand holding a tablet showing a Good Thinking page.png",
@@ -907,12 +907,12 @@
 								"width": 4345,
 								"height": 2894,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Person_using_laptop_to_do_self_assessment_60457968d2.png",
+								"url": "/good-thinking-archive/assets/Person_using_laptop_to_do_self_assessment_60457968d2.png",
 								"size": 538.92,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archive/assets/large_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "large_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "large_Person using laptop to do self-assessment.png",
@@ -923,7 +923,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archive/assets/small_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "small_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "small_Person using laptop to do self-assessment.png",
@@ -934,7 +934,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archive/assets/medium_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "medium_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "medium_Person using laptop to do self-assessment.png",
@@ -945,7 +945,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archive/assets/thumbnail_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "thumbnail_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "thumbnail_Person using laptop to do self-assessment.png",
@@ -980,12 +980,12 @@
 								"width": 3515,
 								"height": 3515,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+								"url": "/good-thinking-archive/assets/Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 								"size": 262.22,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archive/assets/large_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "large_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "large_Phone with text boxes coming out from it.png",
@@ -996,7 +996,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archive/assets/small_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "small_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "small_Phone with text boxes coming out from it.png",
@@ -1007,7 +1007,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archive/assets/medium_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "medium_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "medium_Phone with text boxes coming out from it.png",
@@ -1018,7 +1018,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archive/assets/thumbnail_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "thumbnail_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "thumbnail_Phone with text boxes coming out from it.png",
@@ -1064,12 +1064,12 @@
 						"width": 4000,
 						"height": 4000,
 						"mime": "image/png",
-						"url": "/good-thinking-archives/assets/Faith_home_page_aac3fc6171.png",
+						"url": "/good-thinking-archive/assets/Faith_home_page_aac3fc6171.png",
 						"size": 706.3,
 						"formats": {
 							"large": {
 								"ext": ".png",
-								"url": "/good-thinking-archives/assets/large_Faith_home_page_aac3fc6171.png",
+								"url": "/good-thinking-archive/assets/large_Faith_home_page_aac3fc6171.png",
 								"hash": "large_Faith_home_page_aac3fc6171",
 								"mime": "image/png",
 								"name": "large_Faith home page.png",
@@ -1081,7 +1081,7 @@
 							},
 							"small": {
 								"ext": ".png",
-								"url": "/good-thinking-archives/assets/small_Faith_home_page_aac3fc6171.png",
+								"url": "/good-thinking-archive/assets/small_Faith_home_page_aac3fc6171.png",
 								"hash": "small_Faith_home_page_aac3fc6171",
 								"mime": "image/png",
 								"name": "small_Faith home page.png",
@@ -1093,7 +1093,7 @@
 							},
 							"medium": {
 								"ext": ".png",
-								"url": "/good-thinking-archives/assets/medium_Faith_home_page_aac3fc6171.png",
+								"url": "/good-thinking-archive/assets/medium_Faith_home_page_aac3fc6171.png",
 								"hash": "medium_Faith_home_page_aac3fc6171",
 								"mime": "image/png",
 								"name": "medium_Faith home page.png",
@@ -1105,7 +1105,7 @@
 							},
 							"thumbnail": {
 								"ext": ".png",
-								"url": "/good-thinking-archives/assets/thumbnail_Faith_home_page_aac3fc6171.png",
+								"url": "/good-thinking-archive/assets/thumbnail_Faith_home_page_aac3fc6171.png",
 								"hash": "thumbnail_Faith_home_page_aac3fc6171",
 								"mime": "image/png",
 								"name": "thumbnail_Faith home page.png",
@@ -1139,7 +1139,7 @@
 				{
 					"__typename": "ComponentSectionsRichText",
 					"id": "646",
-					"content": "<p><img src=\"/good-thinking-archives/assets/Employees_3a3ec32e6e.png\" alt=\"Employees.png\"></p>",
+					"content": "<p><img src=\"/good-thinking-archive/assets/Employees_3a3ec32e6e.png\" alt=\"Employees.png\"></p>",
 					"columnWidth": "half"
 				},
 				{
@@ -1149,27 +1149,27 @@
 						{
 							"id": "720",
 							"title": "Yemisi Osibote, Head of Workforce – Staff Experience, Royal Free London NHS Foundation Trust",
-							"content": "<p><img src=\"/good-thinking-archives/assets/Yemisi_Osibote_Royal_Free_90de553383.jpg\" alt=\"Yemisi Osibote Royal Free.jpg\"></p><p>Everybody’s mental health matters. We have more than 12,000 members of staff working across around 70 locations in north London, and we are committed to supporting their mental health in any way we can. It doesn’t just benefit them; it means they can continue to provide the very best care for our patients.&nbsp;</p><p>If anyone feels stressed or unhappy, it’s important to talk to someone so they don’t feel alone – and the trust offers a variety of talking therapies which staff can access whenever they need. This includes Care First, which provides a 24/7/365 support line and counselling service. The trust’s occupational health service has qualified clinical psychologists, occupational therapists, nurses, and physicians available to support staff’s emotional and psychological needs. For peer level support, the trust has trained mental health first aiders who assist by listening to staff and signposting them to appropriate services. Monthly managing stress sessions are provided virtually and chaplains of a variety of faiths are also available for spiritual care and support. In addition, one of our physiotherapists runs a staff walking group at the Royal Free Hospital; exercise is a crucial way in which can improve both our physical and mental health. Finally, our flexible working policy helps staff achieve a healthy work-life balance.</p><p>London is a wonderful place to live and it’s a city on the go. From the minute you wake up, you’re on a treadmill. Will the bus or train be on time? Will childcare run smoothly today? It’s important to build a network of supportive peers both at work and outside of work to help you cope with these pressures. Using one’s annual leave regularly to rest and recuperate is vital in achieving good mental health. Stepping away to relax, sleep and exercise helps to reduce stress levels and avoid burning out.</p><p>One of the most important things we do at the trust is to ask our employees what kind of mental health support they need through the national NHS survey. We work with our staff networks and wellbeing champions forum to keep evaluating what works and what doesn’t. For example, our employees wanted staff health and wellbeing days to be held at least three or four times a year. We work with various stakeholders to organise these – and a crucial part of the event are the massages provided to staff, which are funded by the Royal Free Charity. The trust also has an arts therapist who can help staff relieve stress through creativity. Our annual staff awards are aimed boosting staff morale and emphasising how much the trust appreciates and values everyone’s contributions to patient care.</p><p>Self-care is key. We all need to know ourselves, spot signs of poor mental health, understand our stress triggers and seek help. To continuously lower our stress levels, we need to seek out what we enjoy doing to avoid burn out. I like to get out into nature and take long walks whenever I have the opportunity; this helps to lower my stress levels and avoid burn out.&nbsp;&nbsp;</p><p><a href=\"https://www.royalfree.nhs.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Royal Free London NHS Foundation Trust</a></p>"
+							"content": "<p><img src=\"/good-thinking-archive/assets/Yemisi_Osibote_Royal_Free_90de553383.jpg\" alt=\"Yemisi Osibote Royal Free.jpg\"></p><p>Everybody’s mental health matters. We have more than 12,000 members of staff working across around 70 locations in north London, and we are committed to supporting their mental health in any way we can. It doesn’t just benefit them; it means they can continue to provide the very best care for our patients.&nbsp;</p><p>If anyone feels stressed or unhappy, it’s important to talk to someone so they don’t feel alone – and the trust offers a variety of talking therapies which staff can access whenever they need. This includes Care First, which provides a 24/7/365 support line and counselling service. The trust’s occupational health service has qualified clinical psychologists, occupational therapists, nurses, and physicians available to support staff’s emotional and psychological needs. For peer level support, the trust has trained mental health first aiders who assist by listening to staff and signposting them to appropriate services. Monthly managing stress sessions are provided virtually and chaplains of a variety of faiths are also available for spiritual care and support. In addition, one of our physiotherapists runs a staff walking group at the Royal Free Hospital; exercise is a crucial way in which can improve both our physical and mental health. Finally, our flexible working policy helps staff achieve a healthy work-life balance.</p><p>London is a wonderful place to live and it’s a city on the go. From the minute you wake up, you’re on a treadmill. Will the bus or train be on time? Will childcare run smoothly today? It’s important to build a network of supportive peers both at work and outside of work to help you cope with these pressures. Using one’s annual leave regularly to rest and recuperate is vital in achieving good mental health. Stepping away to relax, sleep and exercise helps to reduce stress levels and avoid burning out.</p><p>One of the most important things we do at the trust is to ask our employees what kind of mental health support they need through the national NHS survey. We work with our staff networks and wellbeing champions forum to keep evaluating what works and what doesn’t. For example, our employees wanted staff health and wellbeing days to be held at least three or four times a year. We work with various stakeholders to organise these – and a crucial part of the event are the massages provided to staff, which are funded by the Royal Free Charity. The trust also has an arts therapist who can help staff relieve stress through creativity. Our annual staff awards are aimed boosting staff morale and emphasising how much the trust appreciates and values everyone’s contributions to patient care.</p><p>Self-care is key. We all need to know ourselves, spot signs of poor mental health, understand our stress triggers and seek help. To continuously lower our stress levels, we need to seek out what we enjoy doing to avoid burn out. I like to get out into nature and take long walks whenever I have the opportunity; this helps to lower my stress levels and avoid burn out.&nbsp;&nbsp;</p><p><a href=\"https://www.royalfree.nhs.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Royal Free London NHS Foundation Trust</a></p>"
 						},
 						{
 							"id": "719",
 							"title": "Tom Hagley, Marketing Director & Specialist Mentor ASD, UMO ",
-							"content": "<p><img src=\"/good-thinking-archives/assets/Tom_Hagley_UMO_e2838eb735.jpg\" alt=\"Tom Hagley UMO.jpg\"></p><p>Employers put a lot of focus on productivity but it’s really important that people feel valued and supported at work. If an organisation takes a proactive approach to mental health in the workplace and communicates well, it can make a world of difference.&nbsp;</p><p>For neurodivergent employees, for example, this might mean providing flexible hours and supporting them with routines at work. Employers in London also need to consider how living and working in the capital brings certain pressures – housing is expensive, commutes can be complex and time-consuming, and even though there are millions of people, you can still feel lonely.</p><p>Wellbeing initiatives that I’ve seen working well include flexible schedules, coaching and mentoring for employees (especially young workers and neurodivergent colleagues) and a safe space where staff can speak to someone without fear of judgement. Training in task management and time management can also be helpful for reducing workplace stress.</p><p>Through my own work as a specialist mentor at UMO for people with autism and ADHD, I’ve learned that there’s no substitute for talking things through. Of course, managers and supervisors need to have the right training and resources in place to support their teams.</p><p>The most important thing is to normalise conversations about mental health in the workplace. If you take your employees’ wellbeing seriously and respect them as individuals, they’ll repay you a thousand times over.</p><p><a href=\"https://umo.services/\" rel=\"noopener noreferrer\" target=\"_blank\">Umo Services</a></p>"
+							"content": "<p><img src=\"/good-thinking-archive/assets/Tom_Hagley_UMO_e2838eb735.jpg\" alt=\"Tom Hagley UMO.jpg\"></p><p>Employers put a lot of focus on productivity but it’s really important that people feel valued and supported at work. If an organisation takes a proactive approach to mental health in the workplace and communicates well, it can make a world of difference.&nbsp;</p><p>For neurodivergent employees, for example, this might mean providing flexible hours and supporting them with routines at work. Employers in London also need to consider how living and working in the capital brings certain pressures – housing is expensive, commutes can be complex and time-consuming, and even though there are millions of people, you can still feel lonely.</p><p>Wellbeing initiatives that I’ve seen working well include flexible schedules, coaching and mentoring for employees (especially young workers and neurodivergent colleagues) and a safe space where staff can speak to someone without fear of judgement. Training in task management and time management can also be helpful for reducing workplace stress.</p><p>Through my own work as a specialist mentor at UMO for people with autism and ADHD, I’ve learned that there’s no substitute for talking things through. Of course, managers and supervisors need to have the right training and resources in place to support their teams.</p><p>The most important thing is to normalise conversations about mental health in the workplace. If you take your employees’ wellbeing seriously and respect them as individuals, they’ll repay you a thousand times over.</p><p><a href=\"https://umo.services/\" rel=\"noopener noreferrer\" target=\"_blank\">Umo Services</a></p>"
 						},
 						{
 							"id": "722",
 							"title": "Anna King, Commercial Director, Health Innovation Network (HIN) South London",
-							"content": "<p><img src=\"/good-thinking-archives/assets/Anna_King_Health_Innovation_Network_8b95d7f931.jpg\" alt=\"Anna King Health Innovation Network.jpg\"></p><p>Poor mental health can happen at any stage of life. We want people to stay fit and well and to live happy and fulfilling lives. We also know that mental health conditions are a major reason for sickness and absence from work.</p><p>As an employer in London, you have to be conscious of the challenges your employees face and support them in their wellbeing. For example, hybrid working works for some colleagues, but for others they might experience social isolation if they work from home most of the time. Getting out and about – into work or the community – is generally a good thing.</p><p>At the Health Innovation Network (HIN) South London, we have fantastic volunteer staff wellbeing representatives who spend time working on wellbeing initiatives for colleagues, such as wellbeing walks and other activities. I also work with a Trust in South East London that has a great programme of support for their employees, including additional support for international employees dealing with cultural challenges.</p><p>It can be difficult for employers (especially smaller organisations) to support employees who have different mental wellbeing needs or who might be looking for support for a family member or friend. I’d recommend seeing what’s available online at Good Thinking – there are lots of wellbeing resources, including digital apps and tools like My Possible Self, that you can use.</p><p>Fresh air and sunshine are my favourite ways to boost my own wellbeing. I also enjoy seeing colleagues in person at work – informal conversations can be really helpful to solve problems and keep things in perspective.</p><p><a href=\"https://thehealthinnovationnetwork.co.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">The Health Innovation Network</a></p>"
+							"content": "<p><img src=\"/good-thinking-archive/assets/Anna_King_Health_Innovation_Network_8b95d7f931.jpg\" alt=\"Anna King Health Innovation Network.jpg\"></p><p>Poor mental health can happen at any stage of life. We want people to stay fit and well and to live happy and fulfilling lives. We also know that mental health conditions are a major reason for sickness and absence from work.</p><p>As an employer in London, you have to be conscious of the challenges your employees face and support them in their wellbeing. For example, hybrid working works for some colleagues, but for others they might experience social isolation if they work from home most of the time. Getting out and about – into work or the community – is generally a good thing.</p><p>At the Health Innovation Network (HIN) South London, we have fantastic volunteer staff wellbeing representatives who spend time working on wellbeing initiatives for colleagues, such as wellbeing walks and other activities. I also work with a Trust in South East London that has a great programme of support for their employees, including additional support for international employees dealing with cultural challenges.</p><p>It can be difficult for employers (especially smaller organisations) to support employees who have different mental wellbeing needs or who might be looking for support for a family member or friend. I’d recommend seeing what’s available online at Good Thinking – there are lots of wellbeing resources, including digital apps and tools like My Possible Self, that you can use.</p><p>Fresh air and sunshine are my favourite ways to boost my own wellbeing. I also enjoy seeing colleagues in person at work – informal conversations can be really helpful to solve problems and keep things in perspective.</p><p><a href=\"https://thehealthinnovationnetwork.co.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">The Health Innovation Network</a></p>"
 						},
 						{
 							"id": "721",
 							"title": "Daron Oram, Senior Programme Manager (HIV Charter Mark), National AIDS Trust ",
-							"content": "<p><img src=\"/good-thinking-archives/assets/Daron_Oram_National_AIDS_Trust_2a9e90cb81.jpg\" alt=\"Daron Oram National AIDS Trust.jpg\"></p><p>Mental health has a direct relationship with employee engagement, productivity, loyalty and much more. It affects everyone within an organisation but there might be particular employees that need more support – for example, people from marginalised groups who face stigma and discrimination and people who work in high-pressured or difficult roles.</p><p>People in London can live quite isolated lives so you have to get the balance right with hybrid working. For me, it’s important to come into the office as it’s such a positive environment. Londoners might also struggle with the cost of living and balancing work with caring responsibilities at home.&nbsp;</p><p>Here at the National AIDS Trust, we do core hours at work – having this flexibility gives us more autonomy. I used to work at a mental health charity, which had Wellbeing Wednesday once a month, where you could take the afternoon off to do something good for your wellbeing.</p><p>Employers shouldn’t assume that line managers know how to deal with mental health conditions. They need training and support. And it’s important that high achievers aren’t ignored – they might be struggling even if they don’t seem to be.</p><p>Fortunately, there’s growing awareness of the importance of wellbeing in the workplace. My personal tip if your mental health isn’t too good would be to ask for help as early as possible.</p><p><a href=\"https://www.nat.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">National AIDS Trust</a></p>"
+							"content": "<p><img src=\"/good-thinking-archive/assets/Daron_Oram_National_AIDS_Trust_2a9e90cb81.jpg\" alt=\"Daron Oram National AIDS Trust.jpg\"></p><p>Mental health has a direct relationship with employee engagement, productivity, loyalty and much more. It affects everyone within an organisation but there might be particular employees that need more support – for example, people from marginalised groups who face stigma and discrimination and people who work in high-pressured or difficult roles.</p><p>People in London can live quite isolated lives so you have to get the balance right with hybrid working. For me, it’s important to come into the office as it’s such a positive environment. Londoners might also struggle with the cost of living and balancing work with caring responsibilities at home.&nbsp;</p><p>Here at the National AIDS Trust, we do core hours at work – having this flexibility gives us more autonomy. I used to work at a mental health charity, which had Wellbeing Wednesday once a month, where you could take the afternoon off to do something good for your wellbeing.</p><p>Employers shouldn’t assume that line managers know how to deal with mental health conditions. They need training and support. And it’s important that high achievers aren’t ignored – they might be struggling even if they don’t seem to be.</p><p>Fortunately, there’s growing awareness of the importance of wellbeing in the workplace. My personal tip if your mental health isn’t too good would be to ask for help as early as possible.</p><p><a href=\"https://www.nat.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">National AIDS Trust</a></p>"
 						},
 						{
 							"id": "718",
 							"title": "Jenny Taylor, Project Manager, Transformation Partners in Health and Care",
-							"content": "<p><img src=\"/good-thinking-archives/assets/Jenny_Taylor_TPHC_7dee8780e7.jpg\" alt=\"Jenny Taylor TPHC.jpg\"></p><p>We know that one in four adults in the UK experience poor mental health – it can happen at any age and stage of life and may affect someone in the workplace. With people spending so much time at work, it’s essential that employers encourage open conversations about health and wellbeing.&nbsp;</p><p>My advice to wellbeing leads would be to start small and build up. Make sure you have the right policies and processes in place, train your line managers so they have the skills to support their teams and provide a safe space where people can talk. You should also take advantage of the many free resources available to support people with lowering stress, improving sleep and dealing with other issues.</p><p>Here at Transformation Partners in Health and Care, we have a Wellbeing Matters network that promotes good wellbeing and organises events for colleagues. These include an annual Wellbeing Day, ‘tea and chat' for World Sleep Day, a staff picnic for Inclusion Week and regular wellbeing walks. They are really popular and it’s great to see so many colleagues getting involved. We also include regular tips and wellbeing advice in our employee newsletter.</p><p>One of the ways I prioritise my own mental health is to set clear boundaries at work. I always take a break from my desk at lunchtime (I often go for a walk) and I encourage my team to do the same.</p><p><a href=\"https://www.transformationpartners.nhs.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Transformation Partners in Health and Care</a></p>"
+							"content": "<p><img src=\"/good-thinking-archive/assets/Jenny_Taylor_TPHC_7dee8780e7.jpg\" alt=\"Jenny Taylor TPHC.jpg\"></p><p>We know that one in four adults in the UK experience poor mental health – it can happen at any age and stage of life and may affect someone in the workplace. With people spending so much time at work, it’s essential that employers encourage open conversations about health and wellbeing.&nbsp;</p><p>My advice to wellbeing leads would be to start small and build up. Make sure you have the right policies and processes in place, train your line managers so they have the skills to support their teams and provide a safe space where people can talk. You should also take advantage of the many free resources available to support people with lowering stress, improving sleep and dealing with other issues.</p><p>Here at Transformation Partners in Health and Care, we have a Wellbeing Matters network that promotes good wellbeing and organises events for colleagues. These include an annual Wellbeing Day, ‘tea and chat' for World Sleep Day, a staff picnic for Inclusion Week and regular wellbeing walks. They are really popular and it’s great to see so many colleagues getting involved. We also include regular tips and wellbeing advice in our employee newsletter.</p><p>One of the ways I prioritise my own mental health is to set clear boundaries at work. I always take a break from my desk at lunchtime (I often go for a walk) and I encourage my team to do the same.</p><p><a href=\"https://www.transformationpartners.nhs.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Transformation Partners in Health and Care</a></p>"
 						},
 						{
 							"id": "727",
@@ -1191,13 +1191,13 @@
 				{
 					"__typename": "ComponentSectionsRichText",
 					"id": "649",
-					"content": "<h3><br></h3><p><br></p><h3>Good Thinking resources</h3><ul><li><a href=\"/good-thinking-archives/assets/Good_Thinking_Employers_Toolkit_Oct_2024_ce72478a36.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Employer toolkit</a></li><li><a href=\"https://www.good-thinking.uk/advice/five-ways-good-mental-wellbeing\" rel=\"noopener noreferrer\" target=\"_blank\">Five ways to good mental wellbeing</a></li><li><a href=\"https://www.good-thinking.uk/free-apps-for/apps-adults\" rel=\"noopener noreferrer\" target=\"_blank\">Free NHS-approved wellbeing apps</a></li><li><a href=\"/good-thinking-archives/assets/Looking_out_for_friends_and_colleagues_at_work_guide_c6ee3e3d3e.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Looking out for friends and colleagues at work</a></li><li><a href=\"https://good-thinking.s3.amazonaws.com/documents/JC0423_GT_Mental_Health_and_Me_v4_1.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Mental health and me</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities\" rel=\"noopener noreferrer\" target=\"_blank\">Mental health resources for faith and belief communities</a></li></ul>",
+					"content": "<h3><br></h3><p><br></p><h3>Good Thinking resources</h3><ul><li><a href=\"/good-thinking-archive/assets/Good_Thinking_Employers_Toolkit_Oct_2024_ce72478a36.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Employer toolkit</a></li><li><a href=\"https://www.good-thinking.uk/advice/five-ways-good-mental-wellbeing\" rel=\"noopener noreferrer\" target=\"_blank\">Five ways to good mental wellbeing</a></li><li><a href=\"https://www.good-thinking.uk/free-apps-for/apps-adults\" rel=\"noopener noreferrer\" target=\"_blank\">Free NHS-approved wellbeing apps</a></li><li><a href=\"/good-thinking-archive/assets/Looking_out_for_friends_and_colleagues_at_work_guide_c6ee3e3d3e.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Looking out for friends and colleagues at work</a></li><li><a href=\"https://good-thinking.s3.amazonaws.com/documents/JC0423_GT_Mental_Health_and_Me_v4_1.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Mental health and me</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities\" rel=\"noopener noreferrer\" target=\"_blank\">Mental health resources for faith and belief communities</a></li></ul>",
 					"columnWidth": "half"
 				},
 				{
 					"__typename": "ComponentSectionsRichText",
 					"id": "650",
-					"content": "<p><img src=\"/good-thinking-archives/assets/Hand_holding_a_tablet_showing_a_Good_Thinking_page_cbee2e2023.png\" alt=\"Hand holding a tablet showing a Good Thinking page.png\"></p>",
+					"content": "<p><img src=\"/good-thinking-archive/assets/Hand_holding_a_tablet_showing_a_Good_Thinking_page_cbee2e2023.png\" alt=\"Hand holding a tablet showing a Good Thinking page.png\"></p>",
 					"columnWidth": "half"
 				}
 			]

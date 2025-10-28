@@ -10,7 +10,7 @@
 						"width": null,
 						"height": null,
 						"mime": "image/x-icon",
-						"url": "/good-thinking-archives/assets/favicon_18540578c9.ico",
+						"url": "/good-thinking-archive/assets/favicon_18540578c9.ico",
 						"size": 15.41,
 						"formats": null,
 						"hash": "favicon_18540578c9",
@@ -32,12 +32,12 @@
 							"width": 1772,
 							"height": 1000,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/OG_Image_a7bd58e917.png",
+							"url": "/good-thinking-archive/assets/OG_Image_a7bd58e917.png",
 							"size": 140.96,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/large_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/large_OG_Image_a7bd58e917.png",
 									"hash": "large_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "large_OG Image.png",
@@ -48,7 +48,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/small_OG_Image_a7bd58e917.png",
 									"hash": "small_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "small_OG Image.png",
@@ -59,7 +59,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/medium_OG_Image_a7bd58e917.png",
 									"hash": "medium_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "medium_OG Image.png",
@@ -70,7 +70,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/thumbnail_OG_Image_a7bd58e917.png",
 									"hash": "thumbnail_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "thumbnail_OG Image.png",
@@ -98,12 +98,12 @@
 							"width": 784,
 							"height": 310,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/good_thinking_logo_7c3c6f2edf.png",
+							"url": "/good-thinking-archive/assets/good_thinking_logo_7c3c6f2edf.png",
 							"size": 19.88,
 							"formats": {
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archive/assets/small_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "small_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "small_good-thinking-logo.png",
@@ -114,7 +114,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archive/assets/medium_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "medium_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "medium_good-thinking-logo.png",
@@ -125,7 +125,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archive/assets/thumbnail_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "thumbnail_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "thumbnail_good-thinking-logo.png",
@@ -322,12 +322,12 @@
 							"width": 1440,
 							"height": 618,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+							"url": "/good-thinking-archive/assets/Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 							"size": 13.62,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "large_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -338,7 +338,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "small_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -349,7 +349,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "medium_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -360,7 +360,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "thumbnail_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -508,12 +508,12 @@
 									"width": 2979,
 									"height": 822,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+									"url": "/good-thinking-archive/assets/TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 									"size": 28.57,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "large_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -524,7 +524,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "small_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -535,7 +535,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "medium_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -546,7 +546,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "thumbnail_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -575,12 +575,12 @@
 									"width": 1200,
 									"height": 576,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/London_Councils_logo_b7a368c43d.png",
+									"url": "/good-thinking-archive/assets/London_Councils_logo_b7a368c43d.png",
 									"size": 17.25,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/large_London_Councils_logo_b7a368c43d.png",
 											"hash": "large_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "large_London_Councils_logo.png",
@@ -591,7 +591,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/small_London_Councils_logo_b7a368c43d.png",
 											"hash": "small_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "small_London_Councils_logo.png",
@@ -602,7 +602,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/medium_London_Councils_logo_b7a368c43d.png",
 											"hash": "medium_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "medium_London_Councils_logo.png",
@@ -613,7 +613,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/thumbnail_London_Councils_logo_b7a368c43d.png",
 											"hash": "thumbnail_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "thumbnail_London_Councils_logo.png",
@@ -642,7 +642,7 @@
 									"width": 164,
 									"height": 28,
 									"mime": "image/svg+xml",
-									"url": "/good-thinking-archives/assets/thriveldn_logo_new_46bc98177f.svg",
+									"url": "/good-thinking-archive/assets/thriveldn_logo_new_46bc98177f.svg",
 									"size": 2.59,
 									"formats": null,
 									"hash": "thriveldn_logo_new_46bc98177f",
@@ -664,7 +664,7 @@
 									"width": 179,
 									"height": 15,
 									"mime": "image/svg+xml",
-									"url": "/good-thinking-archives/assets/mayor_of_london_637a4de9c4.svg",
+									"url": "/good-thinking-archive/assets/mayor_of_london_637a4de9c4.svg",
 									"size": 7.16,
 									"formats": null,
 									"hash": "mayor_of_london_637a4de9c4",
@@ -686,12 +686,12 @@
 									"width": 1233,
 									"height": 355,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/ADPH_Logo_9507f2c60f.png",
+									"url": "/good-thinking-archive/assets/ADPH_Logo_9507f2c60f.png",
 									"size": 24.44,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/large_ADPH_Logo_9507f2c60f.png",
 											"hash": "large_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "large_ADPH Logo.png",
@@ -702,7 +702,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/small_ADPH_Logo_9507f2c60f.png",
 											"hash": "small_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "small_ADPH Logo.png",
@@ -713,7 +713,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/medium_ADPH_Logo_9507f2c60f.png",
 											"hash": "medium_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "medium_ADPH Logo.png",
@@ -724,7 +724,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/thumbnail_ADPH_Logo_9507f2c60f.png",
 											"hash": "thumbnail_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "thumbnail_ADPH Logo.png",
@@ -761,12 +761,12 @@
 								"width": 3515,
 								"height": 3516,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Person_using_desktop_computer_23da712bdb.png",
+								"url": "/good-thinking-archive/assets/Person_using_desktop_computer_23da712bdb.png",
 								"size": 445.61,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archive/assets/large_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "large_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "large_Person using desktop computer.png",
@@ -777,7 +777,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archive/assets/small_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "small_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "small_Person using desktop computer.png",
@@ -788,7 +788,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archive/assets/medium_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "medium_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "medium_Person using desktop computer.png",
@@ -799,7 +799,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archive/assets/thumbnail_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "thumbnail_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "thumbnail_Person using desktop computer.png",
@@ -834,12 +834,12 @@
 								"width": 3117,
 								"height": 2536,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+								"url": "/good-thinking-archive/assets/Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 								"size": 439.49,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archive/assets/large_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "large_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "large_Hand holding a tablet showing a Good Thinking page.png",
@@ -850,7 +850,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archive/assets/small_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "small_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "small_Hand holding a tablet showing a Good Thinking page.png",
@@ -861,7 +861,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archive/assets/medium_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "medium_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "medium_Hand holding a tablet showing a Good Thinking page.png",
@@ -872,7 +872,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archive/assets/thumbnail_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "thumbnail_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "thumbnail_Hand holding a tablet showing a Good Thinking page.png",
@@ -907,12 +907,12 @@
 								"width": 4345,
 								"height": 2894,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Person_using_laptop_to_do_self_assessment_60457968d2.png",
+								"url": "/good-thinking-archive/assets/Person_using_laptop_to_do_self_assessment_60457968d2.png",
 								"size": 538.92,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archive/assets/large_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "large_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "large_Person using laptop to do self-assessment.png",
@@ -923,7 +923,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archive/assets/small_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "small_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "small_Person using laptop to do self-assessment.png",
@@ -934,7 +934,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archive/assets/medium_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "medium_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "medium_Person using laptop to do self-assessment.png",
@@ -945,7 +945,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archive/assets/thumbnail_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "thumbnail_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "thumbnail_Person using laptop to do self-assessment.png",
@@ -980,12 +980,12 @@
 								"width": 3515,
 								"height": 3515,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+								"url": "/good-thinking-archive/assets/Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 								"size": 262.22,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archive/assets/large_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "large_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "large_Phone with text boxes coming out from it.png",
@@ -996,7 +996,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archive/assets/small_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "small_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "small_Phone with text boxes coming out from it.png",
@@ -1007,7 +1007,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archive/assets/medium_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "medium_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "medium_Phone with text boxes coming out from it.png",
@@ -1018,7 +1018,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archive/assets/thumbnail_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "thumbnail_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "thumbnail_Phone with text boxes coming out from it.png",
@@ -1062,7 +1062,7 @@
 				{
 					"__typename": "ComponentSectionsRichText",
 					"id": "382",
-					"content": "<p>How can we make mental health and wellbeing a global priority for everyone? That is the theme of this year’s World Mental Health Day, which the Good Thinking team supports wholeheartedly. On the 10th of October, we’re delighted to be joining Thrive LDN, the Mayor of London and other organisations for Access All Areas, a free World Mental Health Day festival created by young Londoners for young Londoners at City Hall.</p><p><br></p><p class=\"ql-align-center\"><strong>“By incorporating people’s beliefs and values into NHS guidance not only makes it more relatable and useful… It gives us a sense of belonging in an inclusive Britain.” </strong>Dr Imrana Siddiqui, GP and Clinical Lead for Mental Health, NEL CCG</p><p class=\"ql-align-center\"><br></p><p>The NHS is working hard to put mental health on an equal footing with physical health and, here at Good Thinking, we’re supporting Londoners by providing a free 24/7 digital mental wellbeing service. Over the last five years, we have spoken to many Londoners (e.g. through our Digital Health Ambassadors programme and other user research) to better understand their needs, tailor our content and reach people where they are looking for support (e.g. on social media and in community groups).</p><p><br></p><p class=\"ql-align-center\"><strong>“I prefer to use self-help tools because I think you have more freedom of choice to explore what is out there and make your own decisions.”</strong> Participant in Good Thinking user research&nbsp;</p><p class=\"ql-align-center\"><br></p><p>Recognising that there is no ‘one size fits all’ solution when it comes to mental health, our website contains resources:</p><ul><li>For a broad range of audiences, including <a href=\"https://www.good-thinking.uk/parents-and-carers\" rel=\"noopener noreferrer\" target=\"_blank\">parents and carers</a>, <a href=\"https://www.good-thinking.uk/youngpeople/\" rel=\"noopener noreferrer\" target=\"_blank\">young people</a> and <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/\" rel=\"noopener noreferrer\" target=\"_blank\">faith communities</a></li><li>To address the most common mental health concerns, including <a href=\"https://www.good-thinking.uk/anxiety/\" rel=\"noopener noreferrer\" target=\"_blank\">anxiety</a>, <a href=\"https://www.good-thinking.uk/low-mood/\" rel=\"noopener noreferrer\" target=\"_blank\">low mood</a>, <a href=\"https://www.good-thinking.uk/stress/\" rel=\"noopener noreferrer\" target=\"_blank\">stress</a> and <a href=\"https://www.good-thinking.uk/sleep/\" rel=\"noopener noreferrer\" target=\"_blank\">sleep problems</a></li><li>In different formats, including <a href=\"https://www.good-thinking.uk/free-apps-for/\" rel=\"noopener noreferrer\" target=\"_blank\">apps</a>, <a href=\"https://www.good-thinking.uk/how-guides/\" rel=\"noopener noreferrer\" target=\"_blank\">guides</a>, <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/\" rel=\"noopener noreferrer\" target=\"_blank\">podcasts</a>, <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/\" rel=\"noopener noreferrer\" target=\"_blank\">videos</a> and <a href=\"https://www.good-thinking.uk/workbooks/\" rel=\"noopener noreferrer\" target=\"_blank\">workbooks</a></li></ul><p>We also work closely with digital inclusion experts, such as the London Office of Technology and Innovation (LOTI), to better understand digital inequalities and ensure that as many Londoners as possible can access our free wellbeing apps and other online resources.</p><p><br></p><p class=\"ql-align-center\"><strong>“There’s always hope… it’s really important that we are able to challenge people’s misconceptions around mental health conditions.”</strong>Juliette Burton, member of The Speakers Collective</p><p class=\"ql-align-center\"><br></p><p>One in four adults in the UK experience mental ill health and it is often more prevalent in the communities facing the most inequalities. With the COVID-19 pandemic having disproportionately affected ethnic minority groups and a number of research studies associating religion and spirituality with better mental health, in 2021, the Good Thinking team developed a range of culturally competent mental health resources.</p><p>We worked with faith leaders, local councils, health professionals, voluntary organisations and local residents to co-create the resources, which include ‘Five ways to good mental wellbeing’ guides for the following faiths:&nbsp;</p><ul><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/buddhism/\" rel=\"noopener noreferrer\" target=\"_blank\">Buddhism</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/christianity/\" rel=\"noopener noreferrer\" target=\"_blank\">Christianity</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/hinduism/\" rel=\"noopener noreferrer\" target=\"_blank\">Hinduism</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/islam/\" rel=\"noopener noreferrer\" target=\"_blank\">Islam</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/judaism/\" rel=\"noopener noreferrer\" target=\"_blank\">Judaism</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/rastafari/\" rel=\"noopener noreferrer\" target=\"_blank\">Rastafari</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/sikhi/\" rel=\"noopener noreferrer\" target=\"_blank\">Sikhi</a></li></ul><p><br></p><p class=\"ql-align-center\"><strong>“Good Thinking gives us some very important tools that we can use to manage our mental wellbeing, while engaging with our faith-based traditions.” </strong>Muhammad Uddin, Newham Muslim Forum</p><p><br></p><p>As we adapt to living with COVID-19, other events such as the cost of living crisis and the war in Ukraine are putting a strain on Londoners’ mental health, so it’s more important than ever to reach out for help. Good Thinking is here to support you on your path to good mental wellbeing – not just on World Mental Health Day but every day.</p><p>&nbsp;Learn more about <a href=\"https://www.mentalhealth.org.uk/our-work/public-engagement/world-mental-health-day\" rel=\"noopener noreferrer\" target=\"_blank\">World Mental Health Day</a> and the <a href=\"https://thriveldn.co.uk/campaigns/access-all-areas/\" rel=\"noopener noreferrer\" target=\"_blank\">Access All Areas festival</a> for young Londoners on 10 October. You can also follow #WorldMentalHealthDay on social media and share your messages of hope at <a href=\"https://www.instagram.com/messagesof.hope\" rel=\"noopener noreferrer\" target=\"_blank\">@messagesof.hope</a> on Instagram.</p><p><br></p><h2>Good Thinking resources</h2><ul><li><a href=\"https://www.good-thinking.uk/bereavement/\" rel=\"noopener noreferrer\" target=\"_blank\">Faith-based bereavement resources</a></li><li><a href=\"/good-thinking-archives/assets/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">‘Five ways to wellbeing for children and young people’ posters</a></li><li><a href=\"https://www.good-thinking.uk/apps/\" rel=\"noopener noreferrer\" target=\"_blank\">Free NHS-approved wellbeing apps for adults, including Be Mindful and tomo</a></li><li><a href=\"https://www.good-thinking.uk/free-apps-young-people/\" rel=\"noopener noreferrer\" target=\"_blank\">Free NHS-approved wellbeing apps for young people, including Clear Fear and Student Health App</a></li><li><a href=\"/good-thinking-archives/assets/JC_0423_GT_Mental_Health_and_Me_v4_1_6edfce37dd.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">‘Mental health and me' guide</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/\" rel=\"noopener noreferrer\" target=\"_blank\">Mental wellbeing guides for faith and belief communities</a></li><li><a href=\"https://www.good-thinking.uk/podcasts-videos-webinars\" rel=\"noopener noreferrer\" target=\"_blank\">Podcast interviews with a range of organisations, including Christians Against Poverty, The Muslim Youth Helpline and The Student Room</a></li><li>&nbsp;<a href=\"https://www.good-thinking.uk/coronavirus/speakers-collective-series/\" rel=\"noopener noreferrer\" target=\"_blank\">The Speakers Collective mini-series (videos about how COVID-19 affected people with lived experience of mental health)</a></li></ul>",
+					"content": "<p>How can we make mental health and wellbeing a global priority for everyone? That is the theme of this year’s World Mental Health Day, which the Good Thinking team supports wholeheartedly. On the 10th of October, we’re delighted to be joining Thrive LDN, the Mayor of London and other organisations for Access All Areas, a free World Mental Health Day festival created by young Londoners for young Londoners at City Hall.</p><p><br></p><p class=\"ql-align-center\"><strong>“By incorporating people’s beliefs and values into NHS guidance not only makes it more relatable and useful… It gives us a sense of belonging in an inclusive Britain.” </strong>Dr Imrana Siddiqui, GP and Clinical Lead for Mental Health, NEL CCG</p><p class=\"ql-align-center\"><br></p><p>The NHS is working hard to put mental health on an equal footing with physical health and, here at Good Thinking, we’re supporting Londoners by providing a free 24/7 digital mental wellbeing service. Over the last five years, we have spoken to many Londoners (e.g. through our Digital Health Ambassadors programme and other user research) to better understand their needs, tailor our content and reach people where they are looking for support (e.g. on social media and in community groups).</p><p><br></p><p class=\"ql-align-center\"><strong>“I prefer to use self-help tools because I think you have more freedom of choice to explore what is out there and make your own decisions.”</strong> Participant in Good Thinking user research&nbsp;</p><p class=\"ql-align-center\"><br></p><p>Recognising that there is no ‘one size fits all’ solution when it comes to mental health, our website contains resources:</p><ul><li>For a broad range of audiences, including <a href=\"https://www.good-thinking.uk/parents-and-carers\" rel=\"noopener noreferrer\" target=\"_blank\">parents and carers</a>, <a href=\"https://www.good-thinking.uk/youngpeople/\" rel=\"noopener noreferrer\" target=\"_blank\">young people</a> and <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/\" rel=\"noopener noreferrer\" target=\"_blank\">faith communities</a></li><li>To address the most common mental health concerns, including <a href=\"https://www.good-thinking.uk/anxiety/\" rel=\"noopener noreferrer\" target=\"_blank\">anxiety</a>, <a href=\"https://www.good-thinking.uk/low-mood/\" rel=\"noopener noreferrer\" target=\"_blank\">low mood</a>, <a href=\"https://www.good-thinking.uk/stress/\" rel=\"noopener noreferrer\" target=\"_blank\">stress</a> and <a href=\"https://www.good-thinking.uk/sleep/\" rel=\"noopener noreferrer\" target=\"_blank\">sleep problems</a></li><li>In different formats, including <a href=\"https://www.good-thinking.uk/free-apps-for/\" rel=\"noopener noreferrer\" target=\"_blank\">apps</a>, <a href=\"https://www.good-thinking.uk/how-guides/\" rel=\"noopener noreferrer\" target=\"_blank\">guides</a>, <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/\" rel=\"noopener noreferrer\" target=\"_blank\">podcasts</a>, <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/\" rel=\"noopener noreferrer\" target=\"_blank\">videos</a> and <a href=\"https://www.good-thinking.uk/workbooks/\" rel=\"noopener noreferrer\" target=\"_blank\">workbooks</a></li></ul><p>We also work closely with digital inclusion experts, such as the London Office of Technology and Innovation (LOTI), to better understand digital inequalities and ensure that as many Londoners as possible can access our free wellbeing apps and other online resources.</p><p><br></p><p class=\"ql-align-center\"><strong>“There’s always hope… it’s really important that we are able to challenge people’s misconceptions around mental health conditions.”</strong>Juliette Burton, member of The Speakers Collective</p><p class=\"ql-align-center\"><br></p><p>One in four adults in the UK experience mental ill health and it is often more prevalent in the communities facing the most inequalities. With the COVID-19 pandemic having disproportionately affected ethnic minority groups and a number of research studies associating religion and spirituality with better mental health, in 2021, the Good Thinking team developed a range of culturally competent mental health resources.</p><p>We worked with faith leaders, local councils, health professionals, voluntary organisations and local residents to co-create the resources, which include ‘Five ways to good mental wellbeing’ guides for the following faiths:&nbsp;</p><ul><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/buddhism/\" rel=\"noopener noreferrer\" target=\"_blank\">Buddhism</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/christianity/\" rel=\"noopener noreferrer\" target=\"_blank\">Christianity</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/hinduism/\" rel=\"noopener noreferrer\" target=\"_blank\">Hinduism</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/islam/\" rel=\"noopener noreferrer\" target=\"_blank\">Islam</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/judaism/\" rel=\"noopener noreferrer\" target=\"_blank\">Judaism</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/rastafari/\" rel=\"noopener noreferrer\" target=\"_blank\">Rastafari</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/sikhi/\" rel=\"noopener noreferrer\" target=\"_blank\">Sikhi</a></li></ul><p><br></p><p class=\"ql-align-center\"><strong>“Good Thinking gives us some very important tools that we can use to manage our mental wellbeing, while engaging with our faith-based traditions.” </strong>Muhammad Uddin, Newham Muslim Forum</p><p><br></p><p>As we adapt to living with COVID-19, other events such as the cost of living crisis and the war in Ukraine are putting a strain on Londoners’ mental health, so it’s more important than ever to reach out for help. Good Thinking is here to support you on your path to good mental wellbeing – not just on World Mental Health Day but every day.</p><p>&nbsp;Learn more about <a href=\"https://www.mentalhealth.org.uk/our-work/public-engagement/world-mental-health-day\" rel=\"noopener noreferrer\" target=\"_blank\">World Mental Health Day</a> and the <a href=\"https://thriveldn.co.uk/campaigns/access-all-areas/\" rel=\"noopener noreferrer\" target=\"_blank\">Access All Areas festival</a> for young Londoners on 10 October. You can also follow #WorldMentalHealthDay on social media and share your messages of hope at <a href=\"https://www.instagram.com/messagesof.hope\" rel=\"noopener noreferrer\" target=\"_blank\">@messagesof.hope</a> on Instagram.</p><p><br></p><h2>Good Thinking resources</h2><ul><li><a href=\"https://www.good-thinking.uk/bereavement/\" rel=\"noopener noreferrer\" target=\"_blank\">Faith-based bereavement resources</a></li><li><a href=\"/good-thinking-archive/assets/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">‘Five ways to wellbeing for children and young people’ posters</a></li><li><a href=\"https://www.good-thinking.uk/apps/\" rel=\"noopener noreferrer\" target=\"_blank\">Free NHS-approved wellbeing apps for adults, including Be Mindful and tomo</a></li><li><a href=\"https://www.good-thinking.uk/free-apps-young-people/\" rel=\"noopener noreferrer\" target=\"_blank\">Free NHS-approved wellbeing apps for young people, including Clear Fear and Student Health App</a></li><li><a href=\"/good-thinking-archive/assets/JC_0423_GT_Mental_Health_and_Me_v4_1_6edfce37dd.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">‘Mental health and me' guide</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/\" rel=\"noopener noreferrer\" target=\"_blank\">Mental wellbeing guides for faith and belief communities</a></li><li><a href=\"https://www.good-thinking.uk/podcasts-videos-webinars\" rel=\"noopener noreferrer\" target=\"_blank\">Podcast interviews with a range of organisations, including Christians Against Poverty, The Muslim Youth Helpline and The Student Room</a></li><li>&nbsp;<a href=\"https://www.good-thinking.uk/coronavirus/speakers-collective-series/\" rel=\"noopener noreferrer\" target=\"_blank\">The Speakers Collective mini-series (videos about how COVID-19 affected people with lived experience of mental health)</a></li></ul>",
 					"columnWidth": "full"
 				}
 			]

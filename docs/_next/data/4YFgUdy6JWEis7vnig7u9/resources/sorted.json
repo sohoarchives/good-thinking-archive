@@ -10,7 +10,7 @@
 						"width": null,
 						"height": null,
 						"mime": "image/x-icon",
-						"url": "/good-thinking-archives/assets/favicon_18540578c9.ico",
+						"url": "/good-thinking-archive/assets/favicon_18540578c9.ico",
 						"size": 15.41,
 						"formats": null,
 						"hash": "favicon_18540578c9",
@@ -32,12 +32,12 @@
 							"width": 1772,
 							"height": 1000,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/OG_Image_a7bd58e917.png",
+							"url": "/good-thinking-archive/assets/OG_Image_a7bd58e917.png",
 							"size": 140.96,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/large_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/large_OG_Image_a7bd58e917.png",
 									"hash": "large_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "large_OG Image.png",
@@ -48,7 +48,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/small_OG_Image_a7bd58e917.png",
 									"hash": "small_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "small_OG Image.png",
@@ -59,7 +59,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/medium_OG_Image_a7bd58e917.png",
 									"hash": "medium_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "medium_OG Image.png",
@@ -70,7 +70,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/thumbnail_OG_Image_a7bd58e917.png",
 									"hash": "thumbnail_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "thumbnail_OG Image.png",
@@ -98,12 +98,12 @@
 							"width": 784,
 							"height": 310,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/good_thinking_logo_7c3c6f2edf.png",
+							"url": "/good-thinking-archive/assets/good_thinking_logo_7c3c6f2edf.png",
 							"size": 19.88,
 							"formats": {
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archive/assets/small_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "small_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "small_good-thinking-logo.png",
@@ -114,7 +114,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archive/assets/medium_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "medium_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "medium_good-thinking-logo.png",
@@ -125,7 +125,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archive/assets/thumbnail_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "thumbnail_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "thumbnail_good-thinking-logo.png",
@@ -322,12 +322,12 @@
 							"width": 1440,
 							"height": 618,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+							"url": "/good-thinking-archive/assets/Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 							"size": 13.62,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "large_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -338,7 +338,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "small_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -349,7 +349,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "medium_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -360,7 +360,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "thumbnail_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -508,12 +508,12 @@
 									"width": 2979,
 									"height": 822,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+									"url": "/good-thinking-archive/assets/TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 									"size": 28.57,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "large_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -524,7 +524,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "small_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -535,7 +535,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "medium_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -546,7 +546,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "thumbnail_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -575,12 +575,12 @@
 									"width": 1200,
 									"height": 576,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/London_Councils_logo_b7a368c43d.png",
+									"url": "/good-thinking-archive/assets/London_Councils_logo_b7a368c43d.png",
 									"size": 17.25,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/large_London_Councils_logo_b7a368c43d.png",
 											"hash": "large_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "large_London_Councils_logo.png",
@@ -591,7 +591,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/small_London_Councils_logo_b7a368c43d.png",
 											"hash": "small_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "small_London_Councils_logo.png",
@@ -602,7 +602,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/medium_London_Councils_logo_b7a368c43d.png",
 											"hash": "medium_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "medium_London_Councils_logo.png",
@@ -613,7 +613,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/thumbnail_London_Councils_logo_b7a368c43d.png",
 											"hash": "thumbnail_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "thumbnail_London_Councils_logo.png",
@@ -642,7 +642,7 @@
 									"width": 164,
 									"height": 28,
 									"mime": "image/svg+xml",
-									"url": "/good-thinking-archives/assets/thriveldn_logo_new_46bc98177f.svg",
+									"url": "/good-thinking-archive/assets/thriveldn_logo_new_46bc98177f.svg",
 									"size": 2.59,
 									"formats": null,
 									"hash": "thriveldn_logo_new_46bc98177f",
@@ -664,7 +664,7 @@
 									"width": 179,
 									"height": 15,
 									"mime": "image/svg+xml",
-									"url": "/good-thinking-archives/assets/mayor_of_london_637a4de9c4.svg",
+									"url": "/good-thinking-archive/assets/mayor_of_london_637a4de9c4.svg",
 									"size": 7.16,
 									"formats": null,
 									"hash": "mayor_of_london_637a4de9c4",
@@ -686,12 +686,12 @@
 									"width": 1233,
 									"height": 355,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/ADPH_Logo_9507f2c60f.png",
+									"url": "/good-thinking-archive/assets/ADPH_Logo_9507f2c60f.png",
 									"size": 24.44,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/large_ADPH_Logo_9507f2c60f.png",
 											"hash": "large_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "large_ADPH Logo.png",
@@ -702,7 +702,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/small_ADPH_Logo_9507f2c60f.png",
 											"hash": "small_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "small_ADPH Logo.png",
@@ -713,7 +713,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/medium_ADPH_Logo_9507f2c60f.png",
 											"hash": "medium_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "medium_ADPH Logo.png",
@@ -724,7 +724,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/thumbnail_ADPH_Logo_9507f2c60f.png",
 											"hash": "thumbnail_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "thumbnail_ADPH Logo.png",
@@ -759,12 +759,12 @@
 					"width": 1368,
 					"height": 1149,
 					"mime": "image/png",
-					"url": "/good-thinking-archives/assets/a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78.png",
+					"url": "/good-thinking-archive/assets/a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78.png",
 					"size": 33.4,
 					"formats": {
 						"large": {
 							"ext": ".png",
-							"url": "/good-thinking-archives/assets/large_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78.png",
+							"url": "/good-thinking-archive/assets/large_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78.png",
 							"hash": "large_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78",
 							"mime": "image/png",
 							"name": "large_a3e08053-1f07-4966-a6c6-c2aa5e0471ef.png",
@@ -775,7 +775,7 @@
 						},
 						"small": {
 							"ext": ".png",
-							"url": "/good-thinking-archives/assets/small_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78.png",
+							"url": "/good-thinking-archive/assets/small_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78.png",
 							"hash": "small_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78",
 							"mime": "image/png",
 							"name": "small_a3e08053-1f07-4966-a6c6-c2aa5e0471ef.png",
@@ -786,7 +786,7 @@
 						},
 						"medium": {
 							"ext": ".png",
-							"url": "/good-thinking-archives/assets/medium_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78.png",
+							"url": "/good-thinking-archive/assets/medium_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78.png",
 							"hash": "medium_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78",
 							"mime": "image/png",
 							"name": "medium_a3e08053-1f07-4966-a6c6-c2aa5e0471ef.png",
@@ -797,7 +797,7 @@
 						},
 						"thumbnail": {
 							"ext": ".png",
-							"url": "/good-thinking-archives/assets/thumbnail_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78.png",
+							"url": "/good-thinking-archive/assets/thumbnail_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78.png",
 							"hash": "thumbnail_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78",
 							"mime": "image/png",
 							"name": "thumbnail_a3e08053-1f07-4966-a6c6-c2aa5e0471ef.png",
@@ -814,7 +814,7 @@
 			}
 		},
 		"updatedAt": "2024-09-19T15:47:49.367Z",
-		"mainCopy": "<p>The Sorted app contains the audio programme Feeling Good for Life which has been used in the NHS for over 12 years and is scientifically proven to help recovery from stress, anxiety and depression.</p><p>It works through a process of firstly learning to let go of your negative self-talk, which happens when you relax your body and mind, and then connecting to positive feelings. It is very easy to use - just listen for 15 mins a day. Most people say they quickly begin to feel better and it also helps improve sleep.</p><p><img src=\"/good-thinking-archives/assets/Insitchu_1_61dab19dd3.jpg\" alt=\"Insitchu 1 .jpg\"></p><h3><strong>How could it help me?</strong></h3><p>The audio tracks in the Sorted app help you to build essential skills – not only to deal with mental stresses and strains but to bounce forwards and become mentally stronger and more resilient.</p><p>The programmes combine deep relaxation with Olympic sports techniques that calm your mind and body and lift your mood, helping you to feel more positive, let go of worries, sleep better and deal with stress more easily. You can listen as much or as little as you like - listen to suit yourself.</p><h3><strong>Who is it for?</strong></h3><p>The Sorted app is used by all types of people - whether patients, staff or self-referred.</p><p>In order to make the app more inclusive, it is available in a variety of languages including English, Welsh, Polish and Ukrainian as well as Punjabi and Japanese upon special request.</p><p><strong><em>We are currently looking for testers for both the Punjabi and Japanese languages</em></strong> in order to ensure that the tracks are accurate and culturally appropriate within these communities. If you would like to help out, please email <u>charlotte@fpmh.org.uk</u>.</p><h3><strong>Where can I get it?</strong></h3><p>Good Thinking users can access the Sorted app for free (it usually costs £24.99). Use the referral code below or scan the QR code to automatically download the app:</p><p>Username: metrofeel</p><p>Password: positive</p><p><img src=\"/good-thinking-archives/assets/Feeling_Good_QR_Download_Code_Feb_2023_3df2c814fe.png\" alt=\"QR code to download Feeling Good app for free\"></p>",
+		"mainCopy": "<p>The Sorted app contains the audio programme Feeling Good for Life which has been used in the NHS for over 12 years and is scientifically proven to help recovery from stress, anxiety and depression.</p><p>It works through a process of firstly learning to let go of your negative self-talk, which happens when you relax your body and mind, and then connecting to positive feelings. It is very easy to use - just listen for 15 mins a day. Most people say they quickly begin to feel better and it also helps improve sleep.</p><p><img src=\"/good-thinking-archive/assets/Insitchu_1_61dab19dd3.jpg\" alt=\"Insitchu 1 .jpg\"></p><h3><strong>How could it help me?</strong></h3><p>The audio tracks in the Sorted app help you to build essential skills – not only to deal with mental stresses and strains but to bounce forwards and become mentally stronger and more resilient.</p><p>The programmes combine deep relaxation with Olympic sports techniques that calm your mind and body and lift your mood, helping you to feel more positive, let go of worries, sleep better and deal with stress more easily. You can listen as much or as little as you like - listen to suit yourself.</p><h3><strong>Who is it for?</strong></h3><p>The Sorted app is used by all types of people - whether patients, staff or self-referred.</p><p>In order to make the app more inclusive, it is available in a variety of languages including English, Welsh, Polish and Ukrainian as well as Punjabi and Japanese upon special request.</p><p><strong><em>We are currently looking for testers for both the Punjabi and Japanese languages</em></strong> in order to ensure that the tracks are accurate and culturally appropriate within these communities. If you would like to help out, please email <u>charlotte@fpmh.org.uk</u>.</p><h3><strong>Where can I get it?</strong></h3><p>Good Thinking users can access the Sorted app for free (it usually costs £24.99). Use the referral code below or scan the QR code to automatically download the app:</p><p>Username: metrofeel</p><p>Password: positive</p><p><img src=\"/good-thinking-archive/assets/Feeling_Good_QR_Download_Code_Feb_2023_3df2c814fe.png\" alt=\"QR code to download Feeling Good app for free\"></p>",
 		"metadata": {
 			"id": "671",
 			"description": "The Sorted app offers audio tracks clinically proven to boost your mood and resilience.",
@@ -827,12 +827,12 @@
 						"width": 1368,
 						"height": 1149,
 						"mime": "image/png",
-						"url": "/good-thinking-archives/assets/a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78.png",
+						"url": "/good-thinking-archive/assets/a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78.png",
 						"size": 33.4,
 						"formats": {
 							"large": {
 								"ext": ".png",
-								"url": "/good-thinking-archives/assets/large_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78.png",
+								"url": "/good-thinking-archive/assets/large_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78.png",
 								"hash": "large_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78",
 								"mime": "image/png",
 								"name": "large_a3e08053-1f07-4966-a6c6-c2aa5e0471ef.png",
@@ -843,7 +843,7 @@
 							},
 							"small": {
 								"ext": ".png",
-								"url": "/good-thinking-archives/assets/small_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78.png",
+								"url": "/good-thinking-archive/assets/small_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78.png",
 								"hash": "small_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78",
 								"mime": "image/png",
 								"name": "small_a3e08053-1f07-4966-a6c6-c2aa5e0471ef.png",
@@ -854,7 +854,7 @@
 							},
 							"medium": {
 								"ext": ".png",
-								"url": "/good-thinking-archives/assets/medium_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78.png",
+								"url": "/good-thinking-archive/assets/medium_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78.png",
 								"hash": "medium_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78",
 								"mime": "image/png",
 								"name": "medium_a3e08053-1f07-4966-a6c6-c2aa5e0471ef.png",
@@ -865,7 +865,7 @@
 							},
 							"thumbnail": {
 								"ext": ".png",
-								"url": "/good-thinking-archives/assets/thumbnail_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78.png",
+								"url": "/good-thinking-archive/assets/thumbnail_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78.png",
 								"hash": "thumbnail_a3e08053_1f07_4966_a6c6_c2aa5e0471ef_269bbfae78",
 								"mime": "image/png",
 								"name": "thumbnail_a3e08053-1f07-4966-a6c6-c2aa5e0471ef.png",

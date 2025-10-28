@@ -10,7 +10,7 @@
 						"width": null,
 						"height": null,
 						"mime": "image/x-icon",
-						"url": "/good-thinking-archives/assets/favicon_18540578c9.ico",
+						"url": "/good-thinking-archive/assets/favicon_18540578c9.ico",
 						"size": 15.41,
 						"formats": null,
 						"hash": "favicon_18540578c9",
@@ -32,12 +32,12 @@
 							"width": 1772,
 							"height": 1000,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/OG_Image_a7bd58e917.png",
+							"url": "/good-thinking-archive/assets/OG_Image_a7bd58e917.png",
 							"size": 140.96,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/large_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/large_OG_Image_a7bd58e917.png",
 									"hash": "large_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "large_OG Image.png",
@@ -48,7 +48,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/small_OG_Image_a7bd58e917.png",
 									"hash": "small_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "small_OG Image.png",
@@ -59,7 +59,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/medium_OG_Image_a7bd58e917.png",
 									"hash": "medium_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "medium_OG Image.png",
@@ -70,7 +70,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/thumbnail_OG_Image_a7bd58e917.png",
 									"hash": "thumbnail_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "thumbnail_OG Image.png",
@@ -98,12 +98,12 @@
 							"width": 784,
 							"height": 310,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/good_thinking_logo_7c3c6f2edf.png",
+							"url": "/good-thinking-archive/assets/good_thinking_logo_7c3c6f2edf.png",
 							"size": 19.88,
 							"formats": {
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archive/assets/small_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "small_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "small_good-thinking-logo.png",
@@ -114,7 +114,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archive/assets/medium_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "medium_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "medium_good-thinking-logo.png",
@@ -125,7 +125,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archive/assets/thumbnail_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "thumbnail_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "thumbnail_good-thinking-logo.png",
@@ -322,12 +322,12 @@
 							"width": 1440,
 							"height": 618,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+							"url": "/good-thinking-archive/assets/Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 							"size": 13.62,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "large_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -338,7 +338,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "small_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -349,7 +349,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "medium_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -360,7 +360,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "thumbnail_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -508,12 +508,12 @@
 									"width": 2979,
 									"height": 822,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+									"url": "/good-thinking-archive/assets/TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 									"size": 28.57,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "large_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -524,7 +524,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "small_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -535,7 +535,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "medium_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -546,7 +546,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "thumbnail_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -575,12 +575,12 @@
 									"width": 1200,
 									"height": 576,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/London_Councils_logo_b7a368c43d.png",
+									"url": "/good-thinking-archive/assets/London_Councils_logo_b7a368c43d.png",
 									"size": 17.25,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/large_London_Councils_logo_b7a368c43d.png",
 											"hash": "large_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "large_London_Councils_logo.png",
@@ -591,7 +591,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/small_London_Councils_logo_b7a368c43d.png",
 											"hash": "small_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "small_London_Councils_logo.png",
@@ -602,7 +602,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/medium_London_Councils_logo_b7a368c43d.png",
 											"hash": "medium_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "medium_London_Councils_logo.png",
@@ -613,7 +613,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/thumbnail_London_Councils_logo_b7a368c43d.png",
 											"hash": "thumbnail_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "thumbnail_London_Councils_logo.png",
@@ -642,7 +642,7 @@
 									"width": 164,
 									"height": 28,
 									"mime": "image/svg+xml",
-									"url": "/good-thinking-archives/assets/thriveldn_logo_new_46bc98177f.svg",
+									"url": "/good-thinking-archive/assets/thriveldn_logo_new_46bc98177f.svg",
 									"size": 2.59,
 									"formats": null,
 									"hash": "thriveldn_logo_new_46bc98177f",
@@ -664,7 +664,7 @@
 									"width": 179,
 									"height": 15,
 									"mime": "image/svg+xml",
-									"url": "/good-thinking-archives/assets/mayor_of_london_637a4de9c4.svg",
+									"url": "/good-thinking-archive/assets/mayor_of_london_637a4de9c4.svg",
 									"size": 7.16,
 									"formats": null,
 									"hash": "mayor_of_london_637a4de9c4",
@@ -686,12 +686,12 @@
 									"width": 1233,
 									"height": 355,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/ADPH_Logo_9507f2c60f.png",
+									"url": "/good-thinking-archive/assets/ADPH_Logo_9507f2c60f.png",
 									"size": 24.44,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/large_ADPH_Logo_9507f2c60f.png",
 											"hash": "large_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "large_ADPH Logo.png",
@@ -702,7 +702,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/small_ADPH_Logo_9507f2c60f.png",
 											"hash": "small_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "small_ADPH Logo.png",
@@ -713,7 +713,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/medium_ADPH_Logo_9507f2c60f.png",
 											"hash": "medium_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "medium_ADPH Logo.png",
@@ -724,7 +724,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/thumbnail_ADPH_Logo_9507f2c60f.png",
 											"hash": "thumbnail_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "thumbnail_ADPH Logo.png",
@@ -761,12 +761,12 @@
 								"width": 3515,
 								"height": 3516,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Person_using_desktop_computer_23da712bdb.png",
+								"url": "/good-thinking-archive/assets/Person_using_desktop_computer_23da712bdb.png",
 								"size": 445.61,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archive/assets/large_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "large_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "large_Person using desktop computer.png",
@@ -777,7 +777,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archive/assets/small_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "small_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "small_Person using desktop computer.png",
@@ -788,7 +788,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archive/assets/medium_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "medium_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "medium_Person using desktop computer.png",
@@ -799,7 +799,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archive/assets/thumbnail_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "thumbnail_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "thumbnail_Person using desktop computer.png",
@@ -834,12 +834,12 @@
 								"width": 3117,
 								"height": 2536,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+								"url": "/good-thinking-archive/assets/Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 								"size": 439.49,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archive/assets/large_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "large_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "large_Hand holding a tablet showing a Good Thinking page.png",
@@ -850,7 +850,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archive/assets/small_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "small_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "small_Hand holding a tablet showing a Good Thinking page.png",
@@ -861,7 +861,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archive/assets/medium_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "medium_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "medium_Hand holding a tablet showing a Good Thinking page.png",
@@ -872,7 +872,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archive/assets/thumbnail_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "thumbnail_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "thumbnail_Hand holding a tablet showing a Good Thinking page.png",
@@ -907,12 +907,12 @@
 								"width": 4345,
 								"height": 2894,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Person_using_laptop_to_do_self_assessment_60457968d2.png",
+								"url": "/good-thinking-archive/assets/Person_using_laptop_to_do_self_assessment_60457968d2.png",
 								"size": 538.92,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archive/assets/large_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "large_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "large_Person using laptop to do self-assessment.png",
@@ -923,7 +923,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archive/assets/small_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "small_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "small_Person using laptop to do self-assessment.png",
@@ -934,7 +934,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archive/assets/medium_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "medium_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "medium_Person using laptop to do self-assessment.png",
@@ -945,7 +945,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archive/assets/thumbnail_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "thumbnail_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "thumbnail_Person using laptop to do self-assessment.png",
@@ -980,12 +980,12 @@
 								"width": 3515,
 								"height": 3515,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+								"url": "/good-thinking-archive/assets/Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 								"size": 262.22,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archive/assets/large_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "large_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "large_Phone with text boxes coming out from it.png",
@@ -996,7 +996,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archive/assets/small_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "small_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "small_Phone with text boxes coming out from it.png",
@@ -1007,7 +1007,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archive/assets/medium_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "medium_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "medium_Phone with text boxes coming out from it.png",
@@ -1018,7 +1018,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archive/assets/thumbnail_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "thumbnail_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "thumbnail_Phone with text boxes coming out from it.png",
@@ -1062,7 +1062,7 @@
 				{
 					"__typename": "ComponentSectionsRichText",
 					"id": "360",
-					"content": "<p>In uncertain times, tensions and conflicts are more likely to develop at home or, if they were already present, become worse. For example, worrying about how you will pay your household bills this winter could be putting a real strain on your relationships. In some cases, financial hardship can lead to controlling and violent behaviour.</p><p>As <a href=\"https://www.womensaid.org.uk/the-cost-of-living/\" rel=\"noopener noreferrer\" target=\"_blank\">Farah Nazeer, Chief Executive of Women’s Aid</a>, noted recently, “Women have told us that they are being trapped because of their dire financial situation, two thirds (66%) of survivors told us that abusers are now using the cost of living increase and concerns about financial hardship as a tool for coercive control.”</p><p>As part of Good Thinking’s focus on improving Londoners’ mental health, this article provides guidance on maintaining healthy relationships with your partner, family or housemates. If you are experiencing domestic violence or abuse, we provide links to a number of support organisations and would encourage you to reach out for help. And, of course, we’ve included some of our own resources that can help to boost your wellbeing.</p><h3>Maintain healthy relationships</h3><p>Over the winter months, you might find that you’re at home more than normal. So it’s useful to acknowledge that, in any relationship, arguments do happen and conflict can be inevitable. It’s what you do about it that counts. Good Thinking recommends that you:</p><ul><li>Are honest about your feelings and communicate openly (if you’re worried about the family finances, for example, have a conversation about it with your partner and draw up a plan)</li><li>Try to see the other person’s point of view during arguments and consider their feelings so you can get to the root of what’s going on</li><li>Stay in contact with other trusted friends, relatives and your wider community</li><li>Contact organisations such as <a href=\"https://www.relate.org.uk\" rel=\"noopener noreferrer\" target=\"_blank\">Relate</a> for further advice</li></ul><h3>Get help for domestic violence and abuse</h3><p>If you’re experiencing emotional abuse, threats, physical abuse, violence, intimidation, sexual abuse or financial abuse, your home might not be a place of safety for you. The Good Thinking team would encourage you to reach out to one of these organisations for help:</p><ul><li><a href=\"https://www.hestia.org\" rel=\"noopener noreferrer\" target=\"_blank\">Hestia</a></li><li><a href=\"http://www.mankind.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">ManKind Initiative</a></li><li><a href=\"http://www.nationaldahelpline.org.uk/Contact-us\" rel=\"noopener noreferrer\" target=\"_blank\">National Domestic Abuse Helpline</a></li><li><a href=\"https://galop.org.uk\" rel=\"noopener noreferrer\" target=\"_blank\">National LGBT+ Domestic Abuse Helpline</a></li><li><a href=\"https://rapecrisis.org.uk\" rel=\"noopener noreferrer\" target=\"_blank\">Rape Crisis</a></li><li><a href=\"https://mensadviceline.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Respect (Men's Advice Line)</a></li><li><a href=\"https://refuge.org.uk\" rel=\"noopener noreferrer\" target=\"_blank\">Refuge</a></li><li><a href=\"https://www.victimsupport.org.uk\" rel=\"noopener noreferrer\" target=\"_blank\">Victim Support</a></li><li><a href=\"https://www.womensaid.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Women’s Aid&nbsp;</a></li></ul><p><br></p><p class=\"ql-align-center\"><strong>If you need help and can get to a local pharmacy, ask for </strong><a href=\"https://uksaysnomore.org/get-involved/ask-for-ani/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>ANI</strong></a><strong> (it stands for ‘Action Needed Immediately’ and is pronounced like the name ‘Annie’). The pharmacy team will be able to support you.</strong></p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\"><strong>If you’re in immediate danger, call 999 and ask for the police. Most police stations have specially trained officers to deal with domestic violence and abuse. If you’re unable to talk out loud, use the </strong><a href=\"https://www.policeconduct.gov.uk/sites/default/files/Documents/research-learning/Silent_solution_guide.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Silent Solution</strong></a><strong> (call 999, don’t speak – just cough or tap if you can – wait for your call to be transferred, then dial 55 and answer some simple yes and no questions).</strong></p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\"><strong>If you’re a young person who is a victim of domestic violence or abuse, or you have witnessed it, call </strong><a href=\"https://www.childline.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Childline</strong></a><strong> or the </strong><a href=\"https://www.nspcc.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>NSPCC</strong></a><strong>.</strong></p><p class=\"ql-align-center\"><br></p><h3>Look after your mental health</h3><p>Good Thinking, London’s digital mental wellbeing service, provides a broad range of advice and resources, including apps, guides, podcasts and self-assessments, which may help you feel calmer and more able to think about your situation.&nbsp;</p><p>If you’re anxious, stressed, depressed or having trouble sleeping, we recommend you take a look at the following:</p><ul><li><a href=\"https://www.good-thinking.uk/articles/five-ways-good-mental-wellbeing\" rel=\"noopener noreferrer\" target=\"_blank\">Five ways to good mental wellbeing (article)</a></li><li><a href=\"https://www.good-thinking.uk/free-apps-for/\" rel=\"noopener noreferrer\" target=\"_blank\">Free NHS-approved wellbeing apps</a></li><li><a href=\"/good-thinking-archives/assets/JC_0423_GT_Mental_Health_and_Me_v4_1_6edfce37dd.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">‘Mental health and me’ guide</a></li></ul><p>If you have experienced or witnessed something traumatic, please read our <a href=\"https://www.good-thinking.uk/coping-trauma-better-mental-health/\" rel=\"noopener noreferrer\" target=\"_blank\">Coping with trauma</a> workbook.</p><p>If you feel very distressed, our <a href=\"https://www.good-thinking.uk/urgent-support/\" rel=\"noopener noreferrer\" target=\"_blank\">Urgent Support</a> page contains details of local 24/7 NHS mental health helplines and other support organisations.&nbsp;</p><p>Please don’t suffer alone – there is lots of help available.</p>",
+					"content": "<p>In uncertain times, tensions and conflicts are more likely to develop at home or, if they were already present, become worse. For example, worrying about how you will pay your household bills this winter could be putting a real strain on your relationships. In some cases, financial hardship can lead to controlling and violent behaviour.</p><p>As <a href=\"https://www.womensaid.org.uk/the-cost-of-living/\" rel=\"noopener noreferrer\" target=\"_blank\">Farah Nazeer, Chief Executive of Women’s Aid</a>, noted recently, “Women have told us that they are being trapped because of their dire financial situation, two thirds (66%) of survivors told us that abusers are now using the cost of living increase and concerns about financial hardship as a tool for coercive control.”</p><p>As part of Good Thinking’s focus on improving Londoners’ mental health, this article provides guidance on maintaining healthy relationships with your partner, family or housemates. If you are experiencing domestic violence or abuse, we provide links to a number of support organisations and would encourage you to reach out for help. And, of course, we’ve included some of our own resources that can help to boost your wellbeing.</p><h3>Maintain healthy relationships</h3><p>Over the winter months, you might find that you’re at home more than normal. So it’s useful to acknowledge that, in any relationship, arguments do happen and conflict can be inevitable. It’s what you do about it that counts. Good Thinking recommends that you:</p><ul><li>Are honest about your feelings and communicate openly (if you’re worried about the family finances, for example, have a conversation about it with your partner and draw up a plan)</li><li>Try to see the other person’s point of view during arguments and consider their feelings so you can get to the root of what’s going on</li><li>Stay in contact with other trusted friends, relatives and your wider community</li><li>Contact organisations such as <a href=\"https://www.relate.org.uk\" rel=\"noopener noreferrer\" target=\"_blank\">Relate</a> for further advice</li></ul><h3>Get help for domestic violence and abuse</h3><p>If you’re experiencing emotional abuse, threats, physical abuse, violence, intimidation, sexual abuse or financial abuse, your home might not be a place of safety for you. The Good Thinking team would encourage you to reach out to one of these organisations for help:</p><ul><li><a href=\"https://www.hestia.org\" rel=\"noopener noreferrer\" target=\"_blank\">Hestia</a></li><li><a href=\"http://www.mankind.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">ManKind Initiative</a></li><li><a href=\"http://www.nationaldahelpline.org.uk/Contact-us\" rel=\"noopener noreferrer\" target=\"_blank\">National Domestic Abuse Helpline</a></li><li><a href=\"https://galop.org.uk\" rel=\"noopener noreferrer\" target=\"_blank\">National LGBT+ Domestic Abuse Helpline</a></li><li><a href=\"https://rapecrisis.org.uk\" rel=\"noopener noreferrer\" target=\"_blank\">Rape Crisis</a></li><li><a href=\"https://mensadviceline.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Respect (Men's Advice Line)</a></li><li><a href=\"https://refuge.org.uk\" rel=\"noopener noreferrer\" target=\"_blank\">Refuge</a></li><li><a href=\"https://www.victimsupport.org.uk\" rel=\"noopener noreferrer\" target=\"_blank\">Victim Support</a></li><li><a href=\"https://www.womensaid.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Women’s Aid&nbsp;</a></li></ul><p><br></p><p class=\"ql-align-center\"><strong>If you need help and can get to a local pharmacy, ask for </strong><a href=\"https://uksaysnomore.org/get-involved/ask-for-ani/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>ANI</strong></a><strong> (it stands for ‘Action Needed Immediately’ and is pronounced like the name ‘Annie’). The pharmacy team will be able to support you.</strong></p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\"><strong>If you’re in immediate danger, call 999 and ask for the police. Most police stations have specially trained officers to deal with domestic violence and abuse. If you’re unable to talk out loud, use the </strong><a href=\"https://www.policeconduct.gov.uk/sites/default/files/Documents/research-learning/Silent_solution_guide.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Silent Solution</strong></a><strong> (call 999, don’t speak – just cough or tap if you can – wait for your call to be transferred, then dial 55 and answer some simple yes and no questions).</strong></p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\"><strong>If you’re a young person who is a victim of domestic violence or abuse, or you have witnessed it, call </strong><a href=\"https://www.childline.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Childline</strong></a><strong> or the </strong><a href=\"https://www.nspcc.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>NSPCC</strong></a><strong>.</strong></p><p class=\"ql-align-center\"><br></p><h3>Look after your mental health</h3><p>Good Thinking, London’s digital mental wellbeing service, provides a broad range of advice and resources, including apps, guides, podcasts and self-assessments, which may help you feel calmer and more able to think about your situation.&nbsp;</p><p>If you’re anxious, stressed, depressed or having trouble sleeping, we recommend you take a look at the following:</p><ul><li><a href=\"https://www.good-thinking.uk/articles/five-ways-good-mental-wellbeing\" rel=\"noopener noreferrer\" target=\"_blank\">Five ways to good mental wellbeing (article)</a></li><li><a href=\"https://www.good-thinking.uk/free-apps-for/\" rel=\"noopener noreferrer\" target=\"_blank\">Free NHS-approved wellbeing apps</a></li><li><a href=\"/good-thinking-archive/assets/JC_0423_GT_Mental_Health_and_Me_v4_1_6edfce37dd.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">‘Mental health and me’ guide</a></li></ul><p>If you have experienced or witnessed something traumatic, please read our <a href=\"https://www.good-thinking.uk/coping-trauma-better-mental-health/\" rel=\"noopener noreferrer\" target=\"_blank\">Coping with trauma</a> workbook.</p><p>If you feel very distressed, our <a href=\"https://www.good-thinking.uk/urgent-support/\" rel=\"noopener noreferrer\" target=\"_blank\">Urgent Support</a> page contains details of local 24/7 NHS mental health helplines and other support organisations.&nbsp;</p><p>Please don’t suffer alone – there is lots of help available.</p>",
 					"columnWidth": "full"
 				}
 			]

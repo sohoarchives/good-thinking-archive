@@ -9,7 +9,7 @@
 						"width": null,
 						"height": null,
 						"mime": "image/x-icon",
-						"url": "/good-thinking-archives/assets/favicon_18540578c9.ico",
+						"url": "/good-thinking-archive/assets/favicon_18540578c9.ico",
 						"size": 15.41,
 						"formats": null,
 						"hash": "favicon_18540578c9",
@@ -31,12 +31,12 @@
 							"width": 1772,
 							"height": 1000,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/OG_Image_a7bd58e917.png",
+							"url": "/good-thinking-archive/assets/OG_Image_a7bd58e917.png",
 							"size": 140.96,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/large_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/large_OG_Image_a7bd58e917.png",
 									"hash": "large_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "large_OG Image.png",
@@ -47,7 +47,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/small_OG_Image_a7bd58e917.png",
 									"hash": "small_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "small_OG Image.png",
@@ -58,7 +58,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/medium_OG_Image_a7bd58e917.png",
 									"hash": "medium_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "medium_OG Image.png",
@@ -69,7 +69,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/thumbnail_OG_Image_a7bd58e917.png",
 									"hash": "thumbnail_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "thumbnail_OG Image.png",
@@ -97,12 +97,12 @@
 							"width": 784,
 							"height": 310,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/good_thinking_logo_7c3c6f2edf.png",
+							"url": "/good-thinking-archive/assets/good_thinking_logo_7c3c6f2edf.png",
 							"size": 19.88,
 							"formats": {
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archive/assets/small_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "small_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "small_good-thinking-logo.png",
@@ -113,7 +113,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archive/assets/medium_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "medium_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "medium_good-thinking-logo.png",
@@ -124,7 +124,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archive/assets/thumbnail_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "thumbnail_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "thumbnail_good-thinking-logo.png",
@@ -321,12 +321,12 @@
 							"width": 1440,
 							"height": 618,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+							"url": "/good-thinking-archive/assets/Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 							"size": 13.62,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "large_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -337,7 +337,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "small_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -348,7 +348,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "medium_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -359,7 +359,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "thumbnail_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -507,12 +507,12 @@
 									"width": 2979,
 									"height": 822,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+									"url": "/good-thinking-archive/assets/TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 									"size": 28.57,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "large_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -523,7 +523,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "small_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -534,7 +534,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "medium_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -545,7 +545,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "thumbnail_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -574,12 +574,12 @@
 									"width": 1200,
 									"height": 576,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/London_Councils_logo_b7a368c43d.png",
+									"url": "/good-thinking-archive/assets/London_Councils_logo_b7a368c43d.png",
 									"size": 17.25,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/large_London_Councils_logo_b7a368c43d.png",
 											"hash": "large_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "large_London_Councils_logo.png",
@@ -590,7 +590,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/small_London_Councils_logo_b7a368c43d.png",
 											"hash": "small_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "small_London_Councils_logo.png",
@@ -601,7 +601,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/medium_London_Councils_logo_b7a368c43d.png",
 											"hash": "medium_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "medium_London_Councils_logo.png",
@@ -612,7 +612,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/thumbnail_London_Councils_logo_b7a368c43d.png",
 											"hash": "thumbnail_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "thumbnail_London_Councils_logo.png",
@@ -641,7 +641,7 @@
 									"width": 164,
 									"height": 28,
 									"mime": "image/svg+xml",
-									"url": "/good-thinking-archives/assets/thriveldn_logo_new_46bc98177f.svg",
+									"url": "/good-thinking-archive/assets/thriveldn_logo_new_46bc98177f.svg",
 									"size": 2.59,
 									"formats": null,
 									"hash": "thriveldn_logo_new_46bc98177f",
@@ -663,7 +663,7 @@
 									"width": 179,
 									"height": 15,
 									"mime": "image/svg+xml",
-									"url": "/good-thinking-archives/assets/mayor_of_london_637a4de9c4.svg",
+									"url": "/good-thinking-archive/assets/mayor_of_london_637a4de9c4.svg",
 									"size": 7.16,
 									"formats": null,
 									"hash": "mayor_of_london_637a4de9c4",
@@ -685,12 +685,12 @@
 									"width": 1233,
 									"height": 355,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/ADPH_Logo_9507f2c60f.png",
+									"url": "/good-thinking-archive/assets/ADPH_Logo_9507f2c60f.png",
 									"size": 24.44,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/large_ADPH_Logo_9507f2c60f.png",
 											"hash": "large_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "large_ADPH Logo.png",
@@ -701,7 +701,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/small_ADPH_Logo_9507f2c60f.png",
 											"hash": "small_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "small_ADPH Logo.png",
@@ -712,7 +712,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/medium_ADPH_Logo_9507f2c60f.png",
 											"hash": "medium_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "medium_ADPH Logo.png",
@@ -723,7 +723,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/thumbnail_ADPH_Logo_9507f2c60f.png",
 											"hash": "thumbnail_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "thumbnail_ADPH Logo.png",
@@ -1074,12 +1074,12 @@
 									"width": 1027,
 									"height": 482,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/person_on_bean_bag_03567db58f.png",
+									"url": "/good-thinking-archive/assets/person_on_bean_bag_03567db58f.png",
 									"size": 42.3,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_person_on_bean_bag_03567db58f.png",
+											"url": "/good-thinking-archive/assets/large_person_on_bean_bag_03567db58f.png",
 											"hash": "large_person_on_bean_bag_03567db58f",
 											"mime": "image/png",
 											"name": "large_person-on-bean-bag.png",
@@ -1091,7 +1091,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_person_on_bean_bag_03567db58f.png",
+											"url": "/good-thinking-archive/assets/small_person_on_bean_bag_03567db58f.png",
 											"hash": "small_person_on_bean_bag_03567db58f",
 											"mime": "image/png",
 											"name": "small_person-on-bean-bag.png",
@@ -1103,7 +1103,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_person_on_bean_bag_03567db58f.png",
+											"url": "/good-thinking-archive/assets/medium_person_on_bean_bag_03567db58f.png",
 											"hash": "medium_person_on_bean_bag_03567db58f",
 											"mime": "image/png",
 											"name": "medium_person-on-bean-bag.png",
@@ -1115,7 +1115,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_person_on_bean_bag_03567db58f.png",
+											"url": "/good-thinking-archive/assets/thumbnail_person_on_bean_bag_03567db58f.png",
 											"hash": "thumbnail_person_on_bean_bag_03567db58f",
 											"mime": "image/png",
 											"name": "thumbnail_person-on-bean-bag.png",
@@ -1167,7 +1167,7 @@
 								{
 									"id": "891",
 									"title": "Other Good Thinking resources",
-									"content": "<p><a href=\"https://www.good-thinking.uk/youngpeople\" rel=\"noopener noreferrer\" target=\"_blank\">Children and Young People's pages</a></p><p><a href=\"https://www.good-thinking.uk/advice/exam-stress\" rel=\"noopener noreferrer\" target=\"_blank\">Advice: stressed about exams? Focus on what you can control</a></p><p><a href=\"/good-thinking-archives/assets/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Five Ways to Wellbeing for Children and Young People</a></p><p><a href=\"https://www.good-thinking.uk/parents-and-carers\" rel=\"noopener noreferrer\" target=\"_blank\">Resources for parents and carers</a></p>"
+									"content": "<p><a href=\"https://www.good-thinking.uk/youngpeople\" rel=\"noopener noreferrer\" target=\"_blank\">Children and Young People's pages</a></p><p><a href=\"https://www.good-thinking.uk/advice/exam-stress\" rel=\"noopener noreferrer\" target=\"_blank\">Advice: stressed about exams? Focus on what you can control</a></p><p><a href=\"/good-thinking-archive/assets/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Five Ways to Wellbeing for Children and Young People</a></p><p><a href=\"https://www.good-thinking.uk/parents-and-carers\" rel=\"noopener noreferrer\" target=\"_blank\">Resources for parents and carers</a></p>"
 								}
 							]
 						}
@@ -1211,7 +1211,7 @@
 								{
 									"id": "876",
 									"title": "Good Thinking resources",
-									"content": "<p><a href=\"https://www.good-thinking.uk/blog/climate-change-COP24\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: white; color: rgb(30, 12, 6);\">Climate change and mental health: A London perspective</a></p><p><a href=\"https://www.good-thinking.uk/free-apps-for/apps-young-people\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: white; color: rgb(30, 12, 6);\">Free NHS-approved wellbeing apps for young people</a></p><p><a href=\"/good-thinking-archives/assets/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: white; color: rgb(30, 12, 6);\">Five ways to wellbeing</a></p><p><a href=\"https://www.good-thinking.uk/advice/how-to-deal-with-uncertainty\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: white; color: rgb(30, 12, 6);\">How to deal with uncertainty</a></p><p><a href=\"https://www.good-thinking.uk/advice/use-disruption-your-routine-develop-new-healthy-habit\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: white; color: rgb(30, 12, 6);\">How to develop a healthy new habit</a></p><p><a href=\"https://www.good-thinking.uk/advice/connect-nature-boost-your-wellbeing\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: white; color: rgb(30, 12, 6);\">How to connect with nature to boost your wellbeing</a></p><p><a href=\"https://www.good-thinking.uk/blog/how-to-use-journaling-to-boost-your-mental-health\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: white; color: rgb(30, 12, 6);\">How to use journaling to boost your mental health</a></p><p><a href=\"/good-thinking-archives/assets/Young_people_looking_out_for_your_friends_guide_3870dbfa35.pdf\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: white; color: rgb(30, 12, 6);\">Looking out for your friends</a></p><p><a href=\"https://www.good-thinking.uk/advice/how-get-urgent-support-children-young-people\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: white; color: rgb(30, 12, 6);\">Urgent support</a></p>"
+									"content": "<p><a href=\"https://www.good-thinking.uk/blog/climate-change-COP24\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: white; color: rgb(30, 12, 6);\">Climate change and mental health: A London perspective</a></p><p><a href=\"https://www.good-thinking.uk/free-apps-for/apps-young-people\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: white; color: rgb(30, 12, 6);\">Free NHS-approved wellbeing apps for young people</a></p><p><a href=\"/good-thinking-archive/assets/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: white; color: rgb(30, 12, 6);\">Five ways to wellbeing</a></p><p><a href=\"https://www.good-thinking.uk/advice/how-to-deal-with-uncertainty\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: white; color: rgb(30, 12, 6);\">How to deal with uncertainty</a></p><p><a href=\"https://www.good-thinking.uk/advice/use-disruption-your-routine-develop-new-healthy-habit\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: white; color: rgb(30, 12, 6);\">How to develop a healthy new habit</a></p><p><a href=\"https://www.good-thinking.uk/advice/connect-nature-boost-your-wellbeing\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: white; color: rgb(30, 12, 6);\">How to connect with nature to boost your wellbeing</a></p><p><a href=\"https://www.good-thinking.uk/blog/how-to-use-journaling-to-boost-your-mental-health\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: white; color: rgb(30, 12, 6);\">How to use journaling to boost your mental health</a></p><p><a href=\"/good-thinking-archive/assets/Young_people_looking_out_for_your_friends_guide_3870dbfa35.pdf\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: white; color: rgb(30, 12, 6);\">Looking out for your friends</a></p><p><a href=\"https://www.good-thinking.uk/advice/how-get-urgent-support-children-young-people\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: white; color: rgb(30, 12, 6);\">Urgent support</a></p>"
 								},
 								{
 									"id": "880",
@@ -1241,12 +1241,12 @@
 									"width": 600,
 									"height": 400,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/WCL_mind_peer_support_SAM_Apr_2025_600_x_400_px_62aafc0e1b.png",
+									"url": "/good-thinking-archive/assets/WCL_mind_peer_support_SAM_Apr_2025_600_x_400_px_62aafc0e1b.png",
 									"size": 38.92,
 									"formats": {
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_WCL_mind_peer_support_SAM_Apr_2025_600_x_400_px_62aafc0e1b.png",
+											"url": "/good-thinking-archive/assets/small_WCL_mind_peer_support_SAM_Apr_2025_600_x_400_px_62aafc0e1b.png",
 											"hash": "small_WCL_mind_peer_support_SAM_Apr_2025_600_x_400_px_62aafc0e1b",
 											"mime": "image/png",
 											"name": "small_WCL mind peer support - SAM Apr 2025 (600 x 400 px).png",
@@ -1258,7 +1258,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_WCL_mind_peer_support_SAM_Apr_2025_600_x_400_px_62aafc0e1b.png",
+											"url": "/good-thinking-archive/assets/thumbnail_WCL_mind_peer_support_SAM_Apr_2025_600_x_400_px_62aafc0e1b.png",
 											"hash": "thumbnail_WCL_mind_peer_support_SAM_Apr_2025_600_x_400_px_62aafc0e1b",
 											"mime": "image/png",
 											"name": "thumbnail_WCL mind peer support - SAM Apr 2025 (600 x 400 px).png",
@@ -1339,12 +1339,12 @@
 									"width": 4000,
 									"height": 4000,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/Students_in_lecture_theatre_33b90cbb23.png",
+									"url": "/good-thinking-archive/assets/Students_in_lecture_theatre_33b90cbb23.png",
 									"size": 427.99,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_Students_in_lecture_theatre_33b90cbb23.png",
+											"url": "/good-thinking-archive/assets/large_Students_in_lecture_theatre_33b90cbb23.png",
 											"hash": "large_Students_in_lecture_theatre_33b90cbb23",
 											"mime": "image/png",
 											"name": "large_Students in lecture theatre.png",
@@ -1356,7 +1356,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_Students_in_lecture_theatre_33b90cbb23.png",
+											"url": "/good-thinking-archive/assets/small_Students_in_lecture_theatre_33b90cbb23.png",
 											"hash": "small_Students_in_lecture_theatre_33b90cbb23",
 											"mime": "image/png",
 											"name": "small_Students in lecture theatre.png",
@@ -1368,7 +1368,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_Students_in_lecture_theatre_33b90cbb23.png",
+											"url": "/good-thinking-archive/assets/medium_Students_in_lecture_theatre_33b90cbb23.png",
 											"hash": "medium_Students_in_lecture_theatre_33b90cbb23",
 											"mime": "image/png",
 											"name": "medium_Students in lecture theatre.png",
@@ -1380,7 +1380,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_Students_in_lecture_theatre_33b90cbb23.png",
+											"url": "/good-thinking-archive/assets/thumbnail_Students_in_lecture_theatre_33b90cbb23.png",
 											"hash": "thumbnail_Students_in_lecture_theatre_33b90cbb23",
 											"mime": "image/png",
 											"name": "thumbnail_Students in lecture theatre.png",
@@ -1410,12 +1410,12 @@
 									"width": 4000,
 									"height": 4000,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/Students_in_lecture_theatre_33b90cbb23.png",
+									"url": "/good-thinking-archive/assets/Students_in_lecture_theatre_33b90cbb23.png",
 									"size": 427.99,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_Students_in_lecture_theatre_33b90cbb23.png",
+											"url": "/good-thinking-archive/assets/large_Students_in_lecture_theatre_33b90cbb23.png",
 											"hash": "large_Students_in_lecture_theatre_33b90cbb23",
 											"mime": "image/png",
 											"name": "large_Students in lecture theatre.png",
@@ -1427,7 +1427,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_Students_in_lecture_theatre_33b90cbb23.png",
+											"url": "/good-thinking-archive/assets/small_Students_in_lecture_theatre_33b90cbb23.png",
 											"hash": "small_Students_in_lecture_theatre_33b90cbb23",
 											"mime": "image/png",
 											"name": "small_Students in lecture theatre.png",
@@ -1439,7 +1439,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_Students_in_lecture_theatre_33b90cbb23.png",
+											"url": "/good-thinking-archive/assets/medium_Students_in_lecture_theatre_33b90cbb23.png",
 											"hash": "medium_Students_in_lecture_theatre_33b90cbb23",
 											"mime": "image/png",
 											"name": "medium_Students in lecture theatre.png",
@@ -1451,7 +1451,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_Students_in_lecture_theatre_33b90cbb23.png",
+											"url": "/good-thinking-archive/assets/thumbnail_Students_in_lecture_theatre_33b90cbb23.png",
 											"hash": "thumbnail_Students_in_lecture_theatre_33b90cbb23",
 											"mime": "image/png",
 											"name": "thumbnail_Students in lecture theatre.png",
@@ -1480,7 +1480,7 @@
 						{
 							"__typename": "ComponentSectionsRichText",
 							"id": "680",
-							"content": "<p><img src=\"/good-thinking-archives/assets/Students_in_lecture_theatre_33b90cbb23.png\" alt=\"Students in lecture theatre.png\"></p>",
+							"content": "<p><img src=\"/good-thinking-archive/assets/Students_in_lecture_theatre_33b90cbb23.png\" alt=\"Students in lecture theatre.png\"></p>",
 							"columnWidth": "half"
 						},
 						{
@@ -1495,7 +1495,7 @@
 								{
 									"id": "861",
 									"title": "Kerry Corrigan, Assistant Head of Student Wellbeing Services (Psychological Wellbeing) - University of Greenwich",
-									"content": "<h3><strong>Why is it important for students to look after their mental wellbeing?</strong></h3><p>For many students, university is an exciting time of growth, learning, and challenge. Alongside all this, though, comes the stress of assignments, deadlines, and balancing life. <a href=\"https://www.good-thinking.uk/stress\" rel=\"noopener noreferrer\" target=\"_blank\">Stress</a> is totally normal, and it’s designed to keep us safe in the short term. But if you're feeling overwhelmed, stressed, and like you can't cope, it can be really helpful to reach out for support.</p><p>Just like we make sure to look after our physical health by showering, brushing our teeth, eating well, and exercising, it's super important to take care of our mental and emotional health too. Proactively looking after yourself means having a good routine—getting quality <a href=\"https://www.good-thinking.uk/sleep\" rel=\"noopener noreferrer\" target=\"_blank\">sleep</a>, eating well, staying active, and making time for things that help you relax and recharge. Self-care isn't just about chilling out; it’s about doing things that nourish your mind and body.</p><h3><strong>What factors can have the biggest impact on a student’s mental health?</strong></h3><p>A lot of things can affect your mental health as a student. Academic pressures, such as assignment deadlines, high workloads, and self-expectations can be a significant source of <a href=\"https://www.good-thinking.uk/stress\" rel=\"noopener noreferrer\" target=\"_blank\">stress</a> and <a href=\"https://www.good-thinking.uk/anxiety\" rel=\"noopener noreferrer\" target=\"_blank\">anxiety</a>.</p><p>Worries about tuition fees, rent, food, and other living costs can weigh heavily, and many students also feel a sense of social isolation when they move away from home and struggle to form new friendship circles which can affect self-esteem and emotional health.</p><p>Poor <a href=\"https://www.good-thinking.uk/sleep\" rel=\"noopener noreferrer\" target=\"_blank\">sleep</a> habits due to late-night studying or socialising can make you <a href=\"https://www.good-thinking.uk/low-mood\" rel=\"noopener noreferrer\" target=\"_blank\">feel low</a> and affect your mood.</p><p>And finally, not knowing where to go for help or feeling embarrassed to ask for support can prevent you from reaching out when you need it.</p><h3><strong>Where can students go for mental health advice and support at university?</strong></h3><p>Everyone has different ways they like to be supported. You might feel comfortable talking to a friend or family member, or you might prefer speaking to a tutor. But if you need extra help, there are other sources of support too.</p><ul><li><strong>Student Wellbeing Services:</strong> most universities have these services, where you can get confidential advice.</li><li><strong>GP or NHS services:</strong> your GP can refer you to mental health services, including therapy such as <a href=\"https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/nhs-talking-therapies/\" rel=\"noopener noreferrer\" target=\"_blank\">NHS Talking Therapies.</a></li><li><strong>Confidential helplines:</strong> <a href=\"https://www.samaritans.org/how-we-can-help/contact-samaritan/talk-us-phone/\" rel=\"noopener noreferrer\" target=\"_blank\">The Samaritans,</a> <a href=\"https://www.mind.org.uk/information-support/helplines/\" rel=\"noopener noreferrer\" target=\"_blank\">Mind</a>, <a href=\"https://nightline.ac.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Nightline</a>, and <a href=\"https://www.studentminds.org.uk/findsupport.html\" rel=\"noopener noreferrer\" target=\"_blank\">Student Minds</a> are just a few examples of services that offer support over the phone, via text, or email.</li><li><strong>Peer support:</strong> student societies, mentors, or support groups can also offer a listening ear.</li></ul><p>And remember, if you ever feel completely overwhelmed, don’t hesitate to access <a href=\"https://www.good-thinking.uk/urgent-support\" rel=\"noopener noreferrer\" target=\"_blank\">urgent support.</a></p><h3><strong>What would be your one piece of advice for students who may be struggling with their mental health?</strong></h3><p><strong>Talk to someone you trust</strong>. It can be tough, but opening up can be the first step towards feeling better. Whether it’s a friend, family member, or professional, talking about how you’re feeling can make a massive difference. You’re never alone in this, and there’s always support available.</p><h3><strong>What’s your ‘top tip’ for student mental wellbeing?</strong></h3><p><strong>Be kind to yourself.</strong> It's easy to be hard on yourself when things aren’t going well, but you wouldn’t talk to a close friend the way you sometimes talk to yourself. Try to be patient and compassionate with yourself, even when things feel tough. Take small steps—whether that’s going for a walk, getting some fresh air, or just taking a break. It all counts, and even tiny actions can make a big difference. And remember, support is always there when you need it.</p><h3><strong>A final thought from Kerry…</strong></h3><p>The <a href=\"https://www.suffolkmind.org.uk/advice-information/the-mental-health-continuum/\" rel=\"noopener noreferrer\" target=\"_blank\">Mental Health Continuum</a> (shown in the diagram below) is a really useful way to think about mental wellbeing. It shows how we move along a mental health ‘scale’ depending on what’s happening in our lives. For example, you could be feeling in the green “healthy” zone most of the time, but we all have moments when we dip down a bit too. And that’s okay—what matters is how we deal with it.</p><p><img src=\"/good-thinking-archives/assets/Mental_Health_Continuum_89540f63aa.png\" alt=\"Mental Health Continuum.png\"></p>"
+									"content": "<h3><strong>Why is it important for students to look after their mental wellbeing?</strong></h3><p>For many students, university is an exciting time of growth, learning, and challenge. Alongside all this, though, comes the stress of assignments, deadlines, and balancing life. <a href=\"https://www.good-thinking.uk/stress\" rel=\"noopener noreferrer\" target=\"_blank\">Stress</a> is totally normal, and it’s designed to keep us safe in the short term. But if you're feeling overwhelmed, stressed, and like you can't cope, it can be really helpful to reach out for support.</p><p>Just like we make sure to look after our physical health by showering, brushing our teeth, eating well, and exercising, it's super important to take care of our mental and emotional health too. Proactively looking after yourself means having a good routine—getting quality <a href=\"https://www.good-thinking.uk/sleep\" rel=\"noopener noreferrer\" target=\"_blank\">sleep</a>, eating well, staying active, and making time for things that help you relax and recharge. Self-care isn't just about chilling out; it’s about doing things that nourish your mind and body.</p><h3><strong>What factors can have the biggest impact on a student’s mental health?</strong></h3><p>A lot of things can affect your mental health as a student. Academic pressures, such as assignment deadlines, high workloads, and self-expectations can be a significant source of <a href=\"https://www.good-thinking.uk/stress\" rel=\"noopener noreferrer\" target=\"_blank\">stress</a> and <a href=\"https://www.good-thinking.uk/anxiety\" rel=\"noopener noreferrer\" target=\"_blank\">anxiety</a>.</p><p>Worries about tuition fees, rent, food, and other living costs can weigh heavily, and many students also feel a sense of social isolation when they move away from home and struggle to form new friendship circles which can affect self-esteem and emotional health.</p><p>Poor <a href=\"https://www.good-thinking.uk/sleep\" rel=\"noopener noreferrer\" target=\"_blank\">sleep</a> habits due to late-night studying or socialising can make you <a href=\"https://www.good-thinking.uk/low-mood\" rel=\"noopener noreferrer\" target=\"_blank\">feel low</a> and affect your mood.</p><p>And finally, not knowing where to go for help or feeling embarrassed to ask for support can prevent you from reaching out when you need it.</p><h3><strong>Where can students go for mental health advice and support at university?</strong></h3><p>Everyone has different ways they like to be supported. You might feel comfortable talking to a friend or family member, or you might prefer speaking to a tutor. But if you need extra help, there are other sources of support too.</p><ul><li><strong>Student Wellbeing Services:</strong> most universities have these services, where you can get confidential advice.</li><li><strong>GP or NHS services:</strong> your GP can refer you to mental health services, including therapy such as <a href=\"https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/nhs-talking-therapies/\" rel=\"noopener noreferrer\" target=\"_blank\">NHS Talking Therapies.</a></li><li><strong>Confidential helplines:</strong> <a href=\"https://www.samaritans.org/how-we-can-help/contact-samaritan/talk-us-phone/\" rel=\"noopener noreferrer\" target=\"_blank\">The Samaritans,</a> <a href=\"https://www.mind.org.uk/information-support/helplines/\" rel=\"noopener noreferrer\" target=\"_blank\">Mind</a>, <a href=\"https://nightline.ac.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Nightline</a>, and <a href=\"https://www.studentminds.org.uk/findsupport.html\" rel=\"noopener noreferrer\" target=\"_blank\">Student Minds</a> are just a few examples of services that offer support over the phone, via text, or email.</li><li><strong>Peer support:</strong> student societies, mentors, or support groups can also offer a listening ear.</li></ul><p>And remember, if you ever feel completely overwhelmed, don’t hesitate to access <a href=\"https://www.good-thinking.uk/urgent-support\" rel=\"noopener noreferrer\" target=\"_blank\">urgent support.</a></p><h3><strong>What would be your one piece of advice for students who may be struggling with their mental health?</strong></h3><p><strong>Talk to someone you trust</strong>. It can be tough, but opening up can be the first step towards feeling better. Whether it’s a friend, family member, or professional, talking about how you’re feeling can make a massive difference. You’re never alone in this, and there’s always support available.</p><h3><strong>What’s your ‘top tip’ for student mental wellbeing?</strong></h3><p><strong>Be kind to yourself.</strong> It's easy to be hard on yourself when things aren’t going well, but you wouldn’t talk to a close friend the way you sometimes talk to yourself. Try to be patient and compassionate with yourself, even when things feel tough. Take small steps—whether that’s going for a walk, getting some fresh air, or just taking a break. It all counts, and even tiny actions can make a big difference. And remember, support is always there when you need it.</p><h3><strong>A final thought from Kerry…</strong></h3><p>The <a href=\"https://www.suffolkmind.org.uk/advice-information/the-mental-health-continuum/\" rel=\"noopener noreferrer\" target=\"_blank\">Mental Health Continuum</a> (shown in the diagram below) is a really useful way to think about mental wellbeing. It shows how we move along a mental health ‘scale’ depending on what’s happening in our lives. For example, you could be feeling in the green “healthy” zone most of the time, but we all have moments when we dip down a bit too. And that’s okay—what matters is how we deal with it.</p><p><img src=\"/good-thinking-archive/assets/Mental_Health_Continuum_89540f63aa.png\" alt=\"Mental Health Continuum.png\"></p>"
 								},
 								{
 									"id": "862",
@@ -1505,7 +1505,7 @@
 								{
 									"id": "863",
 									"title": "Good Thinking resources",
-									"content": "<p>Good Thinking has a wide range of mental health and wellbeing resources available to support students and <a href=\"https://www.good-thinking.uk/educationprofessionals\" rel=\"noopener noreferrer\" target=\"_blank\">education professionals</a>. Take a look at our dedicated <a href=\"https://www.good-thinking.uk/students\" rel=\"noopener noreferrer\" target=\"_blank\">student webpage</a>, which includes:</p><ul><li>information and practical tips for student life on topics such as starting university and financial worries;</li><li>targeted mental wellbeing advice on common concerns, such as <a href=\"https://www.good-thinking.uk/sleep\" rel=\"noopener noreferrer\" target=\"_blank\">sleep</a>, <a href=\"https://www.good-thinking.uk/advice/how-to-cope-loneliness\" rel=\"noopener noreferrer\" target=\"_blank\">loneliness</a>, <a href=\"https://www.good-thinking.uk/advice/exam-stress\" rel=\"noopener noreferrer\" target=\"_blank\">exam stress</a> and <a href=\"https://www.good-thinking.uk/advice/how-to-deal-with-uncertainty\" rel=\"noopener noreferrer\" target=\"_blank\">dealing with uncertainty</a>;</li><li>advice on <a href=\"/good-thinking-archives/assets/Young_people_looking_out_for_your_friends_guide_3870dbfa35.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">looking out for friends</a> at university;</li><li>specific mental wellbeing resources for <a href=\"https://www.good-thinking.uk/students/LSBU-black-students-mental-health\" rel=\"noopener noreferrer\" target=\"_blank\">black students</a> designed in partnership with the Black Students Mental Health Project at London South Bank University.</li><li>free apps, including the <a href=\"https://www.good-thinking.uk/resources/student-health\" rel=\"noopener noreferrer\" target=\"_blank\">Student Health app</a> and <a href=\"https://www.good-thinking.uk/resources/international-student\" rel=\"noopener noreferrer\" target=\"_blank\">International Student</a> app.</li></ul>"
+									"content": "<p>Good Thinking has a wide range of mental health and wellbeing resources available to support students and <a href=\"https://www.good-thinking.uk/educationprofessionals\" rel=\"noopener noreferrer\" target=\"_blank\">education professionals</a>. Take a look at our dedicated <a href=\"https://www.good-thinking.uk/students\" rel=\"noopener noreferrer\" target=\"_blank\">student webpage</a>, which includes:</p><ul><li>information and practical tips for student life on topics such as starting university and financial worries;</li><li>targeted mental wellbeing advice on common concerns, such as <a href=\"https://www.good-thinking.uk/sleep\" rel=\"noopener noreferrer\" target=\"_blank\">sleep</a>, <a href=\"https://www.good-thinking.uk/advice/how-to-cope-loneliness\" rel=\"noopener noreferrer\" target=\"_blank\">loneliness</a>, <a href=\"https://www.good-thinking.uk/advice/exam-stress\" rel=\"noopener noreferrer\" target=\"_blank\">exam stress</a> and <a href=\"https://www.good-thinking.uk/advice/how-to-deal-with-uncertainty\" rel=\"noopener noreferrer\" target=\"_blank\">dealing with uncertainty</a>;</li><li>advice on <a href=\"/good-thinking-archive/assets/Young_people_looking_out_for_your_friends_guide_3870dbfa35.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">looking out for friends</a> at university;</li><li>specific mental wellbeing resources for <a href=\"https://www.good-thinking.uk/students/LSBU-black-students-mental-health\" rel=\"noopener noreferrer\" target=\"_blank\">black students</a> designed in partnership with the Black Students Mental Health Project at London South Bank University.</li><li>free apps, including the <a href=\"https://www.good-thinking.uk/resources/student-health\" rel=\"noopener noreferrer\" target=\"_blank\">Student Health app</a> and <a href=\"https://www.good-thinking.uk/resources/international-student\" rel=\"noopener noreferrer\" target=\"_blank\">International Student</a> app.</li></ul>"
 								},
 								{
 									"id": "864",
@@ -1613,7 +1613,7 @@
 								{
 									"id": "715",
 									"title": " Good Thinking resources",
-									"content": "<p><a href=\"https://www.good-thinking.uk/teachingresources\" rel=\"noopener noreferrer\" target=\"_blank\">An introduction to mental health and wellbeing for secondary school pupils (lesson pack)</a></p><p><a href=\"https://www.good-thinking.uk/anxiety\" rel=\"noopener noreferrer\" target=\"_blank\">Anxiety resources</a></p><p><a href=\"https://www.good-thinking.uk/free-apps-for/apps-adults\" rel=\"noopener noreferrer\" target=\"_blank\">Free NHS-approved wellbeing apps for adults</a></p><p><a href=\"https://www.good-thinking.uk/low-mood\" rel=\"noopener noreferrer\" target=\"_blank\">Low mood resources</a></p><p><a href=\"https://www.good-thinking.uk/sleep\" rel=\"noopener noreferrer\" target=\"_blank\">Sleep resources</a></p><p><a href=\"https://www.good-thinking.uk/stress\" rel=\"noopener noreferrer\" target=\"_blank\">Stress resources</a></p><p><a href=\"/good-thinking-archives/assets/JCR_004_Good_Thinking_Guide_for_Teachers_DIGITAL_585c9f9f6f.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Quick guide to looking out for your students</a></p><p><a href=\"https://www.good-thinking.uk/urgent-support\" rel=\"noopener noreferrer\" target=\"_blank\">Urgent support</a></p>"
+									"content": "<p><a href=\"https://www.good-thinking.uk/teachingresources\" rel=\"noopener noreferrer\" target=\"_blank\">An introduction to mental health and wellbeing for secondary school pupils (lesson pack)</a></p><p><a href=\"https://www.good-thinking.uk/anxiety\" rel=\"noopener noreferrer\" target=\"_blank\">Anxiety resources</a></p><p><a href=\"https://www.good-thinking.uk/free-apps-for/apps-adults\" rel=\"noopener noreferrer\" target=\"_blank\">Free NHS-approved wellbeing apps for adults</a></p><p><a href=\"https://www.good-thinking.uk/low-mood\" rel=\"noopener noreferrer\" target=\"_blank\">Low mood resources</a></p><p><a href=\"https://www.good-thinking.uk/sleep\" rel=\"noopener noreferrer\" target=\"_blank\">Sleep resources</a></p><p><a href=\"https://www.good-thinking.uk/stress\" rel=\"noopener noreferrer\" target=\"_blank\">Stress resources</a></p><p><a href=\"/good-thinking-archive/assets/JCR_004_Good_Thinking_Guide_for_Teachers_DIGITAL_585c9f9f6f.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Quick guide to looking out for your students</a></p><p><a href=\"https://www.good-thinking.uk/urgent-support\" rel=\"noopener noreferrer\" target=\"_blank\">Urgent support</a></p>"
 								},
 								{
 									"id": "716",
@@ -1657,7 +1657,7 @@
 								{
 									"id": "625",
 									"title": "Create safe spaces",
-									"content": "<p>Have you ever considered whether your students feel safe and comfortable at school? Have you asked them whether there are areas in school where they feel unsafe or less safe? </p><p>The physical environment can positively contribute to supporting young people’s mental health. Speak with your young people to learn about their experiences and consider how you can ensure they feel safe wherever they are in school.</p><p>It’s a good idea to d<span style=\"color: rgb(13, 13, 13);\">esignate areas in the school building or in the school grounds where your students can go to relax and feel safe, such as a wellness room or quiet zone, and to make sure your young people know where they are, who can use them and when they can be used. These spaces can offer a refuge for students experiencing stress or anxiety.</span></p><p><span style=\"color: rgb(13, 13, 13);\">You could also think about the sort of equipment and display resources to place in these areas:</span></p><p><span style=\"color: rgb(13, 13, 13);\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comfortable, flexible seating feels welcoming. </span></p><p><span style=\"color: rgb(13, 13, 13);\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fidget or stress-reliever toys might be useful for some students. </span></p><p><span style=\"color: rgb(13, 13, 13);\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Posters on the walls could provide prompts and tips to support wellbeing – check out Good Thinking’s </span><a href=\"/good-thinking-archives/assets/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Five Ways to Wellbeing posters</a><span style=\"color: rgb(13, 13, 13);\">.&nbsp;</span></p>"
+									"content": "<p>Have you ever considered whether your students feel safe and comfortable at school? Have you asked them whether there are areas in school where they feel unsafe or less safe? </p><p>The physical environment can positively contribute to supporting young people’s mental health. Speak with your young people to learn about their experiences and consider how you can ensure they feel safe wherever they are in school.</p><p>It’s a good idea to d<span style=\"color: rgb(13, 13, 13);\">esignate areas in the school building or in the school grounds where your students can go to relax and feel safe, such as a wellness room or quiet zone, and to make sure your young people know where they are, who can use them and when they can be used. These spaces can offer a refuge for students experiencing stress or anxiety.</span></p><p><span style=\"color: rgb(13, 13, 13);\">You could also think about the sort of equipment and display resources to place in these areas:</span></p><p><span style=\"color: rgb(13, 13, 13);\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comfortable, flexible seating feels welcoming. </span></p><p><span style=\"color: rgb(13, 13, 13);\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fidget or stress-reliever toys might be useful for some students. </span></p><p><span style=\"color: rgb(13, 13, 13);\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Posters on the walls could provide prompts and tips to support wellbeing – check out Good Thinking’s </span><a href=\"/good-thinking-archive/assets/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Five Ways to Wellbeing posters</a><span style=\"color: rgb(13, 13, 13);\">.&nbsp;</span></p>"
 								},
 								{
 									"id": "626",
@@ -1733,12 +1733,12 @@
 									"width": 1080,
 									"height": 1080,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/PYL_Logo_9b7e753338.png",
+									"url": "/good-thinking-archive/assets/PYL_Logo_9b7e753338.png",
 									"size": 16.92,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_PYL_Logo_9b7e753338.png",
+											"url": "/good-thinking-archive/assets/large_PYL_Logo_9b7e753338.png",
 											"hash": "large_PYL_Logo_9b7e753338",
 											"mime": "image/png",
 											"name": "large_PYL Logo.png",
@@ -1749,7 +1749,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_PYL_Logo_9b7e753338.png",
+											"url": "/good-thinking-archive/assets/small_PYL_Logo_9b7e753338.png",
 											"hash": "small_PYL_Logo_9b7e753338",
 											"mime": "image/png",
 											"name": "small_PYL Logo.png",
@@ -1760,7 +1760,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_PYL_Logo_9b7e753338.png",
+											"url": "/good-thinking-archive/assets/medium_PYL_Logo_9b7e753338.png",
 											"hash": "medium_PYL_Logo_9b7e753338",
 											"mime": "image/png",
 											"name": "medium_PYL Logo.png",
@@ -1771,7 +1771,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_PYL_Logo_9b7e753338.png",
+											"url": "/good-thinking-archive/assets/thumbnail_PYL_Logo_9b7e753338.png",
 											"hash": "thumbnail_PYL_Logo_9b7e753338",
 											"mime": "image/png",
 											"name": "thumbnail_PYL Logo.png",
@@ -1800,12 +1800,12 @@
 									"width": 1080,
 									"height": 1080,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/PYL_Logo_9b7e753338.png",
+									"url": "/good-thinking-archive/assets/PYL_Logo_9b7e753338.png",
 									"size": 16.92,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_PYL_Logo_9b7e753338.png",
+											"url": "/good-thinking-archive/assets/large_PYL_Logo_9b7e753338.png",
 											"hash": "large_PYL_Logo_9b7e753338",
 											"mime": "image/png",
 											"name": "large_PYL Logo.png",
@@ -1816,7 +1816,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_PYL_Logo_9b7e753338.png",
+											"url": "/good-thinking-archive/assets/small_PYL_Logo_9b7e753338.png",
 											"hash": "small_PYL_Logo_9b7e753338",
 											"mime": "image/png",
 											"name": "small_PYL Logo.png",
@@ -1827,7 +1827,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_PYL_Logo_9b7e753338.png",
+											"url": "/good-thinking-archive/assets/medium_PYL_Logo_9b7e753338.png",
 											"hash": "medium_PYL_Logo_9b7e753338",
 											"mime": "image/png",
 											"name": "medium_PYL Logo.png",
@@ -1838,7 +1838,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_PYL_Logo_9b7e753338.png",
+											"url": "/good-thinking-archive/assets/thumbnail_PYL_Logo_9b7e753338.png",
 											"hash": "thumbnail_PYL_Logo_9b7e753338",
 											"mime": "image/png",
 											"name": "thumbnail_PYL Logo.png",
@@ -1944,12 +1944,12 @@
 									"width": 314,
 									"height": 280,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/Picture1_ec64d5fd03.png",
+									"url": "/good-thinking-archive/assets/Picture1_ec64d5fd03.png",
 									"size": 32.79,
 									"formats": {
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_Picture1_ec64d5fd03.png",
+											"url": "/good-thinking-archive/assets/thumbnail_Picture1_ec64d5fd03.png",
 											"hash": "thumbnail_Picture1_ec64d5fd03",
 											"mime": "image/png",
 											"name": "thumbnail_Picture1.png",
@@ -2031,12 +2031,12 @@
 									"width": 3024,
 									"height": 4032,
 									"mime": "image/jpeg",
-									"url": "/good-thinking-archives/assets/Shelby_Photo_4055627309.jpg",
+									"url": "/good-thinking-archive/assets/Shelby_Photo_4055627309.jpg",
 									"size": 653.03,
 									"formats": {
 										"large": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/large_Shelby_Photo_4055627309.jpg",
+											"url": "/good-thinking-archive/assets/large_Shelby_Photo_4055627309.jpg",
 											"hash": "large_Shelby_Photo_4055627309",
 											"mime": "image/jpeg",
 											"name": "large_Shelby Photo.jpg",
@@ -2047,7 +2047,7 @@
 										},
 										"small": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/small_Shelby_Photo_4055627309.jpg",
+											"url": "/good-thinking-archive/assets/small_Shelby_Photo_4055627309.jpg",
 											"hash": "small_Shelby_Photo_4055627309",
 											"mime": "image/jpeg",
 											"name": "small_Shelby Photo.jpg",
@@ -2058,7 +2058,7 @@
 										},
 										"medium": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/medium_Shelby_Photo_4055627309.jpg",
+											"url": "/good-thinking-archive/assets/medium_Shelby_Photo_4055627309.jpg",
 											"hash": "medium_Shelby_Photo_4055627309",
 											"mime": "image/jpeg",
 											"name": "medium_Shelby Photo.jpg",
@@ -2069,7 +2069,7 @@
 										},
 										"thumbnail": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/thumbnail_Shelby_Photo_4055627309.jpg",
+											"url": "/good-thinking-archive/assets/thumbnail_Shelby_Photo_4055627309.jpg",
 											"hash": "thumbnail_Shelby_Photo_4055627309",
 											"mime": "image/jpeg",
 											"name": "thumbnail_Shelby Photo.jpg",
@@ -2119,7 +2119,7 @@
 						{
 							"__typename": "ComponentSectionsRichText",
 							"id": "575",
-							"content": "<p><img src=\"/good-thinking-archives/assets/8_a9caff346c.png\" alt=\"8.png\"></p>",
+							"content": "<p><img src=\"/good-thinking-archive/assets/8_a9caff346c.png\" alt=\"8.png\"></p>",
 							"columnWidth": "full"
 						},
 						{
@@ -2131,13 +2131,13 @@
 						{
 							"__typename": "ComponentSectionsRichText",
 							"id": "579",
-							"content": "<p><img src=\"/good-thinking-archives/assets/10_a56112c621.png\" alt=\"10.png\"></p>",
+							"content": "<p><img src=\"/good-thinking-archive/assets/10_a56112c621.png\" alt=\"10.png\"></p>",
 							"columnWidth": "full"
 						},
 						{
 							"__typename": "ComponentSectionsRichText",
 							"id": "577",
-							"content": "<p><strong>﻿Co-production is key</strong></p><p>Young people also play an important part in creating Good Thinking resources.&nbsp;The <a href=\"/good-thinking-archives/assets/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"> Children and young people’s 5 ways to wellbeing</a> project involved working closely with the DHAs and specifically targeting an audience of 12–18-year-olds in Haringey, Southwark, Newham &amp; Islington. Groups of young people worked on the resource and fed back on how they improve their own mental health in line with their interests and lifestyle (e.g. sport, media, faith and community). This project also involved some social media content creation in the form of vlogs and TikTok animations for each of the 5 ways.</p>",
+							"content": "<p><strong>﻿Co-production is key</strong></p><p>Young people also play an important part in creating Good Thinking resources.&nbsp;The <a href=\"/good-thinking-archive/assets/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"> Children and young people’s 5 ways to wellbeing</a> project involved working closely with the DHAs and specifically targeting an audience of 12–18-year-olds in Haringey, Southwark, Newham &amp; Islington. Groups of young people worked on the resource and fed back on how they improve their own mental health in line with their interests and lifestyle (e.g. sport, media, faith and community). This project also involved some social media content creation in the form of vlogs and TikTok animations for each of the 5 ways.</p>",
 							"columnWidth": "full"
 						},
 						{
@@ -2180,12 +2180,12 @@
 									"width": 1324,
 									"height": 1357,
 									"mime": "image/jpeg",
-									"url": "/good-thinking-archives/assets/LSBU_Michael_headshot_cropped_34f8b5086a.jpg",
+									"url": "/good-thinking-archive/assets/LSBU_Michael_headshot_cropped_34f8b5086a.jpg",
 									"size": 141.03,
 									"formats": {
 										"large": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/large_LSBU_Michael_headshot_cropped_34f8b5086a.jpg",
+											"url": "/good-thinking-archive/assets/large_LSBU_Michael_headshot_cropped_34f8b5086a.jpg",
 											"hash": "large_LSBU_Michael_headshot_cropped_34f8b5086a",
 											"mime": "image/jpeg",
 											"name": "large_LSBU_Michael_headshot cropped.jpg",
@@ -2196,7 +2196,7 @@
 										},
 										"small": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/small_LSBU_Michael_headshot_cropped_34f8b5086a.jpg",
+											"url": "/good-thinking-archive/assets/small_LSBU_Michael_headshot_cropped_34f8b5086a.jpg",
 											"hash": "small_LSBU_Michael_headshot_cropped_34f8b5086a",
 											"mime": "image/jpeg",
 											"name": "small_LSBU_Michael_headshot cropped.jpg",
@@ -2207,7 +2207,7 @@
 										},
 										"medium": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/medium_LSBU_Michael_headshot_cropped_34f8b5086a.jpg",
+											"url": "/good-thinking-archive/assets/medium_LSBU_Michael_headshot_cropped_34f8b5086a.jpg",
 											"hash": "medium_LSBU_Michael_headshot_cropped_34f8b5086a",
 											"mime": "image/jpeg",
 											"name": "medium_LSBU_Michael_headshot cropped.jpg",
@@ -2218,7 +2218,7 @@
 										},
 										"thumbnail": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/thumbnail_LSBU_Michael_headshot_cropped_34f8b5086a.jpg",
+											"url": "/good-thinking-archive/assets/thumbnail_LSBU_Michael_headshot_cropped_34f8b5086a.jpg",
 											"hash": "thumbnail_LSBU_Michael_headshot_cropped_34f8b5086a",
 											"mime": "image/jpeg",
 											"name": "thumbnail_LSBU_Michael_headshot cropped.jpg",
@@ -2309,7 +2309,7 @@
 									"width": null,
 									"height": null,
 									"mime": "image/avif",
-									"url": "/good-thinking-archives/assets/https_cdn_evbuc_com_images_430115439_331987553565_1_original_00ff14fa2b.avif",
+									"url": "/good-thinking-archive/assets/https_cdn_evbuc_com_images_430115439_331987553565_1_original_00ff14fa2b.avif",
 									"size": 14.89,
 									"formats": null,
 									"hash": "https_cdn_evbuc_com_images_430115439_331987553565_1_original_00ff14fa2b",
@@ -2354,12 +2354,12 @@
 									"width": 1667,
 									"height": 875,
 									"mime": "image/jpeg",
-									"url": "/good-thinking-archives/assets/094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+									"url": "/good-thinking-archive/assets/094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 									"size": 100.61,
 									"formats": {
 										"large": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/large_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/large_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "large_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "large_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -2370,7 +2370,7 @@
 										},
 										"small": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/small_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/small_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "small_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "small_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -2381,7 +2381,7 @@
 										},
 										"medium": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/medium_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/medium_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "medium_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "medium_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -2392,7 +2392,7 @@
 										},
 										"thumbnail": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/thumbnail_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/thumbnail_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "thumbnail_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "thumbnail_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -2421,12 +2421,12 @@
 									"width": 1324,
 									"height": 1357,
 									"mime": "image/jpeg",
-									"url": "/good-thinking-archives/assets/LSBU_Michael_headshot_cropped_34f8b5086a.jpg",
+									"url": "/good-thinking-archive/assets/LSBU_Michael_headshot_cropped_34f8b5086a.jpg",
 									"size": 141.03,
 									"formats": {
 										"large": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/large_LSBU_Michael_headshot_cropped_34f8b5086a.jpg",
+											"url": "/good-thinking-archive/assets/large_LSBU_Michael_headshot_cropped_34f8b5086a.jpg",
 											"hash": "large_LSBU_Michael_headshot_cropped_34f8b5086a",
 											"mime": "image/jpeg",
 											"name": "large_LSBU_Michael_headshot cropped.jpg",
@@ -2437,7 +2437,7 @@
 										},
 										"small": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/small_LSBU_Michael_headshot_cropped_34f8b5086a.jpg",
+											"url": "/good-thinking-archive/assets/small_LSBU_Michael_headshot_cropped_34f8b5086a.jpg",
 											"hash": "small_LSBU_Michael_headshot_cropped_34f8b5086a",
 											"mime": "image/jpeg",
 											"name": "small_LSBU_Michael_headshot cropped.jpg",
@@ -2448,7 +2448,7 @@
 										},
 										"medium": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/medium_LSBU_Michael_headshot_cropped_34f8b5086a.jpg",
+											"url": "/good-thinking-archive/assets/medium_LSBU_Michael_headshot_cropped_34f8b5086a.jpg",
 											"hash": "medium_LSBU_Michael_headshot_cropped_34f8b5086a",
 											"mime": "image/jpeg",
 											"name": "medium_LSBU_Michael_headshot cropped.jpg",
@@ -2459,7 +2459,7 @@
 										},
 										"thumbnail": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/thumbnail_LSBU_Michael_headshot_cropped_34f8b5086a.jpg",
+											"url": "/good-thinking-archive/assets/thumbnail_LSBU_Michael_headshot_cropped_34f8b5086a.jpg",
 											"hash": "thumbnail_LSBU_Michael_headshot_cropped_34f8b5086a",
 											"mime": "image/jpeg",
 											"name": "thumbnail_LSBU_Michael_headshot cropped.jpg",
@@ -2522,12 +2522,12 @@
 									"width": 1667,
 									"height": 875,
 									"mime": "image/jpeg",
-									"url": "/good-thinking-archives/assets/094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+									"url": "/good-thinking-archive/assets/094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 									"size": 100.61,
 									"formats": {
 										"large": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/large_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/large_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "large_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "large_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -2538,7 +2538,7 @@
 										},
 										"small": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/small_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/small_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "small_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "small_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -2549,7 +2549,7 @@
 										},
 										"medium": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/medium_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/medium_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "medium_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "medium_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -2560,7 +2560,7 @@
 										},
 										"thumbnail": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/thumbnail_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/thumbnail_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "thumbnail_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "thumbnail_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -2589,12 +2589,12 @@
 									"width": 4000,
 									"height": 6000,
 									"mime": "image/jpeg",
-									"url": "/good-thinking-archives/assets/LSBU_Andy_001_193e23f7cf.JPG",
+									"url": "/good-thinking-archive/assets/LSBU_Andy_001_193e23f7cf.JPG",
 									"size": 2210.82,
 									"formats": {
 										"large": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/large_LSBU_Andy_001_193e23f7cf.JPG",
+											"url": "/good-thinking-archive/assets/large_LSBU_Andy_001_193e23f7cf.JPG",
 											"hash": "large_LSBU_Andy_001_193e23f7cf",
 											"mime": "image/jpeg",
 											"name": "large_LSBU_Andy_001.JPG",
@@ -2605,7 +2605,7 @@
 										},
 										"small": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/small_LSBU_Andy_001_193e23f7cf.JPG",
+											"url": "/good-thinking-archive/assets/small_LSBU_Andy_001_193e23f7cf.JPG",
 											"hash": "small_LSBU_Andy_001_193e23f7cf",
 											"mime": "image/jpeg",
 											"name": "small_LSBU_Andy_001.JPG",
@@ -2616,7 +2616,7 @@
 										},
 										"medium": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/medium_LSBU_Andy_001_193e23f7cf.JPG",
+											"url": "/good-thinking-archive/assets/medium_LSBU_Andy_001_193e23f7cf.JPG",
 											"hash": "medium_LSBU_Andy_001_193e23f7cf",
 											"mime": "image/jpeg",
 											"name": "medium_LSBU_Andy_001.JPG",
@@ -2627,7 +2627,7 @@
 										},
 										"thumbnail": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/thumbnail_LSBU_Andy_001_193e23f7cf.JPG",
+											"url": "/good-thinking-archive/assets/thumbnail_LSBU_Andy_001_193e23f7cf.JPG",
 											"hash": "thumbnail_LSBU_Andy_001_193e23f7cf",
 											"mime": "image/jpeg",
 											"name": "thumbnail_LSBU_Andy_001.JPG",
@@ -2696,12 +2696,12 @@
 									"width": 4032,
 									"height": 3024,
 									"mime": "image/jpeg",
-									"url": "/good-thinking-archives/assets/Sarah_Drage_headshot_41db3549eb.jpg",
+									"url": "/good-thinking-archive/assets/Sarah_Drage_headshot_41db3549eb.jpg",
 									"size": 3732.22,
 									"formats": {
 										"large": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/large_Sarah_Drage_headshot_41db3549eb.jpg",
+											"url": "/good-thinking-archive/assets/large_Sarah_Drage_headshot_41db3549eb.jpg",
 											"hash": "large_Sarah_Drage_headshot_41db3549eb",
 											"mime": "image/jpeg",
 											"name": "large_Sarah Drage headshot.jpg",
@@ -2712,7 +2712,7 @@
 										},
 										"small": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/small_Sarah_Drage_headshot_41db3549eb.jpg",
+											"url": "/good-thinking-archive/assets/small_Sarah_Drage_headshot_41db3549eb.jpg",
 											"hash": "small_Sarah_Drage_headshot_41db3549eb",
 											"mime": "image/jpeg",
 											"name": "small_Sarah Drage headshot.jpg",
@@ -2723,7 +2723,7 @@
 										},
 										"medium": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/medium_Sarah_Drage_headshot_41db3549eb.jpg",
+											"url": "/good-thinking-archive/assets/medium_Sarah_Drage_headshot_41db3549eb.jpg",
 											"hash": "medium_Sarah_Drage_headshot_41db3549eb",
 											"mime": "image/jpeg",
 											"name": "medium_Sarah Drage headshot.jpg",
@@ -2734,7 +2734,7 @@
 										},
 										"thumbnail": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/thumbnail_Sarah_Drage_headshot_41db3549eb.jpg",
+											"url": "/good-thinking-archive/assets/thumbnail_Sarah_Drage_headshot_41db3549eb.jpg",
 											"hash": "thumbnail_Sarah_Drage_headshot_41db3549eb",
 											"mime": "image/jpeg",
 											"name": "thumbnail_Sarah Drage headshot.jpg",
@@ -2793,12 +2793,12 @@
 									"width": 1232,
 									"height": 2332,
 									"mime": "image/jpeg",
-									"url": "/good-thinking-archives/assets/Samira_Rahman_Good_Thinking_Team_2_fb527ddca2.jpg",
+									"url": "/good-thinking-archive/assets/Samira_Rahman_Good_Thinking_Team_2_fb527ddca2.jpg",
 									"size": 346.03,
 									"formats": {
 										"large": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/large_Samira_Rahman_Good_Thinking_Team_2_fb527ddca2.jpg",
+											"url": "/good-thinking-archive/assets/large_Samira_Rahman_Good_Thinking_Team_2_fb527ddca2.jpg",
 											"hash": "large_Samira_Rahman_Good_Thinking_Team_2_fb527ddca2",
 											"mime": "image/jpeg",
 											"name": "large_Samira Rahman Good Thinking Team 2.jpg",
@@ -2809,7 +2809,7 @@
 										},
 										"small": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/small_Samira_Rahman_Good_Thinking_Team_2_fb527ddca2.jpg",
+											"url": "/good-thinking-archive/assets/small_Samira_Rahman_Good_Thinking_Team_2_fb527ddca2.jpg",
 											"hash": "small_Samira_Rahman_Good_Thinking_Team_2_fb527ddca2",
 											"mime": "image/jpeg",
 											"name": "small_Samira Rahman Good Thinking Team 2.jpg",
@@ -2820,7 +2820,7 @@
 										},
 										"medium": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/medium_Samira_Rahman_Good_Thinking_Team_2_fb527ddca2.jpg",
+											"url": "/good-thinking-archive/assets/medium_Samira_Rahman_Good_Thinking_Team_2_fb527ddca2.jpg",
 											"hash": "medium_Samira_Rahman_Good_Thinking_Team_2_fb527ddca2",
 											"mime": "image/jpeg",
 											"name": "medium_Samira Rahman Good Thinking Team 2.jpg",
@@ -2831,7 +2831,7 @@
 										},
 										"thumbnail": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/thumbnail_Samira_Rahman_Good_Thinking_Team_2_fb527ddca2.jpg",
+											"url": "/good-thinking-archive/assets/thumbnail_Samira_Rahman_Good_Thinking_Team_2_fb527ddca2.jpg",
 											"hash": "thumbnail_Samira_Rahman_Good_Thinking_Team_2_fb527ddca2",
 											"mime": "image/jpeg",
 											"name": "thumbnail_Samira Rahman Good Thinking Team 2.jpg",
@@ -2853,7 +2853,7 @@
 						{
 							"__typename": "ComponentSectionsRichText",
 							"id": "501",
-							"content": "<p>I’m Samira, Good Thinking’s Project Officer. My role in the team is focused on engaging with communities across London to collectively improve mental health and wellbeing. I regularly meet residents at events across the city to raise awareness of the wide range of resources that Good Thinking offers all Londoners, free of charge.</p><p>I’m currently observing Ramadan and want to share a little about my experience of how taking time for spiritual reflection can benefit mental wellbeing. </p><h3>What is Ramadan?</h3><p>Ramadan marks the 9<sup>th</sup> month in the Islamic calendar and is a month of fasting from dawn to sunset for Muslims worldwide. The end of Ramadan is marked by Eid al-Fitr, a day for all Muslims to unite and celebrate by dressing up, visiting family and friends and, most importantly, eating great food!</p><h3>A time for spiritual reflection</h3><p>For many Muslims, such as myself, it is a time to reflect and reconnect with our faith. We do this through prayer, increasing our charitable activities and engaging with our local community.</p><p>I, along with many other Muslims, choose to reduce the time spent on social media, watching TV and reading the news. We do this because Ramadan is a time when we enjoy focusing on reconnection with our faith and genuinely taking the time to treasure what the month can help us achieve. I have found Ramadan to be especially healing to my physical and mental health and wellbeing.</p><h3>Kindness and empathy</h3><p>One of the most important lessons of Ramadan is to be kind and empathetic toward one another. We're reminded of the less fortunate people around the world and within our very own communities living in poverty and suffering from great hardships.</p><p>In remembrance of those less fortunate, it is commonplace for Muslims to increase our charitable donations and support as a way of giving back to those most in need.</p><p>But please also remember that you can give back to those less fortunate in other ways - for example, by volunteering for local projects within the community that make a positive difference. There may be people within your very own circle that need support.</p><h3>Look out for loved ones and those in your local community</h3><p>The month of Ramadan is the perfect opportunity to check in on those around you and see how you can support them in improving their mental health and wellbeing, particularly if they find fasting tough. You can make a significant change by <a href=\"/good-thinking-archives/assets/Looking_out_for_those_around_you_guide_f8b02d5670.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">looking out for those around you</a>, <a href=\"/good-thinking-archives/assets/Looking_out_for_friends_and_colleagues_at_work_guide_c6ee3e3d3e.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">looking out for your friends and colleagues at work</a> and the <a href=\"/good-thinking-archives/assets/Parents_and_carers_looking_out_for_children_and_young_people_guide_ea4aec98af.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">children and young people</a> around you who may shy away from these conversations.</p><p>You may also find <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/islam\" rel=\"noopener noreferrer\" target=\"_blank\">our Five ways to good mental wellbeing and Islam guide</a><span style=\"color: red;\"> </span>a great tool to support your journey toward positive mental health.</p><h3>Ramadan Mubarak!</h3><p>To all those celebrating, I wish you a very blessed Ramadan. May the month bring you peace and happiness and remove all that is causing you <a href=\"https://www.good-thinking.uk/stress\" rel=\"noopener noreferrer\" target=\"_blank\">stress</a>, <a href=\"https://www.good-thinking.uk/anxiety\" rel=\"noopener noreferrer\" target=\"_blank\">anxiety</a>, <a href=\"https://www.good-thinking.uk/low-mood\" rel=\"noopener noreferrer\" target=\"_blank\">low mood</a> and <a href=\"https://www.good-thinking.uk/sleep\" rel=\"noopener noreferrer\" target=\"_blank\">sleeplessness</a>.</p>",
+							"content": "<p>I’m Samira, Good Thinking’s Project Officer. My role in the team is focused on engaging with communities across London to collectively improve mental health and wellbeing. I regularly meet residents at events across the city to raise awareness of the wide range of resources that Good Thinking offers all Londoners, free of charge.</p><p>I’m currently observing Ramadan and want to share a little about my experience of how taking time for spiritual reflection can benefit mental wellbeing. </p><h3>What is Ramadan?</h3><p>Ramadan marks the 9<sup>th</sup> month in the Islamic calendar and is a month of fasting from dawn to sunset for Muslims worldwide. The end of Ramadan is marked by Eid al-Fitr, a day for all Muslims to unite and celebrate by dressing up, visiting family and friends and, most importantly, eating great food!</p><h3>A time for spiritual reflection</h3><p>For many Muslims, such as myself, it is a time to reflect and reconnect with our faith. We do this through prayer, increasing our charitable activities and engaging with our local community.</p><p>I, along with many other Muslims, choose to reduce the time spent on social media, watching TV and reading the news. We do this because Ramadan is a time when we enjoy focusing on reconnection with our faith and genuinely taking the time to treasure what the month can help us achieve. I have found Ramadan to be especially healing to my physical and mental health and wellbeing.</p><h3>Kindness and empathy</h3><p>One of the most important lessons of Ramadan is to be kind and empathetic toward one another. We're reminded of the less fortunate people around the world and within our very own communities living in poverty and suffering from great hardships.</p><p>In remembrance of those less fortunate, it is commonplace for Muslims to increase our charitable donations and support as a way of giving back to those most in need.</p><p>But please also remember that you can give back to those less fortunate in other ways - for example, by volunteering for local projects within the community that make a positive difference. There may be people within your very own circle that need support.</p><h3>Look out for loved ones and those in your local community</h3><p>The month of Ramadan is the perfect opportunity to check in on those around you and see how you can support them in improving their mental health and wellbeing, particularly if they find fasting tough. You can make a significant change by <a href=\"/good-thinking-archive/assets/Looking_out_for_those_around_you_guide_f8b02d5670.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">looking out for those around you</a>, <a href=\"/good-thinking-archive/assets/Looking_out_for_friends_and_colleagues_at_work_guide_c6ee3e3d3e.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">looking out for your friends and colleagues at work</a> and the <a href=\"/good-thinking-archive/assets/Parents_and_carers_looking_out_for_children_and_young_people_guide_ea4aec98af.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">children and young people</a> around you who may shy away from these conversations.</p><p>You may also find <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/islam\" rel=\"noopener noreferrer\" target=\"_blank\">our Five ways to good mental wellbeing and Islam guide</a><span style=\"color: red;\"> </span>a great tool to support your journey toward positive mental health.</p><h3>Ramadan Mubarak!</h3><p>To all those celebrating, I wish you a very blessed Ramadan. May the month bring you peace and happiness and remove all that is causing you <a href=\"https://www.good-thinking.uk/stress\" rel=\"noopener noreferrer\" target=\"_blank\">stress</a>, <a href=\"https://www.good-thinking.uk/anxiety\" rel=\"noopener noreferrer\" target=\"_blank\">anxiety</a>, <a href=\"https://www.good-thinking.uk/low-mood\" rel=\"noopener noreferrer\" target=\"_blank\">low mood</a> and <a href=\"https://www.good-thinking.uk/sleep\" rel=\"noopener noreferrer\" target=\"_blank\">sleeplessness</a>.</p>",
 							"columnWidth": "full"
 						},
 						{ "__typename": "ComponentSectionsLinkBanner" }
@@ -2878,12 +2878,12 @@
 									"width": 1667,
 									"height": 875,
 									"mime": "image/jpeg",
-									"url": "/good-thinking-archives/assets/094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+									"url": "/good-thinking-archive/assets/094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 									"size": 100.61,
 									"formats": {
 										"large": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/large_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/large_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "large_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "large_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -2894,7 +2894,7 @@
 										},
 										"small": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/small_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/small_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "small_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "small_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -2905,7 +2905,7 @@
 										},
 										"medium": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/medium_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/medium_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "medium_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "medium_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -2916,7 +2916,7 @@
 										},
 										"thumbnail": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/thumbnail_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/thumbnail_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "thumbnail_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "thumbnail_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -2945,12 +2945,12 @@
 									"width": 4000,
 									"height": 6000,
 									"mime": "image/jpeg",
-									"url": "/good-thinking-archives/assets/LSBU_Andy_001_193e23f7cf.JPG",
+									"url": "/good-thinking-archive/assets/LSBU_Andy_001_193e23f7cf.JPG",
 									"size": 2210.82,
 									"formats": {
 										"large": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/large_LSBU_Andy_001_193e23f7cf.JPG",
+											"url": "/good-thinking-archive/assets/large_LSBU_Andy_001_193e23f7cf.JPG",
 											"hash": "large_LSBU_Andy_001_193e23f7cf",
 											"mime": "image/jpeg",
 											"name": "large_LSBU_Andy_001.JPG",
@@ -2961,7 +2961,7 @@
 										},
 										"small": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/small_LSBU_Andy_001_193e23f7cf.JPG",
+											"url": "/good-thinking-archive/assets/small_LSBU_Andy_001_193e23f7cf.JPG",
 											"hash": "small_LSBU_Andy_001_193e23f7cf",
 											"mime": "image/jpeg",
 											"name": "small_LSBU_Andy_001.JPG",
@@ -2972,7 +2972,7 @@
 										},
 										"medium": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/medium_LSBU_Andy_001_193e23f7cf.JPG",
+											"url": "/good-thinking-archive/assets/medium_LSBU_Andy_001_193e23f7cf.JPG",
 											"hash": "medium_LSBU_Andy_001_193e23f7cf",
 											"mime": "image/jpeg",
 											"name": "medium_LSBU_Andy_001.JPG",
@@ -2983,7 +2983,7 @@
 										},
 										"thumbnail": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/thumbnail_LSBU_Andy_001_193e23f7cf.JPG",
+											"url": "/good-thinking-archive/assets/thumbnail_LSBU_Andy_001_193e23f7cf.JPG",
 											"hash": "thumbnail_LSBU_Andy_001_193e23f7cf",
 											"mime": "image/jpeg",
 											"name": "thumbnail_LSBU_Andy_001.JPG",
@@ -3052,12 +3052,12 @@
 									"width": 600,
 									"height": 200,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/Banner_1_test_for_LSBU_X_GT_d600901be9.png",
+									"url": "/good-thinking-archive/assets/Banner_1_test_for_LSBU_X_GT_d600901be9.png",
 									"size": 22.32,
 									"formats": {
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_Banner_1_test_for_LSBU_X_GT_d600901be9.png",
+											"url": "/good-thinking-archive/assets/small_Banner_1_test_for_LSBU_X_GT_d600901be9.png",
 											"hash": "small_Banner_1_test_for_LSBU_X_GT_d600901be9",
 											"mime": "image/png",
 											"name": "small_Banner 1 test for LSBU X GT.png",
@@ -3068,7 +3068,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_Banner_1_test_for_LSBU_X_GT_d600901be9.png",
+											"url": "/good-thinking-archive/assets/thumbnail_Banner_1_test_for_LSBU_X_GT_d600901be9.png",
 											"hash": "thumbnail_Banner_1_test_for_LSBU_X_GT_d600901be9",
 											"mime": "image/png",
 											"name": "thumbnail_Banner 1 test for LSBU X GT.png",
@@ -3097,12 +3097,12 @@
 									"width": 2048,
 									"height": 2044,
 									"mime": "image/jpeg",
-									"url": "/good-thinking-archives/assets/LSBU_Cheryl_003_39c6226876.JPG",
+									"url": "/good-thinking-archive/assets/LSBU_Cheryl_003_39c6226876.JPG",
 									"size": 416.12,
 									"formats": {
 										"large": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/large_LSBU_Cheryl_003_39c6226876.JPG",
+											"url": "/good-thinking-archive/assets/large_LSBU_Cheryl_003_39c6226876.JPG",
 											"hash": "large_LSBU_Cheryl_003_39c6226876",
 											"mime": "image/jpeg",
 											"name": "large_LSBU_Cheryl_003.JPG",
@@ -3113,7 +3113,7 @@
 										},
 										"small": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/small_LSBU_Cheryl_003_39c6226876.JPG",
+											"url": "/good-thinking-archive/assets/small_LSBU_Cheryl_003_39c6226876.JPG",
 											"hash": "small_LSBU_Cheryl_003_39c6226876",
 											"mime": "image/jpeg",
 											"name": "small_LSBU_Cheryl_003.JPG",
@@ -3124,7 +3124,7 @@
 										},
 										"medium": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/medium_LSBU_Cheryl_003_39c6226876.JPG",
+											"url": "/good-thinking-archive/assets/medium_LSBU_Cheryl_003_39c6226876.JPG",
 											"hash": "medium_LSBU_Cheryl_003_39c6226876",
 											"mime": "image/jpeg",
 											"name": "medium_LSBU_Cheryl_003.JPG",
@@ -3135,7 +3135,7 @@
 										},
 										"thumbnail": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/thumbnail_LSBU_Cheryl_003_39c6226876.JPG",
+											"url": "/good-thinking-archive/assets/thumbnail_LSBU_Cheryl_003_39c6226876.JPG",
 											"hash": "thumbnail_LSBU_Cheryl_003_39c6226876",
 											"mime": "image/jpeg",
 											"name": "thumbnail_LSBU_Cheryl_003.JPG",
@@ -3189,7 +3189,7 @@
 								{
 									"id": "505",
 									"title": "Racial socialisation",
-									"content": "<p>Racial socialisation is a process frequently initiated by black parents during their children’s childhood and adolescence. When parents are effective in racially socialising their children, they create a protective buffer against the negative racial messaging and experiences their children will encounter whilst living in marginalised environments. It is important to note that racial socialisation occurs whether parents approach it actively or not.&nbsp;</p><p>People who have internalised racism are likely to have had little or no active or positive racial socialisation and may have passively internalised negative messaging about their racial group. Others who have experienced proactive racial socialisation have consistently been associated with the development of racial pride and experience the psychological benefits of racial socialisation, such as resilience.</p><p>Use the illustration below to explore the ways you have been socialised and begin to question some of the assumptions you may make about your racial group.</p><p><a href=\"/good-thinking-archives/assets/Harro_1997_Cycle_of_Socialization_dbb1bf9fc9.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Click here</em></a><em> to view a larger image of the illustration below</em></p><p><span style=\"color: rgb(30, 12, 6);\"><img src=\"/good-thinking-archives/assets/Harro_1997_Cycle_of_Socialization_83f384e723.png\" alt=\"Illustration of Harro\"></span></p><p><em style=\"color: rgb(30, 12, 6);\">Harro's (1997) Cycle of Socialization</em></p><p><br></p><p>Think about a thought you have about your racial group that may have been implanted through your marginalised experience. You may find it useful to evaluate the thought using the questions below:</p><ul><li>What is the evidence for or against this thought?</li><li>Are these thoughts based on my racial socialisation?</li><li>Would others from my racial group agree with my perspective? Why or why not?</li><li>Is it black and white or more complicated?</li><li>Is the thought an exaggeration of the facts?</li><li>Is the thought based on my or someone else's feelings or beliefs?</li></ul><p>Being treated as racially inferior can feel painful so it is important to remember that this treatment is based upon the false belief of white superiority. Whilst this could be destructive to the way you define yourself, your family, your community and your culture, you can choose your strategies (e.g. exploring racial identity and promoting racial pride) and reject that inferiority.</p>"
+									"content": "<p>Racial socialisation is a process frequently initiated by black parents during their children’s childhood and adolescence. When parents are effective in racially socialising their children, they create a protective buffer against the negative racial messaging and experiences their children will encounter whilst living in marginalised environments. It is important to note that racial socialisation occurs whether parents approach it actively or not.&nbsp;</p><p>People who have internalised racism are likely to have had little or no active or positive racial socialisation and may have passively internalised negative messaging about their racial group. Others who have experienced proactive racial socialisation have consistently been associated with the development of racial pride and experience the psychological benefits of racial socialisation, such as resilience.</p><p>Use the illustration below to explore the ways you have been socialised and begin to question some of the assumptions you may make about your racial group.</p><p><a href=\"/good-thinking-archive/assets/Harro_1997_Cycle_of_Socialization_dbb1bf9fc9.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Click here</em></a><em> to view a larger image of the illustration below</em></p><p><span style=\"color: rgb(30, 12, 6);\"><img src=\"/good-thinking-archive/assets/Harro_1997_Cycle_of_Socialization_83f384e723.png\" alt=\"Illustration of Harro\"></span></p><p><em style=\"color: rgb(30, 12, 6);\">Harro's (1997) Cycle of Socialization</em></p><p><br></p><p>Think about a thought you have about your racial group that may have been implanted through your marginalised experience. You may find it useful to evaluate the thought using the questions below:</p><ul><li>What is the evidence for or against this thought?</li><li>Are these thoughts based on my racial socialisation?</li><li>Would others from my racial group agree with my perspective? Why or why not?</li><li>Is it black and white or more complicated?</li><li>Is the thought an exaggeration of the facts?</li><li>Is the thought based on my or someone else's feelings or beliefs?</li></ul><p>Being treated as racially inferior can feel painful so it is important to remember that this treatment is based upon the false belief of white superiority. Whilst this could be destructive to the way you define yourself, your family, your community and your culture, you can choose your strategies (e.g. exploring racial identity and promoting racial pride) and reject that inferiority.</p>"
 								},
 								{
 									"id": "506",
@@ -3211,7 +3211,7 @@
 								{
 									"id": "511",
 									"title": "Good Thinking resources",
-									"content": "<ul><li><a href=\"https://www.good-thinking.uk/articles/five-ways-good-mental-wellbeing\" rel=\"noopener noreferrer\" target=\"_blank\"> Five ways to good mental wellbeing</a> – a guide containing some simple steps to boost your wellbeing (it’s also available for various faith communities)</li><li><span style=\"color: red;\"> </span><a href=\"/good-thinking-archives/assets/GT_Trauma_Workbook_Final_8dada6a4eb.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Coping with trauma workbook</a> – a workbook containing seven techniques to help people who have experienced trauma</li><li><a href=\"https://www.good-thinking.uk/resources/cci-self-compassion-workbook\" rel=\"noopener noreferrer\" target=\"_blank\">Self-compassion workbook</a> - a workbook to help to to introduce self-compassionate thinking and behaviours into your life</li><li><a href=\"https://www.good-thinking.uk/overcoming-low-self-esteem\" rel=\"noopener noreferrer\" target=\"_blank\">Self-esteem workbook</a> - a workbook to help you to better understand and improve your self-esteem</li><li><a href=\"https://www.good-thinking.uk/resources/student-health\" rel=\"noopener noreferrer\" target=\"_blank\">Student Health App</a> – a free app that enables you to instantly access reliable, relevant and reassuring health and wellbeing information</li><li><a href=\"https://www.good-thinking.uk/resources/international-student\" rel=\"noopener noreferrer\" target=\"_blank\">International Student App</a> – a free app for international students in the UK that contains information and tips to help you to settle into university life</li><li><a href=\"https://www.good-thinking.uk/students\" rel=\"noopener noreferrer\" target=\"_blank\">Mental health and wellbeing support for students</a> - check out Good Thinking’s range of advice and support to help you to stay mentally health at college and university</li></ul>"
+									"content": "<ul><li><a href=\"https://www.good-thinking.uk/articles/five-ways-good-mental-wellbeing\" rel=\"noopener noreferrer\" target=\"_blank\"> Five ways to good mental wellbeing</a> – a guide containing some simple steps to boost your wellbeing (it’s also available for various faith communities)</li><li><span style=\"color: red;\"> </span><a href=\"/good-thinking-archive/assets/GT_Trauma_Workbook_Final_8dada6a4eb.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Coping with trauma workbook</a> – a workbook containing seven techniques to help people who have experienced trauma</li><li><a href=\"https://www.good-thinking.uk/resources/cci-self-compassion-workbook\" rel=\"noopener noreferrer\" target=\"_blank\">Self-compassion workbook</a> - a workbook to help to to introduce self-compassionate thinking and behaviours into your life</li><li><a href=\"https://www.good-thinking.uk/overcoming-low-self-esteem\" rel=\"noopener noreferrer\" target=\"_blank\">Self-esteem workbook</a> - a workbook to help you to better understand and improve your self-esteem</li><li><a href=\"https://www.good-thinking.uk/resources/student-health\" rel=\"noopener noreferrer\" target=\"_blank\">Student Health App</a> – a free app that enables you to instantly access reliable, relevant and reassuring health and wellbeing information</li><li><a href=\"https://www.good-thinking.uk/resources/international-student\" rel=\"noopener noreferrer\" target=\"_blank\">International Student App</a> – a free app for international students in the UK that contains information and tips to help you to settle into university life</li><li><a href=\"https://www.good-thinking.uk/students\" rel=\"noopener noreferrer\" target=\"_blank\">Mental health and wellbeing support for students</a> - check out Good Thinking’s range of advice and support to help you to stay mentally health at college and university</li></ul>"
 								},
 								{
 									"id": "512",
@@ -3248,12 +3248,12 @@
 									"width": 1667,
 									"height": 875,
 									"mime": "image/jpeg",
-									"url": "/good-thinking-archives/assets/094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+									"url": "/good-thinking-archive/assets/094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 									"size": 100.61,
 									"formats": {
 										"large": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/large_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/large_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "large_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "large_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -3264,7 +3264,7 @@
 										},
 										"small": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/small_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/small_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "small_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "small_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -3275,7 +3275,7 @@
 										},
 										"medium": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/medium_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/medium_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "medium_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "medium_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -3286,7 +3286,7 @@
 										},
 										"thumbnail": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/thumbnail_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/thumbnail_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "thumbnail_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "thumbnail_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -3315,12 +3315,12 @@
 									"width": 2048,
 									"height": 2044,
 									"mime": "image/jpeg",
-									"url": "/good-thinking-archives/assets/LSBU_Cheryl_003_39c6226876.JPG",
+									"url": "/good-thinking-archive/assets/LSBU_Cheryl_003_39c6226876.JPG",
 									"size": 416.12,
 									"formats": {
 										"large": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/large_LSBU_Cheryl_003_39c6226876.JPG",
+											"url": "/good-thinking-archive/assets/large_LSBU_Cheryl_003_39c6226876.JPG",
 											"hash": "large_LSBU_Cheryl_003_39c6226876",
 											"mime": "image/jpeg",
 											"name": "large_LSBU_Cheryl_003.JPG",
@@ -3331,7 +3331,7 @@
 										},
 										"small": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/small_LSBU_Cheryl_003_39c6226876.JPG",
+											"url": "/good-thinking-archive/assets/small_LSBU_Cheryl_003_39c6226876.JPG",
 											"hash": "small_LSBU_Cheryl_003_39c6226876",
 											"mime": "image/jpeg",
 											"name": "small_LSBU_Cheryl_003.JPG",
@@ -3342,7 +3342,7 @@
 										},
 										"medium": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/medium_LSBU_Cheryl_003_39c6226876.JPG",
+											"url": "/good-thinking-archive/assets/medium_LSBU_Cheryl_003_39c6226876.JPG",
 											"hash": "medium_LSBU_Cheryl_003_39c6226876",
 											"mime": "image/jpeg",
 											"name": "medium_LSBU_Cheryl_003.JPG",
@@ -3353,7 +3353,7 @@
 										},
 										"thumbnail": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/thumbnail_LSBU_Cheryl_003_39c6226876.JPG",
+											"url": "/good-thinking-archive/assets/thumbnail_LSBU_Cheryl_003_39c6226876.JPG",
 											"hash": "thumbnail_LSBU_Cheryl_003_39c6226876",
 											"mime": "image/jpeg",
 											"name": "thumbnail_LSBU_Cheryl_003.JPG",
@@ -3391,7 +3391,7 @@
 						{
 							"__typename": "ComponentSectionsRichText",
 							"id": "494",
-							"content": "<p><img src=\"/good-thinking-archives/assets/Banner_1_test_for_LSBU_X_GT_d600901be9.png\" alt=\"Illustration of black students with speech bubbles showing examples of racial microaggressions\"></p>",
+							"content": "<p><img src=\"/good-thinking-archive/assets/Banner_1_test_for_LSBU_X_GT_d600901be9.png\" alt=\"Illustration of black students with speech bubbles showing examples of racial microaggressions\"></p>",
 							"columnWidth": "full"
 						},
 						{
@@ -3466,7 +3466,7 @@
 								{
 									"id": "509",
 									"title": "Good Thinking resources",
-									"content": "<ul><li><a href=\"/good-thinking-archives/assets/GT_Trauma_Workbook_Final_8dada6a4eb.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Coping with trauma workbook</a> – a workbook containing seven techniques to help people who have experienced trauma&nbsp;</li><li><a href=\"https://www.good-thinking.uk/resources/cci-self-compassion-workbook\" rel=\"noopener noreferrer\" target=\"_blank\">Self-compassion workbook</a> - a workbook to help to to introduce self-compassionate thinking and behaviours into your life</li><li><a href=\"https://www.good-thinking.uk/articles/five-ways-good-mental-wellbeing\" rel=\"noopener noreferrer\" target=\"_blank\">Five ways to good mental wellbeing</a> - five steps you can take to help you to start to feel more positive and boost your wellbeing</li><li><a href=\"https://www.good-thinking.uk/students\" rel=\"noopener noreferrer\" target=\"_blank\">Mental health and wellbeing support for students</a> - check out Good Thinking’s range of advice and support to help you to stay mentally health at college and university</li><li><a href=\"https://www.good-thinking.uk/articles/use-disruption-your-routine-develop-new-healthy-habit\" rel=\"noopener noreferrer\" target=\"_blank\">How to develop a new healthy habit</a> – step-by-step instructions based on the science of habit formations</li><li><a href=\"https://www.good-thinking.uk/how-guides/quick-guides-support-others\" rel=\"noopener noreferrer\" target=\"_blank\">Looking out for those around you</a> – a series of guides to help support friends and others in your community who may be struggling with their mental health</li><li><a href=\"https://www.good-thinking.uk/resources/student-health\" rel=\"noopener noreferrer\" target=\"_blank\">Student Health App </a>– a free app that enables you to instantly access reliable, relevant and reassuring health and wellbeing information</li><li><a href=\"https://www.good-thinking.uk/resources/international-student\" rel=\"noopener noreferrer\" target=\"_blank\">International Student App</a> – a free app for international students in the UK that contains information and tips to help you to settle into university life</li><li><a href=\"https://www.good-thinking.uk/free-apps-for\" rel=\"noopener noreferrer\" target=\"_blank\">Other free NHS-approved apps</a> - check out the full range of apps that Good Thinking recommend to help boost your mental wellbeing&nbsp;</li></ul>"
+									"content": "<ul><li><a href=\"/good-thinking-archive/assets/GT_Trauma_Workbook_Final_8dada6a4eb.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Coping with trauma workbook</a> – a workbook containing seven techniques to help people who have experienced trauma&nbsp;</li><li><a href=\"https://www.good-thinking.uk/resources/cci-self-compassion-workbook\" rel=\"noopener noreferrer\" target=\"_blank\">Self-compassion workbook</a> - a workbook to help to to introduce self-compassionate thinking and behaviours into your life</li><li><a href=\"https://www.good-thinking.uk/articles/five-ways-good-mental-wellbeing\" rel=\"noopener noreferrer\" target=\"_blank\">Five ways to good mental wellbeing</a> - five steps you can take to help you to start to feel more positive and boost your wellbeing</li><li><a href=\"https://www.good-thinking.uk/students\" rel=\"noopener noreferrer\" target=\"_blank\">Mental health and wellbeing support for students</a> - check out Good Thinking’s range of advice and support to help you to stay mentally health at college and university</li><li><a href=\"https://www.good-thinking.uk/articles/use-disruption-your-routine-develop-new-healthy-habit\" rel=\"noopener noreferrer\" target=\"_blank\">How to develop a new healthy habit</a> – step-by-step instructions based on the science of habit formations</li><li><a href=\"https://www.good-thinking.uk/how-guides/quick-guides-support-others\" rel=\"noopener noreferrer\" target=\"_blank\">Looking out for those around you</a> – a series of guides to help support friends and others in your community who may be struggling with their mental health</li><li><a href=\"https://www.good-thinking.uk/resources/student-health\" rel=\"noopener noreferrer\" target=\"_blank\">Student Health App </a>– a free app that enables you to instantly access reliable, relevant and reassuring health and wellbeing information</li><li><a href=\"https://www.good-thinking.uk/resources/international-student\" rel=\"noopener noreferrer\" target=\"_blank\">International Student App</a> – a free app for international students in the UK that contains information and tips to help you to settle into university life</li><li><a href=\"https://www.good-thinking.uk/free-apps-for\" rel=\"noopener noreferrer\" target=\"_blank\">Other free NHS-approved apps</a> - check out the full range of apps that Good Thinking recommend to help boost your mental wellbeing&nbsp;</li></ul>"
 								},
 								{
 									"id": "510",
@@ -3503,12 +3503,12 @@
 									"width": 1667,
 									"height": 875,
 									"mime": "image/jpeg",
-									"url": "/good-thinking-archives/assets/094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+									"url": "/good-thinking-archive/assets/094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 									"size": 100.61,
 									"formats": {
 										"large": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/large_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/large_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "large_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "large_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -3519,7 +3519,7 @@
 										},
 										"small": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/small_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/small_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "small_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "small_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -3530,7 +3530,7 @@
 										},
 										"medium": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/medium_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/medium_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "medium_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "medium_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -3541,7 +3541,7 @@
 										},
 										"thumbnail": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/thumbnail_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/thumbnail_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "thumbnail_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "thumbnail_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -3570,12 +3570,12 @@
 									"width": 4000,
 									"height": 6000,
 									"mime": "image/jpeg",
-									"url": "/good-thinking-archives/assets/LSBU_Andy_001_193e23f7cf.JPG",
+									"url": "/good-thinking-archive/assets/LSBU_Andy_001_193e23f7cf.JPG",
 									"size": 2210.82,
 									"formats": {
 										"large": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/large_LSBU_Andy_001_193e23f7cf.JPG",
+											"url": "/good-thinking-archive/assets/large_LSBU_Andy_001_193e23f7cf.JPG",
 											"hash": "large_LSBU_Andy_001_193e23f7cf",
 											"mime": "image/jpeg",
 											"name": "large_LSBU_Andy_001.JPG",
@@ -3586,7 +3586,7 @@
 										},
 										"small": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/small_LSBU_Andy_001_193e23f7cf.JPG",
+											"url": "/good-thinking-archive/assets/small_LSBU_Andy_001_193e23f7cf.JPG",
 											"hash": "small_LSBU_Andy_001_193e23f7cf",
 											"mime": "image/jpeg",
 											"name": "small_LSBU_Andy_001.JPG",
@@ -3597,7 +3597,7 @@
 										},
 										"medium": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/medium_LSBU_Andy_001_193e23f7cf.JPG",
+											"url": "/good-thinking-archive/assets/medium_LSBU_Andy_001_193e23f7cf.JPG",
 											"hash": "medium_LSBU_Andy_001_193e23f7cf",
 											"mime": "image/jpeg",
 											"name": "medium_LSBU_Andy_001.JPG",
@@ -3608,7 +3608,7 @@
 										},
 										"thumbnail": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/thumbnail_LSBU_Andy_001_193e23f7cf.JPG",
+											"url": "/good-thinking-archive/assets/thumbnail_LSBU_Andy_001_193e23f7cf.JPG",
 											"hash": "thumbnail_LSBU_Andy_001_193e23f7cf",
 											"mime": "image/jpeg",
 											"name": "thumbnail_LSBU_Andy_001.JPG",
@@ -3687,12 +3687,12 @@
 									"width": 1667,
 									"height": 875,
 									"mime": "image/jpeg",
-									"url": "/good-thinking-archives/assets/094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+									"url": "/good-thinking-archive/assets/094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 									"size": 100.61,
 									"formats": {
 										"large": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/large_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/large_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "large_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "large_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -3703,7 +3703,7 @@
 										},
 										"small": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/small_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/small_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "small_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "small_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -3714,7 +3714,7 @@
 										},
 										"medium": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/medium_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/medium_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "medium_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "medium_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -3725,7 +3725,7 @@
 										},
 										"thumbnail": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/thumbnail_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/thumbnail_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "thumbnail_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "thumbnail_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -3754,12 +3754,12 @@
 									"width": 2048,
 									"height": 2044,
 									"mime": "image/jpeg",
-									"url": "/good-thinking-archives/assets/LSBU_Cheryl_003_39c6226876.JPG",
+									"url": "/good-thinking-archive/assets/LSBU_Cheryl_003_39c6226876.JPG",
 									"size": 416.12,
 									"formats": {
 										"large": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/large_LSBU_Cheryl_003_39c6226876.JPG",
+											"url": "/good-thinking-archive/assets/large_LSBU_Cheryl_003_39c6226876.JPG",
 											"hash": "large_LSBU_Cheryl_003_39c6226876",
 											"mime": "image/jpeg",
 											"name": "large_LSBU_Cheryl_003.JPG",
@@ -3770,7 +3770,7 @@
 										},
 										"small": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/small_LSBU_Cheryl_003_39c6226876.JPG",
+											"url": "/good-thinking-archive/assets/small_LSBU_Cheryl_003_39c6226876.JPG",
 											"hash": "small_LSBU_Cheryl_003_39c6226876",
 											"mime": "image/jpeg",
 											"name": "small_LSBU_Cheryl_003.JPG",
@@ -3781,7 +3781,7 @@
 										},
 										"medium": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/medium_LSBU_Cheryl_003_39c6226876.JPG",
+											"url": "/good-thinking-archive/assets/medium_LSBU_Cheryl_003_39c6226876.JPG",
 											"hash": "medium_LSBU_Cheryl_003_39c6226876",
 											"mime": "image/jpeg",
 											"name": "medium_LSBU_Cheryl_003.JPG",
@@ -3792,7 +3792,7 @@
 										},
 										"thumbnail": {
 											"ext": ".JPG",
-											"url": "/good-thinking-archives/assets/thumbnail_LSBU_Cheryl_003_39c6226876.JPG",
+											"url": "/good-thinking-archive/assets/thumbnail_LSBU_Cheryl_003_39c6226876.JPG",
 											"hash": "thumbnail_LSBU_Cheryl_003_39c6226876",
 											"mime": "image/jpeg",
 											"name": "thumbnail_LSBU_Cheryl_003.JPG",
@@ -3836,13 +3836,13 @@
 						{
 							"__typename": "ComponentSectionsRichText",
 							"id": "489",
-							"content": "<p><img src=\"/good-thinking-archives/assets/What_makes_you_happy_prompts_b4ed098c53.png\" alt=\"Three prompt questions to think about what makes you happy\"></p>",
+							"content": "<p><img src=\"/good-thinking-archive/assets/What_makes_you_happy_prompts_b4ed098c53.png\" alt=\"Three prompt questions to think about what makes you happy\"></p>",
 							"columnWidth": "full"
 						},
 						{
 							"__typename": "ComponentSectionsRichText",
 							"id": "487",
-							"content": "<p>Whilst we can all have fleeting moments of happiness every day, there is something to be said about savouring those moments. In the same way you might use a small spoon to eat your favourite dessert so you can savour the taste you enjoy or when you replay that favourite movie scene which elicits loud belly laughs. Reliving or savouring your happy moments can bring more happiness into your life.</p><h3>Develop an attitude of gratitude</h3><p>We have all had moments where we have relived a negative emotion simply by thinking about it. Well, the same is true for thinking about happy moments. It’s a bit like gratitude – the more you pay attention to the things that you are grateful for in your life, the more likely you are to develop an attitude of gratitude. If you pay more attention to the things that make you happy, you might just be surprised at how much more happiness you experience in your life overall.&nbsp;&nbsp;</p><p><strong>To help you get started, write down five things that make you happy.</strong></p><p><img src=\"/good-thinking-archives/assets/a2be7927_8828_4fec_b2e1_54029cb107b3_b110bd7a10.jpg\" alt=\"To help get you started, write down five things that make you happy\"></p>",
+							"content": "<p>Whilst we can all have fleeting moments of happiness every day, there is something to be said about savouring those moments. In the same way you might use a small spoon to eat your favourite dessert so you can savour the taste you enjoy or when you replay that favourite movie scene which elicits loud belly laughs. Reliving or savouring your happy moments can bring more happiness into your life.</p><h3>Develop an attitude of gratitude</h3><p>We have all had moments where we have relived a negative emotion simply by thinking about it. Well, the same is true for thinking about happy moments. It’s a bit like gratitude – the more you pay attention to the things that you are grateful for in your life, the more likely you are to develop an attitude of gratitude. If you pay more attention to the things that make you happy, you might just be surprised at how much more happiness you experience in your life overall.&nbsp;&nbsp;</p><p><strong>To help you get started, write down five things that make you happy.</strong></p><p><img src=\"/good-thinking-archive/assets/a2be7927_8828_4fec_b2e1_54029cb107b3_b110bd7a10.jpg\" alt=\"To help get you started, write down five things that make you happy\"></p>",
 							"columnWidth": "full"
 						},
 						{
@@ -3889,12 +3889,12 @@
 									"width": 1667,
 									"height": 875,
 									"mime": "image/jpeg",
-									"url": "/good-thinking-archives/assets/094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+									"url": "/good-thinking-archive/assets/094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 									"size": 100.61,
 									"formats": {
 										"large": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/large_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/large_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "large_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "large_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -3905,7 +3905,7 @@
 										},
 										"small": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/small_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/small_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "small_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "small_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -3916,7 +3916,7 @@
 										},
 										"medium": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/medium_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/medium_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "medium_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "medium_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -3927,7 +3927,7 @@
 										},
 										"thumbnail": {
 											"ext": ".jpg",
-											"url": "/good-thinking-archives/assets/thumbnail_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
+											"url": "/good-thinking-archive/assets/thumbnail_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9.jpg",
 											"hash": "thumbnail_094_2122_SJ_COM_Black_student_mental_health_web_graphic2_190a7933b9",
 											"mime": "image/jpeg",
 											"name": "thumbnail_094-2122-SJ-COM-Black student mental health web graphic2.jpg",
@@ -3956,12 +3956,12 @@
 									"width": 2025,
 									"height": 2543,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/LSBU_team_photo_41dbbe4a97.png",
+									"url": "/good-thinking-archive/assets/LSBU_team_photo_41dbbe4a97.png",
 									"size": 1464.46,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_LSBU_team_photo_41dbbe4a97.png",
+											"url": "/good-thinking-archive/assets/large_LSBU_team_photo_41dbbe4a97.png",
 											"hash": "large_LSBU_team_photo_41dbbe4a97",
 											"mime": "image/png",
 											"name": "large_LSBU team photo.png",
@@ -3972,7 +3972,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_LSBU_team_photo_41dbbe4a97.png",
+											"url": "/good-thinking-archive/assets/small_LSBU_team_photo_41dbbe4a97.png",
 											"hash": "small_LSBU_team_photo_41dbbe4a97",
 											"mime": "image/png",
 											"name": "small_LSBU team photo.png",
@@ -3983,7 +3983,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_LSBU_team_photo_41dbbe4a97.png",
+											"url": "/good-thinking-archive/assets/medium_LSBU_team_photo_41dbbe4a97.png",
 											"hash": "medium_LSBU_team_photo_41dbbe4a97",
 											"mime": "image/png",
 											"name": "medium_LSBU team photo.png",
@@ -3994,7 +3994,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_LSBU_team_photo_41dbbe4a97.png",
+											"url": "/good-thinking-archive/assets/thumbnail_LSBU_team_photo_41dbbe4a97.png",
 											"hash": "thumbnail_LSBU_team_photo_41dbbe4a97",
 											"mime": "image/png",
 											"name": "thumbnail_LSBU team photo.png",
