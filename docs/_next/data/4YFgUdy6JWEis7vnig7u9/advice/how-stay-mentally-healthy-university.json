@@ -10,7 +10,7 @@
 						"width": null,
 						"height": null,
 						"mime": "image/x-icon",
-						"url": "/good-thinking-archives/assets/favicon_18540578c9.ico",
+						"url": "/good-thinking-archive/assets/favicon_18540578c9.ico",
 						"size": 15.41,
 						"formats": null,
 						"hash": "favicon_18540578c9",
@@ -32,12 +32,12 @@
 							"width": 1772,
 							"height": 1000,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/OG_Image_a7bd58e917.png",
+							"url": "/good-thinking-archive/assets/OG_Image_a7bd58e917.png",
 							"size": 140.96,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/large_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/large_OG_Image_a7bd58e917.png",
 									"hash": "large_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "large_OG Image.png",
@@ -48,7 +48,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/small_OG_Image_a7bd58e917.png",
 									"hash": "small_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "small_OG Image.png",
@@ -59,7 +59,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/medium_OG_Image_a7bd58e917.png",
 									"hash": "medium_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "medium_OG Image.png",
@@ -70,7 +70,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archive/assets/thumbnail_OG_Image_a7bd58e917.png",
 									"hash": "thumbnail_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "thumbnail_OG Image.png",
@@ -98,12 +98,12 @@
 							"width": 784,
 							"height": 310,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/good_thinking_logo_7c3c6f2edf.png",
+							"url": "/good-thinking-archive/assets/good_thinking_logo_7c3c6f2edf.png",
 							"size": 19.88,
 							"formats": {
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archive/assets/small_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "small_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "small_good-thinking-logo.png",
@@ -114,7 +114,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archive/assets/medium_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "medium_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "medium_good-thinking-logo.png",
@@ -125,7 +125,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archive/assets/thumbnail_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "thumbnail_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "thumbnail_good-thinking-logo.png",
@@ -322,12 +322,12 @@
 							"width": 1440,
 							"height": 618,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+							"url": "/good-thinking-archive/assets/Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 							"size": 13.62,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "large_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -338,7 +338,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "small_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -349,7 +349,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "medium_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -360,7 +360,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archive/assets/thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "thumbnail_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -508,12 +508,12 @@
 									"width": 2979,
 									"height": 822,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+									"url": "/good-thinking-archive/assets/TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 									"size": 28.57,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "large_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -524,7 +524,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "small_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -535,7 +535,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "medium_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -546,7 +546,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archive/assets/thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "thumbnail_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -575,12 +575,12 @@
 									"width": 1200,
 									"height": 576,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/London_Councils_logo_b7a368c43d.png",
+									"url": "/good-thinking-archive/assets/London_Councils_logo_b7a368c43d.png",
 									"size": 17.25,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/large_London_Councils_logo_b7a368c43d.png",
 											"hash": "large_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "large_London_Councils_logo.png",
@@ -591,7 +591,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/small_London_Councils_logo_b7a368c43d.png",
 											"hash": "small_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "small_London_Councils_logo.png",
@@ -602,7 +602,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/medium_London_Councils_logo_b7a368c43d.png",
 											"hash": "medium_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "medium_London_Councils_logo.png",
@@ -613,7 +613,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/thumbnail_London_Councils_logo_b7a368c43d.png",
 											"hash": "thumbnail_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "thumbnail_London_Councils_logo.png",
@@ -642,7 +642,7 @@
 									"width": 164,
 									"height": 28,
 									"mime": "image/svg+xml",
-									"url": "/good-thinking-archives/assets/thriveldn_logo_new_46bc98177f.svg",
+									"url": "/good-thinking-archive/assets/thriveldn_logo_new_46bc98177f.svg",
 									"size": 2.59,
 									"formats": null,
 									"hash": "thriveldn_logo_new_46bc98177f",
@@ -664,7 +664,7 @@
 									"width": 179,
 									"height": 15,
 									"mime": "image/svg+xml",
-									"url": "/good-thinking-archives/assets/mayor_of_london_637a4de9c4.svg",
+									"url": "/good-thinking-archive/assets/mayor_of_london_637a4de9c4.svg",
 									"size": 7.16,
 									"formats": null,
 									"hash": "mayor_of_london_637a4de9c4",
@@ -686,12 +686,12 @@
 									"width": 1233,
 									"height": 355,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/ADPH_Logo_9507f2c60f.png",
+									"url": "/good-thinking-archive/assets/ADPH_Logo_9507f2c60f.png",
 									"size": 24.44,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/large_ADPH_Logo_9507f2c60f.png",
 											"hash": "large_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "large_ADPH Logo.png",
@@ -702,7 +702,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/small_ADPH_Logo_9507f2c60f.png",
 											"hash": "small_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "small_ADPH Logo.png",
@@ -713,7 +713,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/medium_ADPH_Logo_9507f2c60f.png",
 											"hash": "medium_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "medium_ADPH Logo.png",
@@ -724,7 +724,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/thumbnail_ADPH_Logo_9507f2c60f.png",
 											"hash": "thumbnail_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "thumbnail_ADPH Logo.png",
@@ -761,12 +761,12 @@
 								"width": 3515,
 								"height": 3516,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Person_using_desktop_computer_23da712bdb.png",
+								"url": "/good-thinking-archive/assets/Person_using_desktop_computer_23da712bdb.png",
 								"size": 445.61,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archive/assets/large_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "large_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "large_Person using desktop computer.png",
@@ -777,7 +777,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archive/assets/small_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "small_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "small_Person using desktop computer.png",
@@ -788,7 +788,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archive/assets/medium_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "medium_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "medium_Person using desktop computer.png",
@@ -799,7 +799,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archive/assets/thumbnail_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "thumbnail_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "thumbnail_Person using desktop computer.png",
@@ -834,12 +834,12 @@
 								"width": 3117,
 								"height": 2536,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+								"url": "/good-thinking-archive/assets/Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 								"size": 439.49,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archive/assets/large_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "large_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "large_Hand holding a tablet showing a Good Thinking page.png",
@@ -850,7 +850,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archive/assets/small_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "small_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "small_Hand holding a tablet showing a Good Thinking page.png",
@@ -861,7 +861,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archive/assets/medium_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "medium_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "medium_Hand holding a tablet showing a Good Thinking page.png",
@@ -872,7 +872,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archive/assets/thumbnail_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "thumbnail_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "thumbnail_Hand holding a tablet showing a Good Thinking page.png",
@@ -907,12 +907,12 @@
 								"width": 4345,
 								"height": 2894,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Person_using_laptop_to_do_self_assessment_60457968d2.png",
+								"url": "/good-thinking-archive/assets/Person_using_laptop_to_do_self_assessment_60457968d2.png",
 								"size": 538.92,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archive/assets/large_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "large_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "large_Person using laptop to do self-assessment.png",
@@ -923,7 +923,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archive/assets/small_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "small_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "small_Person using laptop to do self-assessment.png",
@@ -934,7 +934,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archive/assets/medium_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "medium_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "medium_Person using laptop to do self-assessment.png",
@@ -945,7 +945,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archive/assets/thumbnail_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "thumbnail_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "thumbnail_Person using laptop to do self-assessment.png",
@@ -980,12 +980,12 @@
 								"width": 3515,
 								"height": 3515,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+								"url": "/good-thinking-archive/assets/Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 								"size": 262.22,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archive/assets/large_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "large_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "large_Phone with text boxes coming out from it.png",
@@ -996,7 +996,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archive/assets/small_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "small_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "small_Phone with text boxes coming out from it.png",
@@ -1007,7 +1007,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archive/assets/medium_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "medium_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "medium_Phone with text boxes coming out from it.png",
@@ -1018,7 +1018,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archive/assets/thumbnail_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "thumbnail_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "thumbnail_Phone with text boxes coming out from it.png",
@@ -1077,27 +1077,27 @@
 						{
 							"id": "321",
 							"title": "Need practical support?",
-							"content": "<p>Going to university is very exciting but it can also be nerve-racking, especially if you’ve never lived away from home or if you have money worries. Indeed, a recent survey by <a href=\"https://www.thestudentroom.co.uk/\" rel=\"noopener noreferrer\" target=\"_blank\"> The Student Room</a> found that more than a fifth (21%) of university students say they need support for life skills (e.g. cooking, cleaning and laundry) and 16% want advice on money management.</p><p>To help you deal with the practicalities and worry less, the Good Thinking team has put together a list of links to useful websites and also created a <a href=\"https://www.good-thinking.uk/articles/checklist-what-pack-university\" rel=\"noopener noreferrer\" target=\"_blank\"> checklist to help you decide what to pack for university</a> and a <a href=\"/good-thinking-archives/assets/GT_Money_worries_poster_2_bb0b5f7b84.pdf?updated_at=2022-11-02T09:51:39.764Z\" rel=\"noopener noreferrer\" target=\"_blank\">checklist to help you deal with money worries at university</a> .</p><ul><li><span style=\"background-color: rgb(250, 245, 240); color: rgb(46, 17, 8);\"> Download the</span> <a href=\"/resources/student-health\" rel=\"noopener noreferrer\" target=\"_blank\">free Student Health App</a> to instantly access reliable, relevant and reassuring health and wellbeing information</li><li>If you are a student coming to study in the UK, download the <a href=\"/resources/international-student\" rel=\"noopener noreferrer\" target=\"_blank\">free International Student App</a> to access info &amp; tips that will help you to settle into university life</li><li><a href=\"https://www.theuniguide.co.uk/advice/preparing-for-university/before-you-go-to-university\" rel=\"noopener noreferrer\" target=\"_blank\"> Before you go to university (The Uni Guide)</a></li><li><a href=\"https://www.savethestudent.org/tools\" rel=\"noopener noreferrer\" target=\"_blank\"> Best money resources for students (Save the Student)</a></li><li><a href=\"https://www.thestudentroom.co.uk/university/freshers/freshers-week-tips-from-students\" rel=\"noopener noreferrer\" target=\"_blank\"> Freshers Week tips from students (The Student Room)</a></li><li><a href=\"https://www.open.edu/openlearn/education-development/about-jumpstart-university\" rel=\"noopener noreferrer\" target=\"_blank\"> Jumpstart University (various resources from The Open University and the Russell Group)</a></li><li><a href=\"https://www.moneysavingexpert.com/students/\" rel=\"noopener noreferrer\" target=\"_blank\"> Money management advice for students (MoneySavingExpert)</a></li><li><a href=\"https://www.studentspace.org.uk/wellbeing/preparing-for-university\" rel=\"noopener noreferrer\" target=\"_blank\"> Preparing for university (Student Space)</a></li><li><a href=\"https://www.thestudentroom.co.uk/university/freshers/the-ultimate-guide-to-surviving-your-first-year-of-uni\" rel=\"noopener noreferrer\" target=\"_blank\"><u>The ultimate guide to surviving your first week of uni (The Student Room)</u></a></li><li><a href=\"https://www.thestudentroom.co.uk/student-finance/\" rel=\"noopener noreferrer\" target=\"_blank\"> Student Finance Zone (The Student Room)</a></li><li><a href=\"https://www.youngminds.org.uk/young-person/blog/university-a-freshers-survival-guide/\" rel=\"noopener noreferrer\" target=\"_blank\"> University: A Freshers' survival guide (YoungMinds)</a></li></ul><p>Your university's website should also contain lots of helpful information and, if you're feeling especially anxious or you have a specific support need, you can always talk to your university's wellbeing, welfare or finance service. The Student Space website contains a really useful <a href=\"https://studentspace.org.uk/find-support\" rel=\"noopener noreferrer\" target=\"_blank\">‘Find support at your university’</a> page – simply type in the name of your uni and it provides links to the services on offer.</p><p>If you're starting university for the first time, some universities are offering online chats with current students so that you can find out more about life on campus – or you might like to check out <a href=\"https://www.thestudentroom.co.uk/\" rel=\"noopener noreferrer\" target=\"_blank\"> The Student Room</a> forums.</p>"
+							"content": "<p>Going to university is very exciting but it can also be nerve-racking, especially if you’ve never lived away from home or if you have money worries. Indeed, a recent survey by <a href=\"https://www.thestudentroom.co.uk/\" rel=\"noopener noreferrer\" target=\"_blank\"> The Student Room</a> found that more than a fifth (21%) of university students say they need support for life skills (e.g. cooking, cleaning and laundry) and 16% want advice on money management.</p><p>To help you deal with the practicalities and worry less, the Good Thinking team has put together a list of links to useful websites and also created a <a href=\"https://www.good-thinking.uk/articles/checklist-what-pack-university\" rel=\"noopener noreferrer\" target=\"_blank\"> checklist to help you decide what to pack for university</a> and a <a href=\"/good-thinking-archive/assets/GT_Money_worries_poster_2_bb0b5f7b84.pdf?updated_at=2022-11-02T09:51:39.764Z\" rel=\"noopener noreferrer\" target=\"_blank\">checklist to help you deal with money worries at university</a> .</p><ul><li><span style=\"background-color: rgb(250, 245, 240); color: rgb(46, 17, 8);\"> Download the</span> <a href=\"/resources/student-health\" rel=\"noopener noreferrer\" target=\"_blank\">free Student Health App</a> to instantly access reliable, relevant and reassuring health and wellbeing information</li><li>If you are a student coming to study in the UK, download the <a href=\"/resources/international-student\" rel=\"noopener noreferrer\" target=\"_blank\">free International Student App</a> to access info &amp; tips that will help you to settle into university life</li><li><a href=\"https://www.theuniguide.co.uk/advice/preparing-for-university/before-you-go-to-university\" rel=\"noopener noreferrer\" target=\"_blank\"> Before you go to university (The Uni Guide)</a></li><li><a href=\"https://www.savethestudent.org/tools\" rel=\"noopener noreferrer\" target=\"_blank\"> Best money resources for students (Save the Student)</a></li><li><a href=\"https://www.thestudentroom.co.uk/university/freshers/freshers-week-tips-from-students\" rel=\"noopener noreferrer\" target=\"_blank\"> Freshers Week tips from students (The Student Room)</a></li><li><a href=\"https://www.open.edu/openlearn/education-development/about-jumpstart-university\" rel=\"noopener noreferrer\" target=\"_blank\"> Jumpstart University (various resources from The Open University and the Russell Group)</a></li><li><a href=\"https://www.moneysavingexpert.com/students/\" rel=\"noopener noreferrer\" target=\"_blank\"> Money management advice for students (MoneySavingExpert)</a></li><li><a href=\"https://www.studentspace.org.uk/wellbeing/preparing-for-university\" rel=\"noopener noreferrer\" target=\"_blank\"> Preparing for university (Student Space)</a></li><li><a href=\"https://www.thestudentroom.co.uk/university/freshers/the-ultimate-guide-to-surviving-your-first-year-of-uni\" rel=\"noopener noreferrer\" target=\"_blank\"><u>The ultimate guide to surviving your first week of uni (The Student Room)</u></a></li><li><a href=\"https://www.thestudentroom.co.uk/student-finance/\" rel=\"noopener noreferrer\" target=\"_blank\"> Student Finance Zone (The Student Room)</a></li><li><a href=\"https://www.youngminds.org.uk/young-person/blog/university-a-freshers-survival-guide/\" rel=\"noopener noreferrer\" target=\"_blank\"> University: A Freshers' survival guide (YoungMinds)</a></li></ul><p>Your university's website should also contain lots of helpful information and, if you're feeling especially anxious or you have a specific support need, you can always talk to your university's wellbeing, welfare or finance service. The Student Space website contains a really useful <a href=\"https://studentspace.org.uk/find-support\" rel=\"noopener noreferrer\" target=\"_blank\">‘Find support at your university’</a> page – simply type in the name of your uni and it provides links to the services on offer.</p><p>If you're starting university for the first time, some universities are offering online chats with current students so that you can find out more about life on campus – or you might like to check out <a href=\"https://www.thestudentroom.co.uk/\" rel=\"noopener noreferrer\" target=\"_blank\"> The Student Room</a> forums.</p>"
 						},
 						{
 							"id": "322",
 							"title": "Feeling anxious?",
-							"content": "<p>You might be feeling anxious about starting at, or going back to, university. This might include how you'll keep up with your studies, manage your finances or make new friends. Good Thinking has lots of tools to help you manage any feelings of anxiety (and to support your friends if they feel the same).</p><ul><li><strong>Apps:</strong> Check out these NHS-approved apps that are free to Good Thinking users who live, study or work in London <strong>–</strong> <a href=\"https://www.good-thinking.uk/resources/be-mindful/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Be Mindful</strong></a><strong>, ,</strong><a href=\"https://www.good-thinking.uk/resources/meditainment/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Meditainment</strong></a><strong>,</strong> <a href=\"https://www.good-thinking.uk/resources/mycognition/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>MyCognition PRO</strong></a><strong>,</strong> <a href=\"https://www.good-thinking.uk/resources/my-possible-self/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>My Possible Self</strong></a> <strong>and</strong> <a href=\"https://www.good-thinking.uk/resources/tomo/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tomo</strong></a><strong>.</strong> You might also find the free <a href=\"https://www.good-thinking.uk/resources/clear-fear/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Clear Fear</strong></a> app, <a href=\"https://www.good-thinking.uk/resources/feeling-good/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Feeling Good</strong></a> app, <a href=\"https://www.good-thinking.uk/resources/student-health/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Student Health App</strong></a><strong>,</strong> <a href=\"https://www.good-thinking.uk/resources/combined-minds/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Combined Minds</strong></a> app and <a href=\"https://www.good-thinking.uk/resources/international-student/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>International Student App</strong></a> helpful.</li><li><strong>Articles:</strong> Read Good Thinking’s advice about <a href=\"https://www.good-thinking.uk/articles/five-ways-good-mental-wellbeing\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Five ways to good mental wellbeing</strong></a><strong> and</strong> <a href=\"/good-thinking-archives/assets/JC_0423_GT_Mental_Health_and_Me_v4_1_6d006171cc.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Mental health and me</strong></a><strong>.</strong> If you're concerned about how you'll cope with your rent and bills at uni, check out our <a href=\"/good-thinking-archives/assets/GT_Money_worries_poster_2_bb0b5f7b84.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tips</strong></a>.</li><li><strong>Podcasts:</strong> Listen to the Good Thinking podcasts about <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/why-micropause-can-help-your-mental-health-today\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>mindfulness</strong></a>, <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/coping-obsessive-compulsive-disorder-ocd-during-pandemic-and-afterwards\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>OCD</strong></a> and <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/mental-health-through-male-lens-antonio-ferreira\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>mental health from a male perspective</strong></a>.</li><li><strong>Workbooks:</strong> Take a look at the Centre for Clinical Interventions workbooks on <a href=\"https://www.good-thinking.uk/resources/centre-clinical-interventions-anxiety-workbook/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>anxiety</strong></a>, <a href=\"https://www.good-thinking.uk/resources/cci-health-anxiety-workbook/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>health anxiety</strong></a> and <a href=\"https://www.good-thinking.uk/resources/cci-mindfulness-workbook/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>mindfulness</strong></a></li></ul>"
+							"content": "<p>You might be feeling anxious about starting at, or going back to, university. This might include how you'll keep up with your studies, manage your finances or make new friends. Good Thinking has lots of tools to help you manage any feelings of anxiety (and to support your friends if they feel the same).</p><ul><li><strong>Apps:</strong> Check out these NHS-approved apps that are free to Good Thinking users who live, study or work in London <strong>–</strong> <a href=\"https://www.good-thinking.uk/resources/be-mindful/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Be Mindful</strong></a><strong>, ,</strong><a href=\"https://www.good-thinking.uk/resources/meditainment/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Meditainment</strong></a><strong>,</strong> <a href=\"https://www.good-thinking.uk/resources/mycognition/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>MyCognition PRO</strong></a><strong>,</strong> <a href=\"https://www.good-thinking.uk/resources/my-possible-self/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>My Possible Self</strong></a> <strong>and</strong> <a href=\"https://www.good-thinking.uk/resources/tomo/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tomo</strong></a><strong>.</strong> You might also find the free <a href=\"https://www.good-thinking.uk/resources/clear-fear/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Clear Fear</strong></a> app, <a href=\"https://www.good-thinking.uk/resources/feeling-good/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Feeling Good</strong></a> app, <a href=\"https://www.good-thinking.uk/resources/student-health/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Student Health App</strong></a><strong>,</strong> <a href=\"https://www.good-thinking.uk/resources/combined-minds/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Combined Minds</strong></a> app and <a href=\"https://www.good-thinking.uk/resources/international-student/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>International Student App</strong></a> helpful.</li><li><strong>Articles:</strong> Read Good Thinking’s advice about <a href=\"https://www.good-thinking.uk/articles/five-ways-good-mental-wellbeing\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Five ways to good mental wellbeing</strong></a><strong> and</strong> <a href=\"/good-thinking-archive/assets/JC_0423_GT_Mental_Health_and_Me_v4_1_6d006171cc.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Mental health and me</strong></a><strong>.</strong> If you're concerned about how you'll cope with your rent and bills at uni, check out our <a href=\"/good-thinking-archive/assets/GT_Money_worries_poster_2_bb0b5f7b84.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tips</strong></a>.</li><li><strong>Podcasts:</strong> Listen to the Good Thinking podcasts about <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/why-micropause-can-help-your-mental-health-today\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>mindfulness</strong></a>, <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/coping-obsessive-compulsive-disorder-ocd-during-pandemic-and-afterwards\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>OCD</strong></a> and <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/mental-health-through-male-lens-antonio-ferreira\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>mental health from a male perspective</strong></a>.</li><li><strong>Workbooks:</strong> Take a look at the Centre for Clinical Interventions workbooks on <a href=\"https://www.good-thinking.uk/resources/centre-clinical-interventions-anxiety-workbook/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>anxiety</strong></a>, <a href=\"https://www.good-thinking.uk/resources/cci-health-anxiety-workbook/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>health anxiety</strong></a> and <a href=\"https://www.good-thinking.uk/resources/cci-mindfulness-workbook/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>mindfulness</strong></a></li></ul>"
 						},
 						{
 							"id": "323",
 							"title": "Having trouble sleeping?",
-							"content": "<p>If you’re struggling to get to sleep or waking in the night, you’re not alone – around a third of adults have trouble sleeping at some point in their lives. Rest and relaxation is really important for both your physical and mental health so Good Thinking provides a range of resources to support you in your quest for a good night’s sleep.</p><ul><li><strong>Apps:</strong> Check out these NHS-approved apps that are free to Good Thinking users who live, study or work in London – <a href=\"https://www.good-thinking.uk/resources/be-mindful/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Be Mindful</strong></a>, <a href=\"https://www.good-thinking.uk/resources/meditainment/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Meditainment</strong></a> and <a href=\"https://www.good-thinking.uk/resources/tomo/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tomo</strong></a>.</li><li><strong>Podcast:</strong> Get advice from an NHS sleep expert in Good Thinking’s podcast about <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/benefits-healthy-sleep-patterns\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>sleep</strong></a><strong>.</strong></li><li><strong>Workbooks:</strong> Learn more about <a href=\"https://www.good-thinking.uk/resources/sleep-information-sheets/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>sleep</strong></a> and <a href=\"https://www.good-thinking.uk/resources/cci-self-compassion-workbook/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>self-compassion</strong></a> in these Centre for Clinical Interventions workbooks and use the Good Thinking <a href=\"/good-thinking-archives/assets/GT_Sleep_Workbook_final_version_f7822b74db.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Sleep Workbook</strong></a>, which contains a six-week programme for better sleep.</li></ul>"
+							"content": "<p>If you’re struggling to get to sleep or waking in the night, you’re not alone – around a third of adults have trouble sleeping at some point in their lives. Rest and relaxation is really important for both your physical and mental health so Good Thinking provides a range of resources to support you in your quest for a good night’s sleep.</p><ul><li><strong>Apps:</strong> Check out these NHS-approved apps that are free to Good Thinking users who live, study or work in London – <a href=\"https://www.good-thinking.uk/resources/be-mindful/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Be Mindful</strong></a>, <a href=\"https://www.good-thinking.uk/resources/meditainment/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Meditainment</strong></a> and <a href=\"https://www.good-thinking.uk/resources/tomo/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tomo</strong></a>.</li><li><strong>Podcast:</strong> Get advice from an NHS sleep expert in Good Thinking’s podcast about <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/benefits-healthy-sleep-patterns\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>sleep</strong></a><strong>.</strong></li><li><strong>Workbooks:</strong> Learn more about <a href=\"https://www.good-thinking.uk/resources/sleep-information-sheets/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>sleep</strong></a> and <a href=\"https://www.good-thinking.uk/resources/cci-self-compassion-workbook/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>self-compassion</strong></a> in these Centre for Clinical Interventions workbooks and use the Good Thinking <a href=\"/good-thinking-archive/assets/GT_Sleep_Workbook_final_version_f7822b74db.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Sleep Workbook</strong></a>, which contains a six-week programme for better sleep.</li></ul>"
 						},
 						{
 							"id": "324",
 							"title": "Feeling down?",
-							"content": "<p>Concerns about starting or being back at university might be affecting your mood. If so, there are lots of things you can do to build your resilience and help you to stay positive. The Good Thinking resources below are a good place to start.</p><ul><li><strong>Apps:</strong> Check out these NHS-approved apps that are free to Good Thinking users who live, study or work in London – <a href=\"https://www.good-thinking.uk/resources/be-mindful/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Be Mindful</strong></a>, <a href=\"https://www.good-thinking.uk/resources/meditainment/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Meditainment</strong></a><strong>,</strong> <a href=\"https://www.good-thinking.uk/resources/mycognition/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>MyCognition PRO</strong></a>, <a href=\"https://www.good-thinking.uk/resources/my-possible-self/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>My Possible Self</strong></a> and <a href=\"https://www.good-thinking.uk/resources/tomo/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tomo</strong></a>. You might also find the free <a href=\"https://www.good-thinking.uk/resources/clear-fear/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Clear Fear</strong></a> app, <a href=\"https://www.good-thinking.uk/resources/feeling-good/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Feeling Good</strong></a> app, <a href=\"https://www.good-thinking.uk/resources/student-health/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Student Health App</strong></a> and <a href=\"https://www.good-thinking.uk/resources/international-student/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>International Student App</strong></a> helpful. If you have recently lost a loved one and would like bereavement support, we recommend the free <a href=\"https://www.good-thinking.uk/resources/apart-of-me/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Apart of Me</strong></a> app.</li><li><strong>Articles:</strong> Read Good Thinking’s advice about <a href=\"https://www.good-thinking.uk/articles/five-ways-good-mental-wellbeing\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Five ways to good mental wellbeing</strong></a><strong> and</strong> <a href=\"/good-thinking-archives/assets/JC_0423_GT_Mental_Health_and_Me_v4_1_6d006171cc.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Mental health and me</strong></a><strong>.</strong> If you have recently lost a loved one, you might find our articles about <a href=\"https://www.good-thinking.uk/bereavement/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>coping with bereavement</strong></a> helpful.</li><li><strong>Podcasts:</strong> Listen to Good Thinking’s podcasts about <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/coping-isolation\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>coping with isolation</strong></a> and <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/retaining-hope\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>retaining hope</strong></a>.</li><li><strong>Workbook:</strong> Find lots of tips and tools for managing low mood in the Centre for Clinical Interventions <a href=\"https://www.good-thinking.uk/resources/cci-depression-workbook/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>depression workbook</strong></a>, which includes Back from the Bluez modules.</li></ul>"
+							"content": "<p>Concerns about starting or being back at university might be affecting your mood. If so, there are lots of things you can do to build your resilience and help you to stay positive. The Good Thinking resources below are a good place to start.</p><ul><li><strong>Apps:</strong> Check out these NHS-approved apps that are free to Good Thinking users who live, study or work in London – <a href=\"https://www.good-thinking.uk/resources/be-mindful/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Be Mindful</strong></a>, <a href=\"https://www.good-thinking.uk/resources/meditainment/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Meditainment</strong></a><strong>,</strong> <a href=\"https://www.good-thinking.uk/resources/mycognition/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>MyCognition PRO</strong></a>, <a href=\"https://www.good-thinking.uk/resources/my-possible-self/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>My Possible Self</strong></a> and <a href=\"https://www.good-thinking.uk/resources/tomo/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tomo</strong></a>. You might also find the free <a href=\"https://www.good-thinking.uk/resources/clear-fear/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Clear Fear</strong></a> app, <a href=\"https://www.good-thinking.uk/resources/feeling-good/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Feeling Good</strong></a> app, <a href=\"https://www.good-thinking.uk/resources/student-health/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Student Health App</strong></a> and <a href=\"https://www.good-thinking.uk/resources/international-student/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>International Student App</strong></a> helpful. If you have recently lost a loved one and would like bereavement support, we recommend the free <a href=\"https://www.good-thinking.uk/resources/apart-of-me/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Apart of Me</strong></a> app.</li><li><strong>Articles:</strong> Read Good Thinking’s advice about <a href=\"https://www.good-thinking.uk/articles/five-ways-good-mental-wellbeing\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Five ways to good mental wellbeing</strong></a><strong> and</strong> <a href=\"/good-thinking-archive/assets/JC_0423_GT_Mental_Health_and_Me_v4_1_6d006171cc.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Mental health and me</strong></a><strong>.</strong> If you have recently lost a loved one, you might find our articles about <a href=\"https://www.good-thinking.uk/bereavement/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>coping with bereavement</strong></a> helpful.</li><li><strong>Podcasts:</strong> Listen to Good Thinking’s podcasts about <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/coping-isolation\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>coping with isolation</strong></a> and <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/retaining-hope\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>retaining hope</strong></a>.</li><li><strong>Workbook:</strong> Find lots of tips and tools for managing low mood in the Centre for Clinical Interventions <a href=\"https://www.good-thinking.uk/resources/cci-depression-workbook/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>depression workbook</strong></a>, which includes Back from the Bluez modules.</li></ul>"
 						},
 						{
 							"id": "325",
 							"title": "Stressed out?",
-							"content": "<p>Stress<a href=\"/good-thinking-archives/assets/GT_Money_worries_poster_2_bb0b5f7b84.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"> </a>is a perfectly normal reaction to a threat – it prepares you for ‘fight or flight’. But if it’s affecting your daily life, Good Thinking can recommend free NHS-approved apps to help lower your stress.</p><ul><li><strong>Apps:</strong> Check out these NHS-approved apps that are free to anyone who lives, studies or works in London – <a href=\"https://www.good-thinking.uk/resources/be-mindful/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Be Mindful</strong></a>, <a href=\"https://www.good-thinking.uk/resources/mycognition/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>MyCognition PRO</strong></a>, <a href=\"https://www.good-thinking.uk/resources/my-possible-self/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>My Possible Self</strong></a> and <a href=\"https://www.good-thinking.uk/resources/tomo/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tomo</strong></a>. You might also find the free <a href=\"https://www.good-thinking.uk/resources/clear-fear/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Clear Fear</strong></a> app, <a href=\"https://www.good-thinking.uk/resources/sorted\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Sorted: Mental Health</strong></a> app, <a href=\"https://www.good-thinking.uk/resources/student-health/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Student Health App</strong></a> and <a href=\"https://www.good-thinking.uk/resources/international-student/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>International Student App</strong></a> helpful.</li><li><strong>Articles:</strong> Learn <a href=\"https://www.good-thinking.uk/articles/connect-nature-boost-your-wellbeing\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>how to connect with nature to boost your wellbeing</strong></a>. With food, fuel and energy bills increasing, you might be feeling stressed about your finances – check out our <strong>tips</strong>.</li><li><strong>Podcasts:</strong> Listen to Good Thinking’s podcasts about<strong> </strong><a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/dealing-stress-and-trauma\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>dealing with stress and trauma</strong></a><strong> </strong>and <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/why-micropause-can-help-your-mental-health-today\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>mindfulness</strong></a>.</li><li><strong>Workbook:</strong> Take a look at the <a href=\"https://www.good-thinking.uk/resources/cci-mindfulness-workbook/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>mindfulness workbook</strong></a>.</li></ul>"
+							"content": "<p>Stress<a href=\"/good-thinking-archive/assets/GT_Money_worries_poster_2_bb0b5f7b84.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"> </a>is a perfectly normal reaction to a threat – it prepares you for ‘fight or flight’. But if it’s affecting your daily life, Good Thinking can recommend free NHS-approved apps to help lower your stress.</p><ul><li><strong>Apps:</strong> Check out these NHS-approved apps that are free to anyone who lives, studies or works in London – <a href=\"https://www.good-thinking.uk/resources/be-mindful/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Be Mindful</strong></a>, <a href=\"https://www.good-thinking.uk/resources/mycognition/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>MyCognition PRO</strong></a>, <a href=\"https://www.good-thinking.uk/resources/my-possible-self/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>My Possible Self</strong></a> and <a href=\"https://www.good-thinking.uk/resources/tomo/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tomo</strong></a>. You might also find the free <a href=\"https://www.good-thinking.uk/resources/clear-fear/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Clear Fear</strong></a> app, <a href=\"https://www.good-thinking.uk/resources/sorted\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Sorted: Mental Health</strong></a> app, <a href=\"https://www.good-thinking.uk/resources/student-health/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Student Health App</strong></a> and <a href=\"https://www.good-thinking.uk/resources/international-student/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>International Student App</strong></a> helpful.</li><li><strong>Articles:</strong> Learn <a href=\"https://www.good-thinking.uk/articles/connect-nature-boost-your-wellbeing\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>how to connect with nature to boost your wellbeing</strong></a>. With food, fuel and energy bills increasing, you might be feeling stressed about your finances – check out our <strong>tips</strong>.</li><li><strong>Podcasts:</strong> Listen to Good Thinking’s podcasts about<strong> </strong><a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/dealing-stress-and-trauma\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>dealing with stress and trauma</strong></a><strong> </strong>and <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/why-micropause-can-help-your-mental-health-today\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>mindfulness</strong></a>.</li><li><strong>Workbook:</strong> Take a look at the <a href=\"https://www.good-thinking.uk/resources/cci-mindfulness-workbook/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>mindfulness workbook</strong></a>.</li></ul>"
 						},
 						{
 							"id": "326",

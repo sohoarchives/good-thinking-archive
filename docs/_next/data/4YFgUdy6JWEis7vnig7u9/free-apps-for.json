@@ -10,7 +10,7 @@
 						"width": null,
 						"height": null,
 						"mime": "image/x-icon",
-						"url": "/good-thinking-archives/assets/favicon_18540578c9.ico",
+						"url": "/good-thinking-archive/assets/favicon_18540578c9.ico",
 						"size": 15.41,
 						"formats": null,
 						"hash": "favicon_18540578c9",
@@ -32,12 +32,12 @@
 							"width": 1772,
 							"height": 1000,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/OG_Image_a7bd58e917.png",
+							"url": "/good-thinking-archiveassets/OG_Image_a7bd58e917.png",
 							"size": 140.96,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/large_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archiveassets/large_OG_Image_a7bd58e917.png",
 									"hash": "large_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "large_OG Image.png",
@@ -48,7 +48,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archiveassets/small_OG_Image_a7bd58e917.png",
 									"hash": "small_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "small_OG Image.png",
@@ -59,7 +59,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archiveassets/medium_OG_Image_a7bd58e917.png",
 									"hash": "medium_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "medium_OG Image.png",
@@ -70,7 +70,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archiveassets/thumbnail_OG_Image_a7bd58e917.png",
 									"hash": "thumbnail_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "thumbnail_OG Image.png",
@@ -98,12 +98,12 @@
 							"width": 784,
 							"height": 310,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/good_thinking_logo_7c3c6f2edf.png",
+							"url": "/good-thinking-archiveassets/good_thinking_logo_7c3c6f2edf.png",
 							"size": 19.88,
 							"formats": {
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archiveassets/small_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "small_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "small_good-thinking-logo.png",
@@ -114,7 +114,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archiveassets/medium_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "medium_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "medium_good-thinking-logo.png",
@@ -125,7 +125,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archiveassets/thumbnail_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "thumbnail_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "thumbnail_good-thinking-logo.png",
@@ -322,12 +322,12 @@
 							"width": 1440,
 							"height": 618,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+							"url": "/good-thinking-archiveassets/Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 							"size": 13.62,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archiveassets/large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "large_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -338,7 +338,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archiveassets/small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "small_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -349,7 +349,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archiveassets/medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "medium_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -360,7 +360,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archiveassets/thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "thumbnail_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -508,12 +508,12 @@
 									"width": 2979,
 									"height": 822,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+									"url": "/good-thinking-archiveassets/TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 									"size": 28.57,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archiveassets/large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "large_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -524,7 +524,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archiveassets/small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "small_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -535,7 +535,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archiveassets/medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "medium_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -546,7 +546,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archiveassets/thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "thumbnail_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -575,12 +575,12 @@
 									"width": 1200,
 									"height": 576,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/London_Councils_logo_b7a368c43d.png",
+									"url": "/good-thinking-archiveassets/London_Councils_logo_b7a368c43d.png",
 									"size": 17.25,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archiveassets/large_London_Councils_logo_b7a368c43d.png",
 											"hash": "large_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "large_London_Councils_logo.png",
@@ -591,7 +591,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archiveassets/small_London_Councils_logo_b7a368c43d.png",
 											"hash": "small_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "small_London_Councils_logo.png",
@@ -602,7 +602,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archiveassets/medium_London_Councils_logo_b7a368c43d.png",
 											"hash": "medium_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "medium_London_Councils_logo.png",
@@ -613,7 +613,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archiveassets/thumbnail_London_Councils_logo_b7a368c43d.png",
 											"hash": "thumbnail_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "thumbnail_London_Councils_logo.png",
@@ -642,7 +642,7 @@
 									"width": 164,
 									"height": 28,
 									"mime": "image/svg+xml",
-									"url": "/good-thinking-archives/assets/thriveldn_logo_new_46bc98177f.svg",
+									"url": "/good-thinking-archiveassets/thriveldn_logo_new_46bc98177f.svg",
 									"size": 2.59,
 									"formats": null,
 									"hash": "thriveldn_logo_new_46bc98177f",
@@ -664,7 +664,7 @@
 									"width": 179,
 									"height": 15,
 									"mime": "image/svg+xml",
-									"url": "/good-thinking-archives/assets/mayor_of_london_637a4de9c4.svg",
+									"url": "/good-thinking-archiveassets/mayor_of_london_637a4de9c4.svg",
 									"size": 7.16,
 									"formats": null,
 									"hash": "mayor_of_london_637a4de9c4",
@@ -686,12 +686,12 @@
 									"width": 1233,
 									"height": 355,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/ADPH_Logo_9507f2c60f.png",
+									"url": "/good-thinking-archiveassets/ADPH_Logo_9507f2c60f.png",
 									"size": 24.44,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archiveassets/large_ADPH_Logo_9507f2c60f.png",
 											"hash": "large_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "large_ADPH Logo.png",
@@ -702,7 +702,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archiveassets/small_ADPH_Logo_9507f2c60f.png",
 											"hash": "small_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "small_ADPH Logo.png",
@@ -713,7 +713,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archiveassets/medium_ADPH_Logo_9507f2c60f.png",
 											"hash": "medium_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "medium_ADPH Logo.png",
@@ -724,7 +724,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archiveassets/thumbnail_ADPH_Logo_9507f2c60f.png",
 											"hash": "thumbnail_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "thumbnail_ADPH Logo.png",
@@ -761,12 +761,12 @@
 								"width": 3515,
 								"height": 3516,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Person_using_desktop_computer_23da712bdb.png",
+								"url": "/good-thinking-archiveassets/Person_using_desktop_computer_23da712bdb.png",
 								"size": 445.61,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archiveassets/large_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "large_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "large_Person using desktop computer.png",
@@ -777,7 +777,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archiveassets/small_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "small_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "small_Person using desktop computer.png",
@@ -788,7 +788,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archiveassets/medium_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "medium_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "medium_Person using desktop computer.png",
@@ -799,7 +799,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archiveassets/thumbnail_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "thumbnail_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "thumbnail_Person using desktop computer.png",
@@ -834,12 +834,12 @@
 								"width": 3117,
 								"height": 2536,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+								"url": "/good-thinking-archiveassets/Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 								"size": 439.49,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archiveassets/large_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "large_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "large_Hand holding a tablet showing a Good Thinking page.png",
@@ -850,7 +850,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archiveassets/small_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "small_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "small_Hand holding a tablet showing a Good Thinking page.png",
@@ -861,7 +861,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archiveassets/medium_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "medium_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "medium_Hand holding a tablet showing a Good Thinking page.png",
@@ -872,7 +872,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archiveassets/thumbnail_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "thumbnail_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "thumbnail_Hand holding a tablet showing a Good Thinking page.png",
@@ -907,12 +907,12 @@
 								"width": 4345,
 								"height": 2894,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Person_using_laptop_to_do_self_assessment_60457968d2.png",
+								"url": "/good-thinking-archiveassets/Person_using_laptop_to_do_self_assessment_60457968d2.png",
 								"size": 538.92,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archiveassets/large_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "large_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "large_Person using laptop to do self-assessment.png",
@@ -923,7 +923,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archiveassets/small_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "small_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "small_Person using laptop to do self-assessment.png",
@@ -934,7 +934,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archiveassets/medium_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "medium_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "medium_Person using laptop to do self-assessment.png",
@@ -945,7 +945,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archiveassets/thumbnail_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "thumbnail_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "thumbnail_Person using laptop to do self-assessment.png",
@@ -980,12 +980,12 @@
 								"width": 3515,
 								"height": 3515,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+								"url": "/good-thinking-archiveassets/Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 								"size": 262.22,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archiveassets/large_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "large_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "large_Phone with text boxes coming out from it.png",
@@ -996,7 +996,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archiveassets/small_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "small_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "small_Phone with text boxes coming out from it.png",
@@ -1007,7 +1007,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archiveassets/medium_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "medium_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "medium_Phone with text boxes coming out from it.png",
@@ -1018,7 +1018,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archiveassets/thumbnail_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "thumbnail_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "thumbnail_Phone with text boxes coming out from it.png",
@@ -1067,12 +1067,12 @@
 						"width": 2203,
 						"height": 2549,
 						"mime": "image/png",
-						"url": "/good-thinking-archives/assets/Person_holidng_a_phone_with_tiles_on_55dc36d128.png",
+						"url": "/good-thinking-archiveassets/Person_holidng_a_phone_with_tiles_on_55dc36d128.png",
 						"size": 341.64,
 						"formats": {
 							"large": {
 								"ext": ".png",
-								"url": "/good-thinking-archives/assets/large_Person_holidng_a_phone_with_tiles_on_55dc36d128.png",
+								"url": "/good-thinking-archiveassets/large_Person_holidng_a_phone_with_tiles_on_55dc36d128.png",
 								"hash": "large_Person_holidng_a_phone_with_tiles_on_55dc36d128",
 								"mime": "image/png",
 								"name": "large_Person holidng a phone with tiles on.png",
@@ -1083,7 +1083,7 @@
 							},
 							"small": {
 								"ext": ".png",
-								"url": "/good-thinking-archives/assets/small_Person_holidng_a_phone_with_tiles_on_55dc36d128.png",
+								"url": "/good-thinking-archiveassets/small_Person_holidng_a_phone_with_tiles_on_55dc36d128.png",
 								"hash": "small_Person_holidng_a_phone_with_tiles_on_55dc36d128",
 								"mime": "image/png",
 								"name": "small_Person holidng a phone with tiles on.png",
@@ -1094,7 +1094,7 @@
 							},
 							"medium": {
 								"ext": ".png",
-								"url": "/good-thinking-archives/assets/medium_Person_holidng_a_phone_with_tiles_on_55dc36d128.png",
+								"url": "/good-thinking-archiveassets/medium_Person_holidng_a_phone_with_tiles_on_55dc36d128.png",
 								"hash": "medium_Person_holidng_a_phone_with_tiles_on_55dc36d128",
 								"mime": "image/png",
 								"name": "medium_Person holidng a phone with tiles on.png",
@@ -1105,7 +1105,7 @@
 							},
 							"thumbnail": {
 								"ext": ".png",
-								"url": "/good-thinking-archives/assets/thumbnail_Person_holidng_a_phone_with_tiles_on_55dc36d128.png",
+								"url": "/good-thinking-archiveassets/thumbnail_Person_holidng_a_phone_with_tiles_on_55dc36d128.png",
 								"hash": "thumbnail_Person_holidng_a_phone_with_tiles_on_55dc36d128",
 								"mime": "image/png",
 								"name": "thumbnail_Person holidng a phone with tiles on.png",
@@ -1133,12 +1133,12 @@
 							"width": 2203,
 							"height": 2549,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/Person_holidng_a_phone_with_tiles_on_55dc36d128.png",
+							"url": "/good-thinking-archiveassets/Person_holidng_a_phone_with_tiles_on_55dc36d128.png",
 							"size": 341.64,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/large_Person_holidng_a_phone_with_tiles_on_55dc36d128.png",
+									"url": "/good-thinking-archiveassets/large_Person_holidng_a_phone_with_tiles_on_55dc36d128.png",
 									"hash": "large_Person_holidng_a_phone_with_tiles_on_55dc36d128",
 									"mime": "image/png",
 									"name": "large_Person holidng a phone with tiles on.png",
@@ -1149,7 +1149,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_Person_holidng_a_phone_with_tiles_on_55dc36d128.png",
+									"url": "/good-thinking-archiveassets/small_Person_holidng_a_phone_with_tiles_on_55dc36d128.png",
 									"hash": "small_Person_holidng_a_phone_with_tiles_on_55dc36d128",
 									"mime": "image/png",
 									"name": "small_Person holidng a phone with tiles on.png",
@@ -1160,7 +1160,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_Person_holidng_a_phone_with_tiles_on_55dc36d128.png",
+									"url": "/good-thinking-archiveassets/medium_Person_holidng_a_phone_with_tiles_on_55dc36d128.png",
 									"hash": "medium_Person_holidng_a_phone_with_tiles_on_55dc36d128",
 									"mime": "image/png",
 									"name": "medium_Person holidng a phone with tiles on.png",
@@ -1171,7 +1171,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_Person_holidng_a_phone_with_tiles_on_55dc36d128.png",
+									"url": "/good-thinking-archiveassets/thumbnail_Person_holidng_a_phone_with_tiles_on_55dc36d128.png",
 									"hash": "thumbnail_Person_holidng_a_phone_with_tiles_on_55dc36d128",
 									"mime": "image/png",
 									"name": "thumbnail_Person holidng a phone with tiles on.png",
@@ -1206,12 +1206,12 @@
 										"width": 3184,
 										"height": 2691,
 										"mime": "image/png",
-										"url": "/good-thinking-archives/assets/Person_sitting_on_sofa_with_london_skyline_in_window_c9f23641f7.png",
+										"url": "/good-thinking-archiveassets/Person_sitting_on_sofa_with_london_skyline_in_window_c9f23641f7.png",
 										"size": 713.73,
 										"formats": {
 											"large": {
 												"ext": ".png",
-												"url": "/good-thinking-archives/assets/large_Person_sitting_on_sofa_with_london_skyline_in_window_c9f23641f7.png",
+												"url": "/good-thinking-archiveassets/large_Person_sitting_on_sofa_with_london_skyline_in_window_c9f23641f7.png",
 												"hash": "large_Person_sitting_on_sofa_with_london_skyline_in_window_c9f23641f7",
 												"mime": "image/png",
 												"name": "large_Person sitting on sofa with london skyline in window.png",
@@ -1222,7 +1222,7 @@
 											},
 											"small": {
 												"ext": ".png",
-												"url": "/good-thinking-archives/assets/small_Person_sitting_on_sofa_with_london_skyline_in_window_c9f23641f7.png",
+												"url": "/good-thinking-archiveassets/small_Person_sitting_on_sofa_with_london_skyline_in_window_c9f23641f7.png",
 												"hash": "small_Person_sitting_on_sofa_with_london_skyline_in_window_c9f23641f7",
 												"mime": "image/png",
 												"name": "small_Person sitting on sofa with london skyline in window.png",
@@ -1233,7 +1233,7 @@
 											},
 											"medium": {
 												"ext": ".png",
-												"url": "/good-thinking-archives/assets/medium_Person_sitting_on_sofa_with_london_skyline_in_window_c9f23641f7.png",
+												"url": "/good-thinking-archiveassets/medium_Person_sitting_on_sofa_with_london_skyline_in_window_c9f23641f7.png",
 												"hash": "medium_Person_sitting_on_sofa_with_london_skyline_in_window_c9f23641f7",
 												"mime": "image/png",
 												"name": "medium_Person sitting on sofa with london skyline in window.png",
@@ -1244,7 +1244,7 @@
 											},
 											"thumbnail": {
 												"ext": ".png",
-												"url": "/good-thinking-archives/assets/thumbnail_Person_sitting_on_sofa_with_london_skyline_in_window_c9f23641f7.png",
+												"url": "/good-thinking-archiveassets/thumbnail_Person_sitting_on_sofa_with_london_skyline_in_window_c9f23641f7.png",
 												"hash": "thumbnail_Person_sitting_on_sofa_with_london_skyline_in_window_c9f23641f7",
 												"mime": "image/png",
 												"name": "thumbnail_Person sitting on sofa with london skyline in window.png",
@@ -1273,12 +1273,12 @@
 										"width": 3285,
 										"height": 1651,
 										"mime": "image/png",
-										"url": "/good-thinking-archives/assets/Person_on_beanbag_using_tablet_and_wearing_headphones_ed8a9026bb.png",
+										"url": "/good-thinking-archiveassets/Person_on_beanbag_using_tablet_and_wearing_headphones_ed8a9026bb.png",
 										"size": 359.93,
 										"formats": {
 											"large": {
 												"ext": ".png",
-												"url": "/good-thinking-archives/assets/large_Person_on_beanbag_using_tablet_and_wearing_headphones_ed8a9026bb.png",
+												"url": "/good-thinking-archiveassets/large_Person_on_beanbag_using_tablet_and_wearing_headphones_ed8a9026bb.png",
 												"hash": "large_Person_on_beanbag_using_tablet_and_wearing_headphones_ed8a9026bb",
 												"mime": "image/png",
 												"name": "large_Person on beanbag using tablet and wearing headphones.png",
@@ -1289,7 +1289,7 @@
 											},
 											"small": {
 												"ext": ".png",
-												"url": "/good-thinking-archives/assets/small_Person_on_beanbag_using_tablet_and_wearing_headphones_ed8a9026bb.png",
+												"url": "/good-thinking-archiveassets/small_Person_on_beanbag_using_tablet_and_wearing_headphones_ed8a9026bb.png",
 												"hash": "small_Person_on_beanbag_using_tablet_and_wearing_headphones_ed8a9026bb",
 												"mime": "image/png",
 												"name": "small_Person on beanbag using tablet and wearing headphones.png",
@@ -1300,7 +1300,7 @@
 											},
 											"medium": {
 												"ext": ".png",
-												"url": "/good-thinking-archives/assets/medium_Person_on_beanbag_using_tablet_and_wearing_headphones_ed8a9026bb.png",
+												"url": "/good-thinking-archiveassets/medium_Person_on_beanbag_using_tablet_and_wearing_headphones_ed8a9026bb.png",
 												"hash": "medium_Person_on_beanbag_using_tablet_and_wearing_headphones_ed8a9026bb",
 												"mime": "image/png",
 												"name": "medium_Person on beanbag using tablet and wearing headphones.png",
@@ -1311,7 +1311,7 @@
 											},
 											"thumbnail": {
 												"ext": ".png",
-												"url": "/good-thinking-archives/assets/thumbnail_Person_on_beanbag_using_tablet_and_wearing_headphones_ed8a9026bb.png",
+												"url": "/good-thinking-archiveassets/thumbnail_Person_on_beanbag_using_tablet_and_wearing_headphones_ed8a9026bb.png",
 												"hash": "thumbnail_Person_on_beanbag_using_tablet_and_wearing_headphones_ed8a9026bb",
 												"mime": "image/png",
 												"name": "thumbnail_Person on beanbag using tablet and wearing headphones.png",

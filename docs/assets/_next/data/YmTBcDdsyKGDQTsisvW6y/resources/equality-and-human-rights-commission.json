@@ -575,12 +575,12 @@
 									"width": 1200,
 									"height": 576,
 									"mime": "image/png",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/London_Councils_logo_b7a368c43d.png",
+									"url": "/good-thinking-archive/assets/London_Councils_logo_b7a368c43d.png",
 									"size": 17.25,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/large_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/large_London_Councils_logo_b7a368c43d.png",
 											"hash": "large_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "large_London_Councils_logo.png",
@@ -591,7 +591,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/small_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/small_London_Councils_logo_b7a368c43d.png",
 											"hash": "small_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "small_London_Councils_logo.png",
@@ -602,7 +602,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/medium_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/medium_London_Councils_logo_b7a368c43d.png",
 											"hash": "medium_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "medium_London_Councils_logo.png",
@@ -613,7 +613,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thumbnail_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archive/assets/thumbnail_London_Councils_logo_b7a368c43d.png",
 											"hash": "thumbnail_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "thumbnail_London_Councils_logo.png",
@@ -642,7 +642,7 @@
 									"width": 164,
 									"height": 28,
 									"mime": "image/svg+xml",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thriveldn_logo_new_46bc98177f.svg",
+									"url": "/good-thinking-archive/assets/thriveldn_logo_new_46bc98177f.svg",
 									"size": 2.59,
 									"formats": null,
 									"hash": "thriveldn_logo_new_46bc98177f",
@@ -664,7 +664,7 @@
 									"width": 179,
 									"height": 15,
 									"mime": "image/svg+xml",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/mayor_of_london_637a4de9c4.svg",
+									"url": "/good-thinking-archive/assets/mayor_of_london_637a4de9c4.svg",
 									"size": 7.16,
 									"formats": null,
 									"hash": "mayor_of_london_637a4de9c4",
@@ -686,12 +686,12 @@
 									"width": 1233,
 									"height": 355,
 									"mime": "image/png",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/ADPH_Logo_9507f2c60f.png",
+									"url": "/good-thinking-archive/assets/ADPH_Logo_9507f2c60f.png",
 									"size": 24.44,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/large_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/large_ADPH_Logo_9507f2c60f.png",
 											"hash": "large_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "large_ADPH Logo.png",
@@ -702,7 +702,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/small_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/small_ADPH_Logo_9507f2c60f.png",
 											"hash": "small_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "small_ADPH Logo.png",
@@ -713,7 +713,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/medium_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/medium_ADPH_Logo_9507f2c60f.png",
 											"hash": "medium_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "medium_ADPH Logo.png",
@@ -724,7 +724,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thumbnail_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archive/assets/thumbnail_ADPH_Logo_9507f2c60f.png",
 											"hash": "thumbnail_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "thumbnail_ADPH Logo.png",
@@ -759,12 +759,12 @@
 					"width": 375,
 					"height": 134,
 					"mime": "image/png",
-					"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/EHRC_Logo_ed05719840.png",
+					"url": "/good-thinking-archive/assets/EHRC_Logo_ed05719840.png",
 					"size": 3.41,
 					"formats": {
 						"thumbnail": {
 							"ext": ".png",
-							"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thumbnail_EHRC_Logo_ed05719840.png",
+							"url": "/good-thinking-archive/assets/thumbnail_EHRC_Logo_ed05719840.png",
 							"hash": "thumbnail_EHRC_Logo_ed05719840",
 							"mime": "image/png",
 							"name": "thumbnail_EHRC_Logo.png",

@@ -10,7 +10,7 @@
 						"width": null,
 						"height": null,
 						"mime": "image/x-icon",
-						"url": "/good-thinking-archives/assets/favicon_18540578c9.ico",
+						"url": "/good-thinking-archive/assets/favicon_18540578c9.ico",
 						"size": 15.41,
 						"formats": null,
 						"hash": "favicon_18540578c9",
@@ -32,12 +32,12 @@
 							"width": 1772,
 							"height": 1000,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/OG_Image_a7bd58e917.png",
+							"url": "/good-thinking-archiveassets/OG_Image_a7bd58e917.png",
 							"size": 140.96,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/large_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archiveassets/large_OG_Image_a7bd58e917.png",
 									"hash": "large_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "large_OG Image.png",
@@ -48,7 +48,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archiveassets/small_OG_Image_a7bd58e917.png",
 									"hash": "small_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "small_OG Image.png",
@@ -59,7 +59,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archiveassets/medium_OG_Image_a7bd58e917.png",
 									"hash": "medium_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "medium_OG Image.png",
@@ -70,7 +70,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archiveassets/thumbnail_OG_Image_a7bd58e917.png",
 									"hash": "thumbnail_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "thumbnail_OG Image.png",
@@ -98,12 +98,12 @@
 							"width": 784,
 							"height": 310,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/good_thinking_logo_7c3c6f2edf.png",
+							"url": "/good-thinking-archiveassets/good_thinking_logo_7c3c6f2edf.png",
 							"size": 19.88,
 							"formats": {
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archiveassets/small_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "small_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "small_good-thinking-logo.png",
@@ -114,7 +114,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archiveassets/medium_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "medium_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "medium_good-thinking-logo.png",
@@ -125,7 +125,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archiveassets/thumbnail_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "thumbnail_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "thumbnail_good-thinking-logo.png",
@@ -322,12 +322,12 @@
 							"width": 1440,
 							"height": 618,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+							"url": "/good-thinking-archiveassets/Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 							"size": 13.62,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archiveassets/large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "large_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -338,7 +338,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archiveassets/small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "small_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -349,7 +349,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archiveassets/medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "medium_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -360,7 +360,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archiveassets/thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "thumbnail_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -508,12 +508,12 @@
 									"width": 2979,
 									"height": 822,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+									"url": "/good-thinking-archiveassets/TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 									"size": 28.57,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archiveassets/large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "large_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -524,7 +524,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archiveassets/small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "small_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -535,7 +535,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archiveassets/medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "medium_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -546,7 +546,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archiveassets/thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "thumbnail_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -575,12 +575,12 @@
 									"width": 1200,
 									"height": 576,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/London_Councils_logo_b7a368c43d.png",
+									"url": "/good-thinking-archiveassets/London_Councils_logo_b7a368c43d.png",
 									"size": 17.25,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archiveassets/large_London_Councils_logo_b7a368c43d.png",
 											"hash": "large_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "large_London_Councils_logo.png",
@@ -591,7 +591,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archiveassets/small_London_Councils_logo_b7a368c43d.png",
 											"hash": "small_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "small_London_Councils_logo.png",
@@ -602,7 +602,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archiveassets/medium_London_Councils_logo_b7a368c43d.png",
 											"hash": "medium_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "medium_London_Councils_logo.png",
@@ -613,7 +613,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archiveassets/thumbnail_London_Councils_logo_b7a368c43d.png",
 											"hash": "thumbnail_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "thumbnail_London_Councils_logo.png",
@@ -642,7 +642,7 @@
 									"width": 164,
 									"height": 28,
 									"mime": "image/svg+xml",
-									"url": "/good-thinking-archives/assets/thriveldn_logo_new_46bc98177f.svg",
+									"url": "/good-thinking-archiveassets/thriveldn_logo_new_46bc98177f.svg",
 									"size": 2.59,
 									"formats": null,
 									"hash": "thriveldn_logo_new_46bc98177f",
@@ -664,7 +664,7 @@
 									"width": 179,
 									"height": 15,
 									"mime": "image/svg+xml",
-									"url": "/good-thinking-archives/assets/mayor_of_london_637a4de9c4.svg",
+									"url": "/good-thinking-archiveassets/mayor_of_london_637a4de9c4.svg",
 									"size": 7.16,
 									"formats": null,
 									"hash": "mayor_of_london_637a4de9c4",
@@ -686,12 +686,12 @@
 									"width": 1233,
 									"height": 355,
 									"mime": "image/png",
-									"url": "/good-thinking-archives/assets/ADPH_Logo_9507f2c60f.png",
+									"url": "/good-thinking-archiveassets/ADPH_Logo_9507f2c60f.png",
 									"size": 24.44,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/large_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archiveassets/large_ADPH_Logo_9507f2c60f.png",
 											"hash": "large_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "large_ADPH Logo.png",
@@ -702,7 +702,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/small_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archiveassets/small_ADPH_Logo_9507f2c60f.png",
 											"hash": "small_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "small_ADPH Logo.png",
@@ -713,7 +713,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/medium_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archiveassets/medium_ADPH_Logo_9507f2c60f.png",
 											"hash": "medium_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "medium_ADPH Logo.png",
@@ -724,7 +724,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "/good-thinking-archives/assets/thumbnail_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archiveassets/thumbnail_ADPH_Logo_9507f2c60f.png",
 											"hash": "thumbnail_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "thumbnail_ADPH Logo.png",
@@ -761,12 +761,12 @@
 								"width": 3515,
 								"height": 3516,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Person_using_desktop_computer_23da712bdb.png",
+								"url": "/good-thinking-archiveassets/Person_using_desktop_computer_23da712bdb.png",
 								"size": 445.61,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archiveassets/large_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "large_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "large_Person using desktop computer.png",
@@ -777,7 +777,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archiveassets/small_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "small_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "small_Person using desktop computer.png",
@@ -788,7 +788,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archiveassets/medium_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "medium_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "medium_Person using desktop computer.png",
@@ -799,7 +799,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Person_using_desktop_computer_23da712bdb.png",
+										"url": "/good-thinking-archiveassets/thumbnail_Person_using_desktop_computer_23da712bdb.png",
 										"hash": "thumbnail_Person_using_desktop_computer_23da712bdb",
 										"mime": "image/png",
 										"name": "thumbnail_Person using desktop computer.png",
@@ -834,12 +834,12 @@
 								"width": 3117,
 								"height": 2536,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+								"url": "/good-thinking-archiveassets/Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 								"size": 439.49,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archiveassets/large_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "large_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "large_Hand holding a tablet showing a Good Thinking page.png",
@@ -850,7 +850,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archiveassets/small_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "small_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "small_Hand holding a tablet showing a Good Thinking page.png",
@@ -861,7 +861,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archiveassets/medium_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "medium_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "medium_Hand holding a tablet showing a Good Thinking page.png",
@@ -872,7 +872,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"url": "/good-thinking-archiveassets/thumbnail_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
 										"hash": "thumbnail_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
 										"mime": "image/png",
 										"name": "thumbnail_Hand holding a tablet showing a Good Thinking page.png",
@@ -907,12 +907,12 @@
 								"width": 4345,
 								"height": 2894,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Person_using_laptop_to_do_self_assessment_60457968d2.png",
+								"url": "/good-thinking-archiveassets/Person_using_laptop_to_do_self_assessment_60457968d2.png",
 								"size": 538.92,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archiveassets/large_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "large_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "large_Person using laptop to do self-assessment.png",
@@ -923,7 +923,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archiveassets/small_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "small_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "small_Person using laptop to do self-assessment.png",
@@ -934,7 +934,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archiveassets/medium_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "medium_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "medium_Person using laptop to do self-assessment.png",
@@ -945,7 +945,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"url": "/good-thinking-archiveassets/thumbnail_Person_using_laptop_to_do_self_assessment_60457968d2.png",
 										"hash": "thumbnail_Person_using_laptop_to_do_self_assessment_60457968d2",
 										"mime": "image/png",
 										"name": "thumbnail_Person using laptop to do self-assessment.png",
@@ -980,12 +980,12 @@
 								"width": 3515,
 								"height": 3515,
 								"mime": "image/png",
-								"url": "/good-thinking-archives/assets/Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+								"url": "/good-thinking-archiveassets/Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 								"size": 262.22,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/large_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archiveassets/large_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "large_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "large_Phone with text boxes coming out from it.png",
@@ -996,7 +996,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/small_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archiveassets/small_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "small_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "small_Phone with text boxes coming out from it.png",
@@ -1007,7 +1007,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/medium_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archiveassets/medium_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "medium_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "medium_Phone with text boxes coming out from it.png",
@@ -1018,7 +1018,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "/good-thinking-archives/assets/thumbnail_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"url": "/good-thinking-archiveassets/thumbnail_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
 										"hash": "thumbnail_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
 										"mime": "image/png",
 										"name": "thumbnail_Phone with text boxes coming out from it.png",
@@ -1067,12 +1067,12 @@
 						"width": 1772,
 						"height": 1000,
 						"mime": "image/png",
-						"url": "/good-thinking-archives/assets/OG_Image_a7bd58e917.png",
+						"url": "/good-thinking-archiveassets/OG_Image_a7bd58e917.png",
 						"size": 140.96,
 						"formats": {
 							"large": {
 								"ext": ".png",
-								"url": "/good-thinking-archives/assets/large_OG_Image_a7bd58e917.png",
+								"url": "/good-thinking-archiveassets/large_OG_Image_a7bd58e917.png",
 								"hash": "large_OG_Image_a7bd58e917",
 								"mime": "image/png",
 								"name": "large_OG Image.png",
@@ -1083,7 +1083,7 @@
 							},
 							"small": {
 								"ext": ".png",
-								"url": "/good-thinking-archives/assets/small_OG_Image_a7bd58e917.png",
+								"url": "/good-thinking-archiveassets/small_OG_Image_a7bd58e917.png",
 								"hash": "small_OG_Image_a7bd58e917",
 								"mime": "image/png",
 								"name": "small_OG Image.png",
@@ -1094,7 +1094,7 @@
 							},
 							"medium": {
 								"ext": ".png",
-								"url": "/good-thinking-archives/assets/medium_OG_Image_a7bd58e917.png",
+								"url": "/good-thinking-archiveassets/medium_OG_Image_a7bd58e917.png",
 								"hash": "medium_OG_Image_a7bd58e917",
 								"mime": "image/png",
 								"name": "medium_OG Image.png",
@@ -1105,7 +1105,7 @@
 							},
 							"thumbnail": {
 								"ext": ".png",
-								"url": "/good-thinking-archives/assets/thumbnail_OG_Image_a7bd58e917.png",
+								"url": "/good-thinking-archiveassets/thumbnail_OG_Image_a7bd58e917.png",
 								"hash": "thumbnail_OG_Image_a7bd58e917",
 								"mime": "image/png",
 								"name": "thumbnail_OG Image.png",
@@ -1133,12 +1133,12 @@
 							"width": 1772,
 							"height": 1000,
 							"mime": "image/png",
-							"url": "/good-thinking-archives/assets/OG_Image_a7bd58e917.png",
+							"url": "/good-thinking-archiveassets/OG_Image_a7bd58e917.png",
 							"size": 140.96,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/large_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archiveassets/large_OG_Image_a7bd58e917.png",
 									"hash": "large_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "large_OG Image.png",
@@ -1149,7 +1149,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/small_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archiveassets/small_OG_Image_a7bd58e917.png",
 									"hash": "small_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "small_OG Image.png",
@@ -1160,7 +1160,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/medium_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archiveassets/medium_OG_Image_a7bd58e917.png",
 									"hash": "medium_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "medium_OG Image.png",
@@ -1171,7 +1171,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "/good-thinking-archives/assets/thumbnail_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archiveassets/thumbnail_OG_Image_a7bd58e917.png",
 									"hash": "thumbnail_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "thumbnail_OG Image.png",
@@ -1197,47 +1197,47 @@
 						{
 							"id": "869",
 							"title": "Stress Awareness Month 2025",
-							"content": "<p>Stress Awareness Month runs throughout April 2025, with the theme this year being #LeadwithLove – encouraging us to approach ourselves and others with kindness, compassion and acceptance no matter the challenges we face.</p><p>The downloadable toolkit below is designed to help you support Stress Awareness Month by highlighting the range of free support resources available to Londoner's through Good Thinking. The toolkit includes:</p><ul><li>adaptable short and long copy for newsletter articles, website, etc;</li><li>suggested social media content;</li><li>social media assets (available to download below).</li></ul><p>If you have any questions about this toolkit, please contact Tom Stone, Communications Manager at <a href=\"mailto:thomas.stone4@nhs.net\" rel=\"noopener noreferrer\" target=\"_blank\">thomas.stone4@nhs.net</a>.&nbsp;</p><p><a href=\"/good-thinking-archives/assets/Good_Thinking_Stress_Awareness_Month_comms_toolkit_FINAL_f7310861ea.docx\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Download the Communications Toolkit</strong></a></p><h3>Social Media graphics</h3><ul><li><strong>X / BlueSky</strong></li><li class=\"ql-indent-1\"><a href=\"/good-thinking-archives/assets/How_to_deal_with_stress_SAM_2025_Twitter_bc0f03896e.png \" rel=\"noopener noreferrer\" target=\"_blank\">How to deal with stress - png file</a></li><li class=\"ql-indent-1\"><a href=\"/good-thinking-archives/assets/Focus_on_what_you_can_control_SAM_2025_Twitter_8ad499f043.png \" rel=\"noopener noreferrer\" target=\"_blank\">Focus on what you can control - png file</a></li><li class=\"ql-indent-1\"><a href=\"/good-thinking-archives/assets/Look_after_yourself_and_others_SAM_2025_Twitter_297ece48c7.png \" rel=\"noopener noreferrer\" target=\"_blank\">Look after yourself and others - png file</a></li><li class=\"ql-indent-1\"><a href=\"/good-thinking-archives/assets/Apps_to_reduce_stress_SAM_2025_Twitter_925e324dd9.png \" rel=\"noopener noreferrer\" target=\"_blank\">Apps to reduce stress - png file</a></li><li class=\"ql-indent-1\"><a href=\"/good-thinking-archives/assets/Tips_and_advice_on_stress_SAM_2025_Twitter_9156096f8a.png \" rel=\"noopener noreferrer\" target=\"_blank\">Tips and advice on stress - png file</a></li><li><strong>FaceBook / Instagram / LinkedIn</strong></li><li class=\"ql-indent-1\"><a href=\"/good-thinking-archives/assets/How_to_deal_with_stress_SAM_2025_Insta_e8b959d310.png \" rel=\"noopener noreferrer\" target=\"_blank\">How to deal with stress - png file</a></li><li class=\"ql-indent-1\"><a href=\"/good-thinking-archives/assets/Focus_on_what_you_can_control_SAM_2025_Insta_ae70452084.png\" rel=\"noopener noreferrer\" target=\"_blank\">Focus on what you can control - png file</a></li><li class=\"ql-indent-1\"><a href=\"/good-thinking-archives/assets/Look_after_yourself_and_others_SAM_2025_Insta_92872f5282.png \" rel=\"noopener noreferrer\" target=\"_blank\">Look after yourself and others - png file</a></li><li class=\"ql-indent-1\"><a href=\"/good-thinking-archives/assets/Apps_to_reduce_stress_SAM_2025_Insta_48b0ea3f26.png \" rel=\"noopener noreferrer\" target=\"_blank\">Apps to reduce stress - png file</a></li><li class=\"ql-indent-1\"><a href=\"/good-thinking-archives/assets/Tips_and_advice_on_stress_SAM_2025_Insta_093e2da95e.png \" rel=\"noopener noreferrer\" target=\"_blank\">Tips and advice on stress - png file</a></li></ul>"
+							"content": "<p>Stress Awareness Month runs throughout April 2025, with the theme this year being #LeadwithLove – encouraging us to approach ourselves and others with kindness, compassion and acceptance no matter the challenges we face.</p><p>The downloadable toolkit below is designed to help you support Stress Awareness Month by highlighting the range of free support resources available to Londoner's through Good Thinking. The toolkit includes:</p><ul><li>adaptable short and long copy for newsletter articles, website, etc;</li><li>suggested social media content;</li><li>social media assets (available to download below).</li></ul><p>If you have any questions about this toolkit, please contact Tom Stone, Communications Manager at <a href=\"mailto:thomas.stone4@nhs.net\" rel=\"noopener noreferrer\" target=\"_blank\">thomas.stone4@nhs.net</a>.&nbsp;</p><p><a href=\"/good-thinking-archiveassets/Good_Thinking_Stress_Awareness_Month_comms_toolkit_FINAL_f7310861ea.docx\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Download the Communications Toolkit</strong></a></p><h3>Social Media graphics</h3><ul><li><strong>X / BlueSky</strong></li><li class=\"ql-indent-1\"><a href=\"/ggood-thinking-archivessets/How_to_deal_with_stress_SAM_2025_Twitter_bc0f03896e.png \" rel=\"noopener noreferrer\" target=\"_blank\">How to deal with stress - png file</a></li><li class=\"ql-indent-1\"><a href=\"/gogood-thinking-archivesets/Focus_on_what_you_can_control_SAM_2025_Twitter_8ad499f043.png \" rel=\"noopener noreferrer\" target=\"_blank\">Focus on what you can control - png file</a></li><li class=\"ql-indent-1\"><a href=\"/googood-thinking-archiveets/Look_after_yourself_and_others_SAM_2025_Twitter_297ece48c7.png \" rel=\"noopener noreferrer\" target=\"_blank\">Look after yourself and others - png file</a></li><li class=\"ql-indent-1\"><a href=\"/goodgood-thinking-archivets/Apps_to_reduce_stress_SAM_2025_Twitter_925e324dd9.png \" rel=\"noopener noreferrer\" target=\"_blank\">Apps to reduce stress - png file</a></li><li class=\"ql-indent-1\"><a href=\"/good-good-thinking-archives/Tips_and_advice_on_stress_SAM_2025_Twitter_9156096f8a.png \" rel=\"noopener noreferrer\" target=\"_blank\">Tips and advice on stress - png file</a></li><li><strong>FaceBook / Instagram / LinkedIn</strong></li><li class=\"ql-indent-1\"><a href=\"/good-tgood-thinking-archive/How_to_deal_with_stress_SAM_2025_Insta_e8b959d310.png \" rel=\"noopener noreferrer\" target=\"_blank\">How to deal with stress - png file</a></li><li class=\"ql-indent-1\"><a href=\"/good-thgood-thinking-archiveFocus_on_what_you_can_control_SAM_2025_Insta_ae70452084.png\" rel=\"noopener noreferrer\" target=\"_blank\">Focus on what you can control - png file</a></li><li class=\"ql-indent-1\"><a href=\"/good-thigood-thinking-archiveook_after_yourself_and_others_SAM_2025_Insta_92872f5282.png \" rel=\"noopener noreferrer\" target=\"_blank\">Look after yourself and others - png file</a></li><li class=\"ql-indent-1\"><a href=\"/good-thingood-thinking-archiveps_to_reduce_stress_SAM_2025_Insta_48b0ea3f26.png \" rel=\"noopener noreferrer\" target=\"_blank\">Apps to reduce stress - png file</a></li><li class=\"ql-indent-1\"><a href=\"/good-thinkgood-thinking-archives_and_advice_on_stress_SAM_2025_Insta_093e2da95e.png \" rel=\"noopener noreferrer\" target=\"_blank\">Tips and advice on stress - png file</a></li></ul>"
 						},
 						{
 							"id": "851",
 							"title": "Pathway through Pain app",
-							"content": "<p>Pathway through Pain is a pain management programme for chronic Musculo-skeletal (MSK) pain.</p><p>The below toolkit is designed to support you in raising awareness of Pathway through Pain across your networks. The toolkit includes:</p><ul><li>adaptable short copy for newsletter articles;</li><li>suggested social media content;</li><li>social media assets;</li><li>printable marketing material, including a poster, eflyer/handout and FAQs.</li></ul><p>If you have any questions about this toolkit, please contact Tom Stone, Communications Manager at <a href=\"mailto:thomas.stone4@nhs.net\" rel=\"noopener noreferrer\" target=\"_blank\">thomas.stone4@nhs.net</a>.&nbsp;</p><ul><li><a href=\"/good-thinking-archives/assets/Pathway_Through_Pain_comms_toolkit_FINAL_211ee7a820.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Communications Toolkit</a></li><li><a href=\"/good-thinking-archives/assets/Pathway_through_Pain_e_Leaflet_dual_branded_016072680d.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Pathway through Pain - eleaflet</a></li><li><a href=\"/good-thinking-archives/assets/Pathway_through_Pain_poster_dual_branded_63a392c1fa.pdf  \" rel=\"noopener noreferrer\" target=\"_blank\">Pathway through Pain - poster</a></li><li><a href=\"/good-thinking-archives/assets/Pathway_through_Pain_FA_Qs_3c8425848a.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Pathway through Pain - FAQs</a></li><li><strong>Social media assets</strong></li><li class=\"ql-indent-1\"><a href=\"/good-thinking-archives/assets/1_in_every_5_Insta_1b8c96b324.png  \" rel=\"noopener noreferrer\" target=\"_blank\">Instagram / Facebook 1</a></li><li class=\"ql-indent-1\"><a href=\"/good-thinking-archives/assets/60_percent_anxiety_insta_c9f9d4171a.png    \" rel=\"noopener noreferrer\" target=\"_blank\">Instagram / Facebook 2</a></li><li class=\"ql-indent-1\"><a href=\"/good-thinking-archives/assets/PTP_testimonial_insta_bc39887243.png   \" rel=\"noopener noreferrer\" target=\"_blank\">Instagram / Facebook 3</a></li><li class=\"ql-indent-1\"><a href=\"/good-thinking-archives/assets/1_in_every_5_Twitter_aea3e31c96.png  \" rel=\"noopener noreferrer\" target=\"_blank\">Twitter 1</a></li><li class=\"ql-indent-1\"><a href=\"/good-thinking-archives/assets/60_percent_anxiety_Twitter_ae48d9d3e0.png  \" rel=\"noopener noreferrer\" target=\"_blank\">Twitter 2</a></li><li class=\"ql-indent-1\"><a href=\"/good-thinking-archives/assets/PTP_testimonial_Twitter_05f3c1a05b.png   \" rel=\"noopener noreferrer\" target=\"_blank\">Twitter 3</a></li></ul>"
+							"content": "<p>Pathway through Pain is a pain management programme for chronic Musculo-skeletal (MSK) pain.</p><p>The below toolkit is designed to support you in raising awareness of Pathway through Pain across your networks. The toolkit includes:</p><ul><li>adaptable short copy for newsletter articles;</li><li>suggested social media content;</li><li>social media assets;</li><li>printable marketing material, including a poster, eflyer/handout and FAQs.</li></ul><p>If you have any questions about this toolkit, please contact Tom Stone, Communications Manager at <a href=\"mailto:thomas.stone4@nhs.net\" rel=\"noopener noreferrer\" target=\"_blank\">thomas.stone4@nhs.net</a>.&nbsp;</p><ul><li><a href=\"/good-thinking-archiveassets/Pathway_Through_Pain_comms_toolkit_FINAL_211ee7a820.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Communications Toolkit</a></li><li><a href=\"/ggood-thinking-archivessets/Pathway_through_Pain_e_Leaflet_dual_branded_016072680d.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Pathway through Pain - eleaflet</a></li><li><a href=\"/gogood-thinking-archivesets/Pathway_through_Pain_poster_dual_branded_63a392c1fa.pdf  \" rel=\"noopener noreferrer\" target=\"_blank\">Pathway through Pain - poster</a></li><li><a href=\"/googood-thinking-archiveets/Pathway_through_Pain_FA_Qs_3c8425848a.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Pathway through Pain - FAQs</a></li><li><strong>Social media assets</strong></li><li class=\"ql-indent-1\"><a href=\"/goodgood-thinking-archivets/1_in_every_5_Insta_1b8c96b324.png  \" rel=\"noopener noreferrer\" target=\"_blank\">Instagram / Facebook 1</a></li><li class=\"ql-indent-1\"><a href=\"/good-good-thinking-archives/60_percent_anxiety_insta_c9f9d4171a.png    \" rel=\"noopener noreferrer\" target=\"_blank\">Instagram / Facebook 2</a></li><li class=\"ql-indent-1\"><a href=\"/good-tgood-thinking-archive/PTP_testimonial_insta_bc39887243.png   \" rel=\"noopener noreferrer\" target=\"_blank\">Instagram / Facebook 3</a></li><li class=\"ql-indent-1\"><a href=\"/good-thgood-thinking-archive1_in_every_5_Twitter_aea3e31c96.png  \" rel=\"noopener noreferrer\" target=\"_blank\">Twitter 1</a></li><li class=\"ql-indent-1\"><a href=\"/good-thigood-thinking-archive0_percent_anxiety_Twitter_ae48d9d3e0.png  \" rel=\"noopener noreferrer\" target=\"_blank\">Twitter 2</a></li><li class=\"ql-indent-1\"><a href=\"/good-thingood-thinking-archiveP_testimonial_Twitter_05f3c1a05b.png   \" rel=\"noopener noreferrer\" target=\"_blank\">Twitter 3</a></li></ul>"
 						},
 						{
 							"id": "460",
 							"title": "Good Thinking Communications Toolkit",
-							"content": "<p>This toolkit contains information about the Good Thinking service. It will support you in raising awareness of the free, personalised advice, and NHS-approved apps and resources available through our website to help support positive mental health and wellbeing across your network and within your local community:</p><ul><li><a href=\"/good-thinking-archives/assets/Good_Thinking2022_Comms_Toolkit_1300fff036.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking Communications Toolkit</a></li></ul>"
+							"content": "<p>This toolkit contains information about the Good Thinking service. It will support you in raising awareness of the free, personalised advice, and NHS-approved apps and resources available through our website to help support positive mental health and wellbeing across your network and within your local community:</p><ul><li><a href=\"/good-thinking-archiveassets/Good_Thinking2022_Comms_Toolkit_1300fff036.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking Communications Toolkit</a></li></ul>"
 						},
 						{
 							"id": "461",
 							"title": "Printable flyers, posters and guides",
-							"content": "<h3>Flyers and posters</h3><ul><li><a href=\"/good-thinking-archives/assets/Good_Thinking_Leaflet_ed155edd51.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking flyer</a></li><li><a href=\"/good-thinking-archives/assets/JC_0423_Good_Thinking_Poster_A4_AW_01_763d8bef5e.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking poster 1 (A4)</a></li><li><a href=\"/good-thinking-archives/assets/JC_0423_Good_Thinking_Poster_A4_AW_02_39da00f16b.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking poster 2 (A4)</a></li><li><a href=\"/good-thinking-archives/assets/JC_0423_Good_Thinking_Poster_A4_AW_03_32ed9e7f26.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking poster 3 (A4)</a></li><li><a href=\"/good-thinking-archives/assets/JC_0423_Good_Thinking_Poster_A4_AW_04_f2699fe195.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking poster 4 (A4)</a></li><li><a href=\"/good-thinking-archives/assets/JC_0423_Good_Thinking_Poster_A3_AW_01_4ff8015948.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking poster 1 (A3)</a></li><li><a href=\"/good-thinking-archives/assets/JC_0423_Good_Thinking_Poster_A3_AW_02_9e00c7773d.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking poster 2 (A3)</a></li></ul><h3>One page guides</h3><p>The one page guides can be used to help point people to the right resources according to their need, and are available for adults and children and young people:</p><ul><li><a href=\"/good-thinking-archives/assets/Good_Thinking_Adult_One_Pagers_7338cf7289.pdf?updated_at=2022-10-26T12:39:50.859Z\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking support information one pagers - adults</a></li><li><a href=\"/good-thinking-archives/assets/Good_Thinking_CYP_One_pager_final_1db1395f1b.pdf?updated_at=2022-10-26T12:40:01.560Z\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking support information one pagers - children and young people</a></li></ul>"
+							"content": "<h3>Flyers and posters</h3><ul><li><a href=\"/good-thinking-archiveassets/Good_Thinking_Leaflet_ed155edd51.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking flyer</a></li><li><a href=\"/ggood-thinking-archivessets/JC_0423_Good_Thinking_Poster_A4_AW_01_763d8bef5e.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking poster 1 (A4)</a></li><li><a href=\"/gogood-thinking-archivesets/JC_0423_Good_Thinking_Poster_A4_AW_02_39da00f16b.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking poster 2 (A4)</a></li><li><a href=\"/googood-thinking-archiveets/JC_0423_Good_Thinking_Poster_A4_AW_03_32ed9e7f26.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking poster 3 (A4)</a></li><li><a href=\"/goodgood-thinking-archivets/JC_0423_Good_Thinking_Poster_A4_AW_04_f2699fe195.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking poster 4 (A4)</a></li><li><a href=\"/good-good-thinking-archives/JC_0423_Good_Thinking_Poster_A3_AW_01_4ff8015948.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking poster 1 (A3)</a></li><li><a href=\"/good-tgood-thinking-archive/JC_0423_Good_Thinking_Poster_A3_AW_02_9e00c7773d.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking poster 2 (A3)</a></li></ul><h3>One page guides</h3><p>The one page guides can be used to help point people to the right resources according to their need, and are available for adults and children and young people:</p><ul><li><a href=\"/good-thgood-thinking-archiveGood_Thinking_Adult_One_Pagers_7338cf7289.pdf?updated_at=2022-10-26T12:39:50.859Z\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking support information one pagers - adults</a></li><li><a href=\"/good-thigood-thinking-archiveood_Thinking_CYP_One_pager_final_1db1395f1b.pdf?updated_at=2022-10-26T12:40:01.560Z\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking support information one pagers - children and young people</a></li></ul>"
 						},
 						{
 							"id": "849",
 							"title": "Downloadable animations",
-							"content": "<p>Good Thinking has developed animations to help spread the word about the services we offer to adults and young people. Check out our downloadable animations below and help spread the word about Good Thinking!</p><h3>Good Thinking support for adults</h3><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"/good-thinking-archives/assets/good_thinking_adults_animation_64e016d414.mp4\"></iframe><p><br></p><h3><strong>Good Thinking support for children and young people</strong></h3><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"/good-thinking-archives/assets/Good_Thinking_Young_Peoples_Animation_V1_B_VO_SUBS_3c227830ca.mp4\"></iframe><p><br></p><p><br></p>"
+							"content": "<p>Good Thinking has developed animations to help spread the word about the services we offer to adults and young people. Check out our downloadable animations below and help spread the word about Good Thinking!</p><h3>Good Thinking support for adults</h3><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"/good-thinking-archiveassets/good_thinking_adults_animation_64e016d414.mp4\"></iframe><p><br></p><h3><strong>Good Thinking support for children and young people</strong></h3><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"/ggood-thinking-archivessets/Good_Thinking_Young_Peoples_Animation_V1_B_VO_SUBS_3c227830ca.mp4\"></iframe><p><br></p><p><br></p>"
 						},
 						{
 							"id": "219",
 							"title": "Further information about Good Thinking ",
-							"content": "<ul><li><a href=\"/good-thinking-archives/assets/Good_Thinking_Webinar_External_PDF_fd33049703.pdf?updated_at=2022-10-26T12:40:48.136Z\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Good Thinking Introduction presentation (PowerPoint)</strong></a></li><li><a href=\"https://youtu.be/ADqC2dJ-Rmg\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Introduction to Good Thinking webinar 16th March 2022</strong></a></li></ul>"
+							"content": "<ul><li><a href=\"/good-thinking-archiveassets/Good_Thinking_Webinar_External_PDF_fd33049703.pdf?updated_at=2022-10-26T12:40:48.136Z\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Good Thinking Introduction presentation (PowerPoint)</strong></a></li><li><a href=\"https://youtu.be/ADqC2dJ-Rmg\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Introduction to Good Thinking webinar 16th March 2022</strong></a></li></ul>"
 						},
 						{
 							"id": "562",
 							"title": "Employer Toolkit",
-							"content": "<p>Looking for new ways to support your employees’ wellbeing? This toolkit will support you in raising awareness of the free, personalised advice, and NHS-approved apps and resources available through Good Thinking to help promote positive mental health and wellbeing in the workplace.</p><ul><li><a href=\"/good-thinking-archives/assets/Good_Thinking_Employers_Toolkit_updated_Apr_2025_1f62c19000.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Employer toolkit</a></li></ul>"
+							"content": "<p>Looking for new ways to support your employees’ wellbeing? This toolkit will support you in raising awareness of the free, personalised advice, and NHS-approved apps and resources available through Good Thinking to help promote positive mental health and wellbeing in the workplace.</p><ul><li><a href=\"/good-thinking-archiveassets/Good_Thinking_Employers_Toolkit_updated_Apr_2025_1f62c19000.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Employer toolkit</a></li></ul>"
 						},
 						{
 							"id": "573",
 							"title": "Student Mental Health Communications Toolkits",
-							"content": "<p>The end of the summer holidays can bring anxiety and stress for many young Londoners. The move to a new year at school, college or university, transition to further or higher education and worries about academic achievement may have an impact on their mental wellbeing.&nbsp;</p><ul><li>Our <a href=\"/good-thinking-archives/assets/Good_Thinking_Comms_Toolkit_Student_mental_health_bbe4cf18bc.docx?updated_at=2023-08-24T14:25:07.146Z\" rel=\"noopener noreferrer\" target=\"_blank\">Student mental health communications toolkit</a> <span style=\"color: rgb(30, 12, 6);\">contains information about the Good Thinking </span><a href=\"https://www.good-thinking.uk/students\" rel=\"noopener noreferrer\" target=\"_blank\">Student Mental Health Hub</a><span style=\"color: rgb(30, 12, 6);\"> (content suitable for those in further and higher education), and highlights other services and resources which students, </span><a href=\"https://www.good-thinking.uk/parents-and-carers\" rel=\"noopener noreferrer\" target=\"_blank\">parents and carers</a><span style=\"color: rgb(30, 12, 6);\"> and education sector staff may find helpful as students return to school, college and university.</span></li><li>Our <a href=\"/good-thinking-archives/assets/Good_Thinking_Comms_Toolkit_CYP_mental_health_b6cf94cd46.docx?updated_at=2023-09-14T15:08:46.300Z\" rel=\"noopener noreferrer\" target=\"_blank\">Student mental health: secondary school and further education communications toolkit</a> <span style=\"color: rgb(30, 12, 6);\">contains information about Good Thinking’s </span><a href=\"https://www.good-thinking.uk/youngpeople\" rel=\"noopener noreferrer\" target=\"_blank\">advice and support for young Londoners</a><span style=\"color: rgb(30, 12, 6);\">, tailored for those at secondary school and in further education (college and sixth form).</span></li></ul>"
+							"content": "<p>The end of the summer holidays can bring anxiety and stress for many young Londoners. The move to a new year at school, college or university, transition to further or higher education and worries about academic achievement may have an impact on their mental wellbeing.&nbsp;</p><ul><li>Our <a href=\"/good-thinking-archiveassets/Good_Thinking_Comms_Toolkit_Student_mental_health_bbe4cf18bc.docx?updated_at=2023-08-24T14:25:07.146Z\" rel=\"noopener noreferrer\" target=\"_blank\">Student mental health communications toolkit</a> <span style=\"color: rgb(30, 12, 6);\">contains information about the Good Thinking </span><a href=\"https://www.good-thinking.uk/students\" rel=\"noopener noreferrer\" target=\"_blank\">Student Mental Health Hub</a><span style=\"color: rgb(30, 12, 6);\"> (content suitable for those in further and higher education), and highlights other services and resources which students, </span><a href=\"https://www.good-thinking.uk/parents-and-carers\" rel=\"noopener noreferrer\" target=\"_blank\">parents and carers</a><span style=\"color: rgb(30, 12, 6);\"> and education sector staff may find helpful as students return to school, college and university.</span></li><li>Our <a href=\"/ggood-thinking-archivessets/Good_Thinking_Comms_Toolkit_CYP_mental_health_b6cf94cd46.docx?updated_at=2023-09-14T15:08:46.300Z\" rel=\"noopener noreferrer\" target=\"_blank\">Student mental health: secondary school and further education communications toolkit</a> <span style=\"color: rgb(30, 12, 6);\">contains information about Good Thinking’s </span><a href=\"https://www.good-thinking.uk/youngpeople\" rel=\"noopener noreferrer\" target=\"_blank\">advice and support for young Londoners</a><span style=\"color: rgb(30, 12, 6);\">, tailored for those at secondary school and in further education (college and sixth form).</span></li></ul>"
 						},
 						{
 							"id": "226",
 							"title": "Five ways to wellbeing & Children and Young People",
-							"content": "<p>Good Thinking has worked with the Partnership for Young London to develop the 5 Ways to Wellbeing for Children &amp; Young People.</p><ul><li><a href=\"/good-thinking-archives/assets/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf?updated_at=2022-10-26T12:40:04.463Z\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>5 Ways to Wellbeing for Children &amp; Young People</strong></a></li><li><a href=\"/good-thinking-archives/assets/Five_ways_to_Wellbeing_for_CYP_Comms_Toolkit_FINAL_ebdb874de0.docx?updated_at=2022-10-26T11:20:11.306Z\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Five ways to wellbeing &amp; CYP Communications Toolkit</strong></a></li></ul><p>This campaign toolkit contains information about the Five Ways to Wellbeing for Children and Young People resources and will support you in raising awareness of mental health and wellbeing within your local community.</p><p>The toolkit includes:</p><ul><li>an introduction to the Good Thinking digital mental wellbeing service;</li><li>a link to the Five Ways to Wellbeing for Children and Young People resource for you to share online or print as needed;</li><li>a newsletter/bulletin article for you to use to raise awareness of the resource within your community;</li><li>social media content for you to use to promote the toolkit to your community on your Twitter, Instagram and Facebook pages. You can also tag us in&nbsp;<a href=\"https://twitter.com/GoodThinkingUK\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>@GoodThinkingUK</strong></a></li></ul><p>We’d appreciate your support in promoting this campaign to improve mental health and wellbeing across London.</p><p>If you have any questions, please contact the Good Thinking team at&nbsp;<a href=\"mailto:Info@good-thinking.uk\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Info@good-thinking.uk</strong></a></p>"
+							"content": "<p>Good Thinking has worked with the Partnership for Young London to develop the 5 Ways to Wellbeing for Children &amp; Young People.</p><ul><li><a href=\"/good-thinking-archiveassets/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf?updated_at=2022-10-26T12:40:04.463Z\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>5 Ways to Wellbeing for Children &amp; Young People</strong></a></li><li><a href=\"/ggood-thinking-archivessets/Five_ways_to_Wellbeing_for_CYP_Comms_Toolkit_FINAL_ebdb874de0.docx?updated_at=2022-10-26T11:20:11.306Z\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Five ways to wellbeing &amp; CYP Communications Toolkit</strong></a></li></ul><p>This campaign toolkit contains information about the Five Ways to Wellbeing for Children and Young People resources and will support you in raising awareness of mental health and wellbeing within your local community.</p><p>The toolkit includes:</p><ul><li>an introduction to the Good Thinking digital mental wellbeing service;</li><li>a link to the Five Ways to Wellbeing for Children and Young People resource for you to share online or print as needed;</li><li>a newsletter/bulletin article for you to use to raise awareness of the resource within your community;</li><li>social media content for you to use to promote the toolkit to your community on your Twitter, Instagram and Facebook pages. You can also tag us in&nbsp;<a href=\"https://twitter.com/GoodThinkingUK\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>@GoodThinkingUK</strong></a></li></ul><p>We’d appreciate your support in promoting this campaign to improve mental health and wellbeing across London.</p><p>If you have any questions, please contact the Good Thinking team at&nbsp;<a href=\"mailto:Info@good-thinking.uk\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Info@good-thinking.uk</strong></a></p>"
 						},
 						{
 							"id": "227",
@@ -1259,37 +1259,37 @@
 						{
 							"id": "582",
 							"title": "Buddhism and mental wellbeing",
-							"content": "<p>Good Thinking have worked in collaboration with members of London’s Buddhist communities, with the support of <a href=\"https://www.thebuddhistsociety.org/\" rel=\"noopener noreferrer\" target=\"_blank\">The Buddhist Society</a> and in consultation with the <a href=\"https://www.nbo.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Network of Buddhist Organisations</a> to create a unique range of <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/buddhism\" rel=\"noopener noreferrer\" target=\"_blank\">mental wellbeing resources that align with the beliefs and teachings of&nbsp;Buddhism</a>.</p><p><strong>Looking to help spread the word about Good Thinking and our Buddhism resources for Londoners in your organisation and community?</strong></p><p>Simply download the free communications toolkit below for a full guide to support you with raising awareness; including copy, graphics and animations for social media, newsletters, bulletins and websites:</p><ul><li><a href=\"/good-thinking-archives/assets/Good_Thinking_Comms_Toolkit_Mental_wellbeing_and_Buddhism_946f873ff4.docx?updated_at=2023-10-09T16:26:09.949Z\" rel=\"noopener noreferrer\" target=\"_blank\">Mental wellbeing and Buddhism communications toolkit</a></li></ul>"
+							"content": "<p>Good Thinking have worked in collaboration with members of London’s Buddhist communities, with the support of <a href=\"https://www.thebuddhistsociety.org/\" rel=\"noopener noreferrer\" target=\"_blank\">The Buddhist Society</a> and in consultation with the <a href=\"https://www.nbo.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Network of Buddhist Organisations</a> to create a unique range of <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/buddhism\" rel=\"noopener noreferrer\" target=\"_blank\">mental wellbeing resources that align with the beliefs and teachings of&nbsp;Buddhism</a>.</p><p><strong>Looking to help spread the word about Good Thinking and our Buddhism resources for Londoners in your organisation and community?</strong></p><p>Simply download the free communications toolkit below for a full guide to support you with raising awareness; including copy, graphics and animations for social media, newsletters, bulletins and websites:</p><ul><li><a href=\"/good-thinking-archiveassets/Good_Thinking_Comms_Toolkit_Mental_wellbeing_and_Buddhism_946f873ff4.docx?updated_at=2023-10-09T16:26:09.949Z\" rel=\"noopener noreferrer\" target=\"_blank\">Mental wellbeing and Buddhism communications toolkit</a></li></ul>"
 						},
 						{
 							"id": "581",
 							"title": "Christianity and mental wellbeing",
-							"content": "<p>Good Thinking have worked in collaboration with members of London’s Christian communities, with the support of the <a href=\"https://www.churchofengland.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Church of England</a>, <a href=\"https://www.cbcew.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">The Catholic Church</a>, <a href=\"https://www.eauk.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Evangelical Alliance</a> and <a href=\"https://cte.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Churches Together</a> to create a unique range of <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/christianity\" rel=\"noopener noreferrer\" target=\"_blank\">mental wellbeing resources that align with the beliefs and teachings of Christianity</a>.</p><p><strong>Looking to help spread the word about Good Thinking and our Christianity resources for Londoners in your organisation and community?</strong></p><p>Simply download the free communications toolkit below for a full guide to support you with raising awareness; including copy, graphics and animations for social media, newsletters, bulletins and websites:</p><ul><li><a href=\"/good-thinking-archives/assets/Good_Thinking_Comms_Toolkit_Mental_wellbeing_and_Christianity_5d0b03ce20.docx?updated_at=2023-10-09T16:39:04.628Z\" rel=\"noopener noreferrer\" target=\"_blank\">Mental wellbeing and Christianity communications toolkit</a></li></ul>"
+							"content": "<p>Good Thinking have worked in collaboration with members of London’s Christian communities, with the support of the <a href=\"https://www.churchofengland.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Church of England</a>, <a href=\"https://www.cbcew.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">The Catholic Church</a>, <a href=\"https://www.eauk.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Evangelical Alliance</a> and <a href=\"https://cte.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Churches Together</a> to create a unique range of <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/christianity\" rel=\"noopener noreferrer\" target=\"_blank\">mental wellbeing resources that align with the beliefs and teachings of Christianity</a>.</p><p><strong>Looking to help spread the word about Good Thinking and our Christianity resources for Londoners in your organisation and community?</strong></p><p>Simply download the free communications toolkit below for a full guide to support you with raising awareness; including copy, graphics and animations for social media, newsletters, bulletins and websites:</p><ul><li><a href=\"/good-thinking-archiveassets/Good_Thinking_Comms_Toolkit_Mental_wellbeing_and_Christianity_5d0b03ce20.docx?updated_at=2023-10-09T16:39:04.628Z\" rel=\"noopener noreferrer\" target=\"_blank\">Mental wellbeing and Christianity communications toolkit</a></li></ul>"
 						},
 						{
 							"id": "580",
 							"title": "Hinduism and mental wellbeing",
-							"content": "<p>Good Thinking have worked in collaboration with members of London’s Hindu communities, with the support of <a href=\"https://www.hfb.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Hindu Forum of Britain</a>, the <a href=\"https://hinducounciluk.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Hindu Council UK</a> and BAPS Shri Swaminarayan Mandir – Neasden Temple to create a unique range of <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/hinduism\" rel=\"noopener noreferrer\" target=\"_blank\">mental wellbeing resources that align with the beliefs and teachings of Hinduism</a>.</p><p><strong>Looking to help spread the word about Good Thinking and our Hinduism resources for Londoners in your organisation and community?</strong></p><p>Simply download the free communications toolkit below for a full guide to support you with raising awareness; including copy, graphics and animations for social media, newsletters, bulletins and websites:</p><ul><li><a href=\"/good-thinking-archives/assets/Good_Thinking_Comms_Toolkit_Mental_wellbeing_and_Hinduism_a202da6089.docx?updated_at=2023-10-09T16:47:10.809Z\" rel=\"noopener noreferrer\" target=\"_blank\">Mental wellbeing and Hinduism communications toolkit</a></li></ul>"
+							"content": "<p>Good Thinking have worked in collaboration with members of London’s Hindu communities, with the support of <a href=\"https://www.hfb.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Hindu Forum of Britain</a>, the <a href=\"https://hinducounciluk.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Hindu Council UK</a> and BAPS Shri Swaminarayan Mandir – Neasden Temple to create a unique range of <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/hinduism\" rel=\"noopener noreferrer\" target=\"_blank\">mental wellbeing resources that align with the beliefs and teachings of Hinduism</a>.</p><p><strong>Looking to help spread the word about Good Thinking and our Hinduism resources for Londoners in your organisation and community?</strong></p><p>Simply download the free communications toolkit below for a full guide to support you with raising awareness; including copy, graphics and animations for social media, newsletters, bulletins and websites:</p><ul><li><a href=\"/good-thinking-archiveassets/Good_Thinking_Comms_Toolkit_Mental_wellbeing_and_Hinduism_a202da6089.docx?updated_at=2023-10-09T16:47:10.809Z\" rel=\"noopener noreferrer\" target=\"_blank\">Mental wellbeing and Hinduism communications toolkit</a></li></ul>"
 						},
 						{
 							"id": "583",
 							"title": "Islam and mental wellbeing",
-							"content": "<p>Good Thinking have worked in collaboration with members of London’s Muslim communities, NHS North East London and Newham Council to create a unique range of <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/islam\" rel=\"noopener noreferrer\" target=\"_blank\">mental wellbeing resources that align with the beliefs and teachings of Islam</a>.</p><p><strong>Looking to help spread the word about Good Thinking and our Islam resources for Londoners in your organisation and community?</strong></p><p>Simply download the free communications toolkit below for a full guide to support you with raising awareness; including copy, graphics and animations for social media, newsletters, bulletins and websites:</p><ul><li><a href=\"/good-thinking-archives/assets/Good_Thinking_Comms_Toolkit_Mental_wellbeing_and_Islam_aed75fab01.docx?updated_at=2023-10-09T17:00:26.183Z\" rel=\"noopener noreferrer\" target=\"_blank\">Mental wellbeing and Islam communications toolkit</a></li></ul>"
+							"content": "<p>Good Thinking have worked in collaboration with members of London’s Muslim communities, NHS North East London and Newham Council to create a unique range of <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/islam\" rel=\"noopener noreferrer\" target=\"_blank\">mental wellbeing resources that align with the beliefs and teachings of Islam</a>.</p><p><strong>Looking to help spread the word about Good Thinking and our Islam resources for Londoners in your organisation and community?</strong></p><p>Simply download the free communications toolkit below for a full guide to support you with raising awareness; including copy, graphics and animations for social media, newsletters, bulletins and websites:</p><ul><li><a href=\"/good-thinking-archiveassets/Good_Thinking_Comms_Toolkit_Mental_wellbeing_and_Islam_aed75fab01.docx?updated_at=2023-10-09T17:00:26.183Z\" rel=\"noopener noreferrer\" target=\"_blank\">Mental wellbeing and Islam communications toolkit</a></li></ul>"
 						},
 						{
 							"id": "584",
 							"title": "Judaism and mental wellbeing",
-							"content": "<p>Good Thinking have worked in collaboration with members of London’s Jewish communities and <a href=\"https://jamiuk.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Jami</a>, in consultation with Rabbi Miriam Berger and Rabbi Daniel Epstein and with the support of <a href=\"https://www.londonjewishforum.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">The London Jewish Forum</a>, <a href=\"https://www.maccabigb.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Maccabi GB</a> and the London Borough of Barnet to create a unique range of <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/judaism\" rel=\"noopener noreferrer\" target=\"_blank\">mental wellbeing resources that align with the beliefs and teachings of Judaism</a>.</p><p><strong>Looking to help spread the word about Good Thinking and our Judaism resources for Londoners in your organisation and community?</strong></p><p>Simply download the free communications toolkit below for a full guide to support you with raising awareness; including copy, graphics and animations for social media, newsletters, bulletins and websites:</p><ul><li><a href=\"/good-thinking-archives/assets/Good_Thinking_Comms_Toolkit_Mental_wellbeing_and_Judaism_739235ba93.docx?updated_at=2023-10-09T17:48:21.274Z\" rel=\"noopener noreferrer\" target=\"_blank\">Mental wellbeing and Judaism communications toolkit</a></li></ul>"
+							"content": "<p>Good Thinking have worked in collaboration with members of London’s Jewish communities and <a href=\"https://jamiuk.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Jami</a>, in consultation with Rabbi Miriam Berger and Rabbi Daniel Epstein and with the support of <a href=\"https://www.londonjewishforum.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">The London Jewish Forum</a>, <a href=\"https://www.maccabigb.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Maccabi GB</a> and the London Borough of Barnet to create a unique range of <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/judaism\" rel=\"noopener noreferrer\" target=\"_blank\">mental wellbeing resources that align with the beliefs and teachings of Judaism</a>.</p><p><strong>Looking to help spread the word about Good Thinking and our Judaism resources for Londoners in your organisation and community?</strong></p><p>Simply download the free communications toolkit below for a full guide to support you with raising awareness; including copy, graphics and animations for social media, newsletters, bulletins and websites:</p><ul><li><a href=\"/good-thinking-archiveassets/Good_Thinking_Comms_Toolkit_Mental_wellbeing_and_Judaism_739235ba93.docx?updated_at=2023-10-09T17:48:21.274Z\" rel=\"noopener noreferrer\" target=\"_blank\">Mental wellbeing and Judaism communications toolkit</a></li></ul>"
 						},
 						{
 							"id": "585",
 							"title": "Rastafari and mental wellbeing",
-							"content": "<p>Good Thinking have worked in collaboration with members of London’s Rastafari communities to create a unique range of <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/rastafari\" rel=\"noopener noreferrer\" target=\"_blank\">mental wellbeing resources that align with the beliefs and teachings of Rastafari</a> endorsed by Sistahs and Elders from the <a href=\"https://www.facebook.com/RastafariMovementUK/\" rel=\"noopener noreferrer\" target=\"_blank\">Rastafari Movement UK</a> and the <a href=\"https://www.facebook.com/nyahbinghinationalcouncil/\" rel=\"noopener noreferrer\" target=\"_blank\">National Nyabinghi Council UK</a>.</p><p>Looking to help spread the word about Good Thinking and our Rastafari resources for Londoners in your organisation and community?</p><p>Simply download the free communications toolkit below for a full guide to support you with raising awareness; including copy, graphics and animations for social media, newsletters, bulletins and websites:</p><ul><li><a href=\"/good-thinking-archives/assets/Good_Thinking_Comms_Toolkit_Mental_wellbeing_and_Rastafari_f92e2fd199.docx?updated_at=2023-10-09T18:02:32.816Z\" rel=\"noopener noreferrer\" target=\"_blank\">Mental wellbeing and Rastafari communications toolkit</a></li></ul>"
+							"content": "<p>Good Thinking have worked in collaboration with members of London’s Rastafari communities to create a unique range of <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/rastafari\" rel=\"noopener noreferrer\" target=\"_blank\">mental wellbeing resources that align with the beliefs and teachings of Rastafari</a> endorsed by Sistahs and Elders from the <a href=\"https://www.facebook.com/RastafariMovementUK/\" rel=\"noopener noreferrer\" target=\"_blank\">Rastafari Movement UK</a> and the <a href=\"https://www.facebook.com/nyahbinghinationalcouncil/\" rel=\"noopener noreferrer\" target=\"_blank\">National Nyabinghi Council UK</a>.</p><p>Looking to help spread the word about Good Thinking and our Rastafari resources for Londoners in your organisation and community?</p><p>Simply download the free communications toolkit below for a full guide to support you with raising awareness; including copy, graphics and animations for social media, newsletters, bulletins and websites:</p><ul><li><a href=\"/good-thinking-archiveassets/Good_Thinking_Comms_Toolkit_Mental_wellbeing_and_Rastafari_f92e2fd199.docx?updated_at=2023-10-09T18:02:32.816Z\" rel=\"noopener noreferrer\" target=\"_blank\">Mental wellbeing and Rastafari communications toolkit</a></li></ul>"
 						},
 						{
 							"id": "586",
 							"title": "Sikhi and mental wellbeing",
-							"content": "<p>Good Thinking have worked in collaboration with members of London’s Sikh communities to create a unique range of <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/sikhi\" rel=\"noopener noreferrer\" target=\"_blank\">mental wellbeing resources that align with the beliefs and teachings of Sikhi</a> endorsed by <a href=\"https://www.basicsofsikhi.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Basics of Sikhi</a>, <a href=\"https://sikhcouncil.co.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Sikh Council UK</a>, <a href=\"https://sikhyourmind.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Sikh Your Mind</a> and <a href=\"https://www.taraki.co.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Taraki</a>.</p><p>Looking to help spread the word about Good Thinking and our Sikhi resources for Londoners in your organisation and community?</p><p>Simply download the free communications toolkit below for a full guide to support you with raising awareness; including copy, graphics and animations for social media, newsletters, bulletins and websites:</p><ul><li><a href=\"/good-thinking-archives/assets/Good_Thinking_Comms_Toolkit_Mental_wellbeing_and_Sikhi_0c2248589b.docx?updated_at=2023-10-09T18:11:10.456Z\" rel=\"noopener noreferrer\" target=\"_blank\">Mental wellbeing and Sikhi communications toolkit</a></li></ul>"
+							"content": "<p>Good Thinking have worked in collaboration with members of London’s Sikh communities to create a unique range of <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/sikhi\" rel=\"noopener noreferrer\" target=\"_blank\">mental wellbeing resources that align with the beliefs and teachings of Sikhi</a> endorsed by <a href=\"https://www.basicsofsikhi.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Basics of Sikhi</a>, <a href=\"https://sikhcouncil.co.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Sikh Council UK</a>, <a href=\"https://sikhyourmind.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Sikh Your Mind</a> and <a href=\"https://www.taraki.co.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Taraki</a>.</p><p>Looking to help spread the word about Good Thinking and our Sikhi resources for Londoners in your organisation and community?</p><p>Simply download the free communications toolkit below for a full guide to support you with raising awareness; including copy, graphics and animations for social media, newsletters, bulletins and websites:</p><ul><li><a href=\"/good-thinking-archiveassets/Good_Thinking_Comms_Toolkit_Mental_wellbeing_and_Sikhi_0c2248589b.docx?updated_at=2023-10-09T18:11:10.456Z\" rel=\"noopener noreferrer\" target=\"_blank\">Mental wellbeing and Sikhi communications toolkit</a></li></ul>"
 						}
 					]
 				}
