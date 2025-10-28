@@ -1,0 +1,1062 @@
+"use strict";
+(self.webpackChunk_N_E = self.webpackChunk_N_E || []).push([
+	[931],
+	{
+		6011: function (e, n, t) {
+			t.d(n, {
+				Y: function () {
+					return A;
+				},
+			});
+			var i = t(1799),
+				r = t(5893),
+				s = t(9226),
+				o = t(9396),
+				a = t(3321),
+				l = t(5861),
+				d = t(40),
+				c = t(7294),
+				x = t(965),
+				u = t(719),
+				h = (t(933), t(5519), t(9223)),
+				p = t(2559),
+				m = t(266),
+				f = t(9167),
+				j = {
+					"&:hover:not(:disabled)": {
+						md: { outline: "2px solid ".concat(p.dY) },
+					},
+					"&:disabled": { cursor: "initial" },
+					zIndex: 100,
+				},
+				b = function () {
+					var e = (0, u.oc)();
+					return (0, r.jsx)(a.Z, {
+						"aria-label": "Previous slide",
+						onClick: function () {
+							return e.slidePrev();
+						},
+						variant: "image",
+						sx: j,
+						children: (0, r.jsx)("img", {
+							alt: "",
+							src: "/good-thinking-archive/assets/images/chevron-left.svg",
+						}),
+					});
+				},
+				g = function () {
+					var e = (0, u.oc)();
+					return (0, r.jsx)(a.Z, {
+						"aria-label": "Next slide",
+						onClick: function () {
+							return null === e || void 0 === e ? void 0 : e.slideNext();
+						},
+						variant: "image",
+						sx: (0, o.Z)((0, i.Z)({}, j), { ml: 1.5 }),
+						children: (0, r.jsx)("img", {
+							alt: "",
+							src: "/good-thinking-archive/assets/images/chevron-right.svg",
+						}),
+					});
+				},
+				v = function (e) {
+					var n = e.headline,
+						t = e.description,
+						i = e.image,
+						o = e.buttonLink,
+						c = e.swiper;
+					return (0, r.jsx)(u.o5, {
+						children: (0, r.jsxs)(s.Z, {
+							onMouseLeave: function () {
+								null === c || void 0 === c || c.autoplay.start();
+							},
+							sx: {
+								display: "flex",
+								justifyContent: "space-between",
+								minWidth: "100%",
+								flexWrap: { xs: "wrap", md: "nowrap" },
+							},
+							"aria-roledescription": "slide",
+							children: [
+								(0, r.jsxs)(s.Z, {
+									sx: { width: { xs: "100%", md: "55%" } },
+									children: [
+										(0, r.jsx)(l.Z, { variant: "h1", mb: 4, children: n }),
+										(0, r.jsx)(l.Z, {
+											variant: "subtitle1",
+											component: "p",
+											children: t,
+										}),
+										(0, r.jsxs)(s.Z, {
+											mt: 4,
+											sx: {
+												display: { xs: "flex", md: o ? "block" : "none" },
+												justifyContent: "space-between",
+												alignItems: "center",
+											},
+											children: [
+												o &&
+													(0, r.jsx)(d.rU, {
+														href: o.url,
+														children: (0, r.jsx)(a.Z, {
+															tabIndex: -1,
+															children: o.text,
+														}),
+													}),
+												(0, r.jsxs)(s.Z, {
+													sx: {
+														display: { xs: "block", md: "none" },
+														minWidth: 110,
+														ml: 2,
+													},
+													children: [(0, r.jsx)(b, {}), (0, r.jsx)(g, {})],
+												}),
+											],
+										}),
+									],
+								}),
+								(0, r.jsx)(s.Z, {
+									sx: {
+										width: { xs: "100%", md: "40%" },
+										height: { xs: 220, md: "auto" },
+										pb: 10,
+										display: "flex",
+										mt: { xs: 4, md: 0 },
+										position: "relative",
+									},
+									children: (0, r.jsx)(h.E, { strapiMedia: i, fill: !0 }),
+								}),
+							],
+						}),
+					});
+				},
+				Z = function (e) {
+					var n = e.slides,
+						t = (0, c.useRef)(null);
+					if (!n[0]) throw new Error("Carousel must contain at least 1 slide");
+					return (0, r.jsxs)(r.Fragment, {
+						children: [
+							(0, r.jsxs)(u.tq, {
+								autoplay: { delay: 3e3, pauseOnMouseEnter: !0 },
+								"aria-roledescription": "carousel",
+								"aria-live": "polite",
+								loop: !0,
+								modules: [x.pt],
+								onSwiper: function (e) {
+									return (t.current = e);
+								},
+								simulateTouch: !0,
+								speed: 400,
+								children: [
+									n.map(function (e) {
+										return (0, r.jsx)(
+											u.o5,
+											{
+												children: (0, r.jsx)(
+													v,
+													(0, o.Z)((0, i.Z)({}, e), { swiper: t.current }),
+												),
+											},
+											e.id,
+										);
+									}),
+									(0, r.jsxs)(s.Z, {
+										sx: {
+											position: "absolute",
+											bottom: 2,
+											right: 2,
+											display: { xs: "none", md: "block" },
+										},
+										children: [(0, r.jsx)(b, {}), (0, r.jsx)(g, {})],
+									}),
+								],
+							}),
+							(0, r.jsx)(f.L, { size: m.FC.Large }),
+						],
+					});
+				},
+				y = t(7148),
+				w = function (e) {
+					var n = e.headline,
+						t = e.image,
+						i = e.index,
+						o = e.link,
+						a = e.numberOfTiles,
+						c = a % 3 === 0 || (a % 2 !== 0 && i > a - 4);
+					return (0, r.jsxs)(d.rU, {
+						href: o,
+						sx: function (e) {
+							var n = e.palette;
+							return {
+								alignSelf: { xs: "baseline", md: "stretch" },
+								border: "1px solid ".concat(n.border.regular),
+								borderRadius: "40px",
+								background: n.background.tile.default,
+								display: { xs: "block", md: "flex" },
+								flexDirection: "column",
+								justifyContent: "space-between",
+								alignItems: "center",
+								maxHeight: { xs: 260, md: 360 },
+								height: { xs: 260, md: 360 },
+								mt: 2,
+								padding: { xs: "20px 30px 0 30px", md: "50px 50px 0 50px" },
+								width: {
+									xs: "100%",
+									md: "calc(".concat(c ? "33%" : "50%", " - 10px)"),
+								},
+								overflow: "hidden",
+								transition: "border-color 0.2s, background 0.2s",
+								"&:hover": {
+									background: n.background.tile.hover,
+									borderColor: n.border.dark,
+									cursor: "pointer",
+									transition: "border-color 0.2s, background 0.2s",
+									"& .read-more-link": {
+										opacity: 1,
+										transition: "opacity 0.1s",
+									},
+								},
+							};
+						},
+						children: [
+							(0, r.jsxs)(s.Z, {
+								sx: { width: "100%", mb: 1 },
+								children: [
+									(0, r.jsx)(l.Z, { variant: "h3", children: n }),
+									(0, r.jsx)(s.Z, {
+										className: "read-more-link",
+										sx: {
+											opacity: { xs: 1, md: 0 },
+											mt: 1,
+											transition: "opacity 0.1s",
+										},
+										children: (0, r.jsxs)(l.Z, {
+											sx: function (e) {
+												return { color: e.palette.primary.main };
+											},
+											children: ["Read more ", (0, r.jsx)(y.X, {})],
+										}),
+									}),
+								],
+							}),
+							(null === t || void 0 === t ? void 0 : t.data)
+								? (0, r.jsx)(s.Z, {
+										sx: {
+											height: "70%",
+											width: "100%",
+											textAlign: "center",
+											display: "flex",
+											alignItems: "flex-end",
+											justifyContent: "center",
+											minHeight: 0,
+											flex: 1,
+											position: "relative",
+										},
+										children: (0, r.jsx)(h.E, {
+											strapiMedia: t,
+											fill: !0,
+											sizes:
+												"(max-width: 599px) 80vw, (max-width: 1199px) 35vw, 500px",
+										}),
+									})
+								: null,
+						],
+					});
+				},
+				k = function (e) {
+					var n = e.introText,
+						t = e.tiles;
+					return (0, r.jsxs)(s.Z, {
+						component: "section",
+						width: "100%",
+						children: [
+							(0, r.jsx)(l.Z, {
+								sx: { textAlign: "center", mb: { xs: 2, md: 5 } },
+								variant: "h2",
+								children: n,
+							}),
+							(0, r.jsx)(s.Z, {
+								sx: {
+									display: "flex",
+									flexWrap: "wrap",
+									flexShrink: 1,
+									justifyContent: "space-between",
+								},
+								children: t.map(function (e, n) {
+									return (0, r.jsx)(
+										w,
+										{
+											id: e.id,
+											index: n,
+											headline: e.headline,
+											image: e.image,
+											link: e.link,
+											numberOfTiles: t.length,
+										},
+										e.id,
+									);
+								}),
+							}),
+							(0, r.jsx)(f.L, { size: m.FC.Large }),
+						],
+					});
+				},
+				C = t(4601),
+				S = t(5274),
+				I = t(1073),
+				L = { 0: p.ZE, 1: p.Od, 2: p.LB, 3: p.dw },
+				_ = function (e) {
+					var n = (0, c.useState)(!1),
+						t = n[0],
+						i = n[1],
+						o = e.id,
+						a = e.content,
+						d = e.index,
+						x = e.title,
+						u = L[d % 4];
+					return (0, r.jsxs)(s.Z, {
+						children: [
+							(0, r.jsxs)(s.Z, {
+								component: "button",
+								onClick: function () {
+									return i(!t);
+								},
+								"aria-controls": o,
+								"aria-expanded": t,
+								sx: {
+									background: u,
+									width: "100%",
+									paddingY: 2,
+									paddingX: { xs: 2, md: 5 },
+									border: "1px solid ".concat(u),
+									cursor: "pointer",
+									transition: "filter 0.2s",
+									"&:hover": {
+										transition: "filter 0.2s",
+										filter: "brightness(102%)",
+									},
+									display: "flex",
+									justifyContent: "space-between",
+									alignItems: "center",
+								},
+								children: [
+									(0, r.jsx)(l.Z, {
+										fontSize: "1.3rem",
+										textAlign: "left",
+										mr: 2,
+										color: "#2E1208",
+										children: x,
+									}),
+									(0, r.jsx)(l.Z, {
+										sx: {
+											lineHeight: 1,
+											fontSize: { xs: "1.8rem", md: "2.5rem" },
+											color: "#2E1208",
+										},
+										children: t ? "\u2013" : "+",
+									}),
+								],
+							}),
+							(0, r.jsx)(I.Z, {
+								id: o,
+								height: t ? "auto" : 0,
+								style: {
+									borderBottom: t ? "1px solid rgba(0,0,0,0.1)" : "none",
+								},
+								children: (0, r.jsx)(s.Z, {
+									sx: {
+										borderLeft: "1px solid rgba(0,0,0,0.1)",
+										borderRight: "1px solid rgba(0,0,0,0.1)",
+										padding: { xs: "20px 25px", md: "30px 40px" },
+									},
+									children: (0, r.jsx)(C.H, {
+										columnWidth: m.ui.Full,
+										content: a,
+										noTopMargin: !0,
+									}),
+								}),
+							}),
+						],
+					});
+				},
+				z = function (e) {
+					var n = e.tabs;
+					return (0, r.jsxs)(s.Z, {
+						sx: { width: "100%" },
+						children: [
+							(0, r.jsx)(s.Z, { mb: 2 }),
+							n.map(function (e, n) {
+								return (0, r.jsx)(
+									_,
+									(0, o.Z)((0, i.Z)({}, e), { index: n }),
+									e.id,
+								);
+							}),
+							(0, r.jsx)(s.Z, { mb: 2 }),
+						],
+					});
+				},
+				E = t(9008),
+				T = t.n(E),
+				M = function (e) {
+					var n = e.question,
+						t = e.answer;
+					return (0, r.jsxs)(s.Z, {
+						sx: { mb: 6 },
+						children: [
+							(0, r.jsx)(l.Z, { variant: "h3", children: n }),
+							(0, r.jsx)(l.Z, { children: t }),
+						],
+					});
+				},
+				H = function (e) {
+					var n = {
+						"@context": "https://schema.org",
+						"@type": "FAQPage",
+						mainEntity: e.map(function (e) {
+							return {
+								"@type": "Question",
+								name: e.question,
+								acceptedAnswer: { "@type": "Answer", text: e.answer },
+							};
+						}),
+					};
+					return JSON.stringify(n, void 0, 2);
+				},
+				F = function (e) {
+					var n = e.questions;
+					return (0, r.jsxs)(r.Fragment, {
+						children: [
+							(0, r.jsx)(T(), {
+								children: (0, r.jsx)("script", {
+									type: "application/ld+json",
+									dangerouslySetInnerHTML: { __html: H(n) },
+								}),
+							}),
+							(0, r.jsx)(s.Z, {
+								maxWidth: { xs: "100%", lg: "75%" },
+								children: n.map(function (e) {
+									return (0, r.jsx)(M, (0, i.Z)({}, e), e.id);
+								}),
+							}),
+							(0, r.jsx)(f.L, { size: m.FC.Medium }),
+						],
+					});
+				},
+				U = function (e) {
+					var n = e.title,
+						t = e.subtitle,
+						i = e.image,
+						o = e.link;
+					return (0, r.jsxs)(d.rU, {
+						href: o.url,
+						sx: function (e) {
+							var n = e.palette;
+							return {
+								border: "1px solid ".concat(n.border.regular),
+								borderRadius: { xs: "20px", md: "40px" },
+								background: n.background.tile.default,
+								display: "flex",
+								flexWrap: { xs: "wrap", md: "no-wrap" },
+								justifyContent: "space-between",
+								my: 2,
+								padding: { xs: "20px 30px", md: "40px 80px" },
+								width: "100%",
+								overflow: "hidden",
+								transition: "border-color 0.2s, background 0.2s",
+								"&:hover": {
+									background: n.background.tile.hover,
+									borderColor: n.border.dark,
+									cursor: "pointer",
+									transition: "border-color 0.2s, background 0.2s",
+									"& .link-text": { opacity: 1, transition: "opacity 0.1s" },
+								},
+							};
+						},
+						children: [
+							(0, r.jsxs)(s.Z, {
+								sx: { width: { xs: "100%", sm: "60%" } },
+								children: [
+									(0, r.jsx)(l.Z, {
+										component: "div",
+										variant: "h3",
+										children: n,
+									}),
+									t && (0, r.jsx)(l.Z, { children: t }),
+									(0, r.jsxs)(s.Z, {
+										sx: {
+											display: "flex",
+											justifyContent: "space-between",
+											alignItems: "flex-end",
+											flexWrap: "wrap",
+										},
+										children: [
+											(0, r.jsx)(s.Z, {
+												className: "link-text",
+												children: (0, r.jsxs)(l.Z, {
+													sx: function (e) {
+														return { color: e.palette.primary.main, mt: 2 };
+													},
+													children: [o.text, " ", ">"],
+												}),
+											}),
+											(null === i || void 0 === i ? void 0 : i.data)
+												? (0, r.jsx)(s.Z, {
+														height: 100,
+														width: "100%",
+														sx: {
+															display: { xs: "flex", sm: "none" },
+															alignItems: "flex-end",
+															position: "relative",
+															mt: 2,
+														},
+														children: (0, r.jsx)(h.E, {
+															strapiMedia: i,
+															fill: !0,
+														}),
+													})
+												: null,
+										],
+									}),
+								],
+							}),
+							(null === i || void 0 === i ? void 0 : i.data)
+								? (0, r.jsx)(s.Z, {
+										sx: {
+											display: { xs: "none", sm: "flex" },
+											justifyContent: "flex-end",
+											width: "30%",
+											maxHeight: 160,
+										},
+										children: (0, r.jsx)(h.E, { strapiMedia: i }),
+									})
+								: null,
+						],
+					});
+				},
+				W = function (e) {
+					switch (e.__typename) {
+						case "ComponentSectionsCarousel":
+							return (0, r.jsx)(Z, (0, i.Z)({}, e));
+						case "ComponentSectionsLinkTiles":
+							return (0, r.jsx)(k, (0, i.Z)({}, e));
+						case "ComponentSectionsRichText":
+							return (0, r.jsx)(C.H, (0, i.Z)({}, e));
+						case "ComponentSectionsInfoTabs":
+							return (0, r.jsx)(z, (0, i.Z)({}, e));
+						case "ComponentSectionsFaq":
+							return (0, r.jsx)(F, (0, i.Z)({}, e));
+						case "ComponentSectionsSpacer":
+							return (0, r.jsx)(f.L, (0, i.Z)({}, e));
+						case "ComponentSectionsQuizInsert":
+						case "ComponentSectionsCombinedQuizInsert":
+							return (0, r.jsx)("p", {
+								children:
+									"Quiz functionality is not available on the archived site.",
+							});
+						case "ComponentSectionsLinkBanner":
+							return (0, r.jsx)(U, (0, i.Z)({}, e));
+						case "ComponentSectionsAssessmentInsert":
+							return (0, r.jsx)("p", {
+								children:
+									"Assessment functionality is not available on the archived site.",
+							});
+						case "ComponentSectionsSubscribeForm":
+							return (0, r.jsx)("p", {
+								children:
+									"Subscribe form functionality is not available on the archived site.",
+							});
+						case "ComponentSectionsRawHtml":
+							return (0, r.jsx)(s.Z, {
+								dangerouslySetInnerHTML: { __html: e.html },
+								sx: { my: 2 },
+							});
+						default:
+							throw new Error("Unhandled component type ".concat(e.__typename));
+					}
+				},
+				A = function (e) {
+					e.global;
+					var n = e.howToUse,
+						t = e.sections;
+					return (0, r.jsx)(s.Z, {
+						sx: {
+							display: "flex",
+							flexWrap: "wrap",
+							justifyContent: "space-between",
+						},
+						children: t.map(function (e, t) {
+							return "Error" === e.__typename
+								? (0, r.jsxs)(
+										s.Z,
+										{ children: ["Error: ", e.message] },
+										"error",
+									)
+								: "ComponentSectionsHowToUseInsert" === e.__typename
+									? (0, r.jsx)(S.Z, (0, i.Z)({}, n), t)
+									: (0, r.jsx)(W, (0, i.Z)({}, e), t);
+						}),
+					});
+				};
+		},
+		1610: function (e, n, t) {
+			var i = t(1799),
+				r = t(5893),
+				s = t(2962),
+				o = t(8488);
+			n.Z = function (e) {
+				var n,
+					t = e.description,
+					a = e.image,
+					l = e.noIndex,
+					d = void 0 !== l && l,
+					c = e.title,
+					x =
+						null === a || void 0 === a || null === (n = a.data) || void 0 === n
+							? void 0
+							: n.attributes;
+				return (0, r.jsx)(s.PB, {
+					title: c,
+					description: t,
+					noindex: d,
+					openGraph: (0, i.Z)(
+						{ title: c, description: t },
+						x && {
+							images: (x.formats ? Object.values(x.formats) : [x]).map(
+								function (e) {
+									return {
+										url: (0, o.b)(x.url),
+										width: e.width,
+										height: e.height,
+									};
+								},
+							),
+						},
+					),
+				});
+			};
+		},
+		7148: function (e, n, t) {
+			t.d(n, {
+				X: function () {
+					return l;
+				},
+			});
+			var i = t(1799),
+				r = t(9396),
+				s = t(9534),
+				o = t(5893),
+				a = t(3219),
+				l = function (e) {
+					var n,
+						t,
+						l,
+						d,
+						c = e.chevronColor,
+						x = (0, s.Z)(e, ["chevronColor"]);
+					return (0, o.jsx)(
+						a.Z,
+						(0, r.Z)((0, i.Z)({}, x), {
+							fill: "none",
+							sx: {
+								width: null !== (n = x.width) && void 0 !== n ? n : 6,
+								height: null !== (t = x.height) && void 0 !== t ? t : 11,
+							},
+							viewBox: "0 0 "
+								.concat(null !== (l = x.width) && void 0 !== l ? l : 6, " ")
+								.concat(null !== (d = x.height) && void 0 !== d ? d : 11),
+							children: (0, o.jsx)("path", {
+								d: "M1 1L4.54986 4.99359C4.80657 5.2824 4.80657 5.7176 4.54986 6.00641L1 10",
+								fill: "none",
+								stroke: null !== c && void 0 !== c ? c : "#587044",
+								strokeWidth: "1.8",
+								strokeLinecap: "round",
+							}),
+						}),
+					);
+				};
+		},
+		5274: function (e, n, t) {
+			var i = t(1799),
+				r = t(9396),
+				s = t(5893),
+				o = t(7294),
+				a = t(9226),
+				l = t(3321),
+				d = t(8396),
+				c = t(5861),
+				x = t(3100),
+				u = t(3599),
+				h = t(9223),
+				p = t(40),
+				m = t(266),
+				f = t(9167),
+				j = t(2559),
+				b = function (e) {
+					var n = e.active,
+						t = e.bodyText,
+						r = e.image,
+						o = e.buttonLink;
+					return (0, s.jsxs)(a.Z, {
+						sx: {
+							display: n ? "flex" : "none",
+							justifyContent: "space-between",
+							flexWrap: { xs: "wrap", md: "no-wrap" },
+						},
+						children: [
+							(0, s.jsxs)(a.Z, {
+								width: { xs: "100%", md: "55%" },
+								children: [
+									(0, s.jsx)(a.Z, {
+										dangerouslySetInnerHTML: { __html: t },
+										sx: function (e) {
+											var n = e.typography;
+											return {
+												"& li": t.includes("Mental health concern")
+													? (0, i.Z)({}, n.h3)
+													: {},
+												"& h3": { mt: 0 },
+												"& ul:not(:first-of-type)": { mt: 4 },
+												"& ul:first-of-type": { mt: 0 },
+											};
+										},
+									}),
+									o &&
+										(0, s.jsx)(a.Z, {
+											sx: {
+												display: "flex",
+												justifyContent: "center",
+												mt: { xs: 4, md: 6 },
+											},
+											children: (0, s.jsx)(p.rU, {
+												href: o.url,
+												children: (0, s.jsx)(l.Z, {
+													tabIndex: -1,
+													children: o.text,
+												}),
+											}),
+										}),
+								],
+							}),
+							(0, s.jsx)(a.Z, {
+								sx: {
+									width: { xs: "100%", md: "40%" },
+									mt: { xs: 4, md: 0 },
+									position: "relative",
+								},
+								children: (0, s.jsx)(h.E, {
+									responsive: !0,
+									priority: !0,
+									strapiMedia: r,
+									sizes:
+										"(max-width: 599px) 90vw, (max-width: 1199px) 35vw, 460px",
+								}),
+							}),
+						],
+					});
+				};
+			n.Z = function (e) {
+				var n = e.howToUseSection,
+					t = e.headline,
+					h = e.description,
+					p = n.map(function (e) {
+						return e.tabText;
+					}),
+					g = (0, o.useState)(p[0]),
+					v = g[0],
+					Z = g[1],
+					y = (0, d.Z)(j.rS.breakpoints.down("md"));
+				return (0, s.jsxs)(a.Z, {
+					component: "section",
+					children: [
+						(0, s.jsx)(f.L, { size: m.FC.Medium }),
+						(t || h) &&
+							(0, s.jsxs)(a.Z, {
+								sx: {
+									textAlign: "center",
+									width: { sx: "100%", md: "60%" },
+									mx: "auto",
+									mb: { xs: 4, md: 8 },
+								},
+								children: [
+									t && (0, s.jsx)(c.Z, { variant: "h2", mb: 2, children: t }),
+									h &&
+										(0, s.jsx)(c.Z, {
+											component: "p",
+											variant: "subtitle1",
+											children: h,
+										}),
+								],
+							}),
+						y
+							? (0, s.jsx)(x.Z, {
+									value: v,
+									label: "How to Use section",
+									onChange: function (e) {
+										return Z(e.target.value);
+									},
+									sx: {
+										width: "100%",
+										mb: 4,
+										padding: 0,
+										background: j.lr,
+										color: "white",
+										borderRadius: 4,
+										"& svg": {
+											fill: "white",
+											right: 16,
+											top: 16,
+											height: 30,
+											width: 30,
+										},
+										"& .MuiSelect-select": { paddingY: 2.5, paddingX: 3 },
+									},
+									children: p.map(function (e) {
+										return (0, s.jsx)(u.Z, { value: e, children: e }, e);
+									}),
+								})
+							: (0, s.jsx)(a.Z, {
+									sx: {
+										display: "flex",
+										justifyContent: "space-between",
+										mb: 8,
+									},
+									children: p.map(function (e) {
+										return (0, s.jsx)(
+											l.Z,
+											{
+												onClick: function () {
+													return Z(e);
+												},
+												color: "transparent",
+												sx: function (n) {
+													var t = n.palette;
+													return (0, r.Z)(
+														(0, i.Z)(
+															{ fontSize: "1rem", px: 6 },
+															v === e
+																? {
+																		color: t.common.white,
+																		backgroundColor: t.primary.main,
+																		borderColor: t.primary.main,
+																	}
+																: { backgroundColor: "rgba(88, 112, 68, 0.1)" },
+														),
+														{ "&:not(:first-of-type)": { ml: 2 } },
+													);
+												},
+												variant: "outlined",
+												children: e,
+											},
+											e,
+										);
+									}),
+								}),
+						n.map(function (e) {
+							return (0, o.createElement)(
+								b,
+								(0, r.Z)((0, i.Z)({}, e), {
+									active: e.tabText === v,
+									key: e.tabText,
+								}),
+							);
+						}),
+						(0, s.jsx)(f.L, { size: m.FC.Medium }),
+					],
+				});
+			};
+		},
+		718: function (e, n, t) {
+			t.d(n, {
+				D: function () {
+					return f;
+				},
+			});
+			var i = t(5893),
+				r = t(9226),
+				s = t(3156),
+				o = t(5861),
+				a = t(5675),
+				l = t.n(a),
+				d = t(2963),
+				c = t(40),
+				x = t(7148),
+				u = t(9008),
+				h = t.n(u),
+				p = function (e) {
+					var n = {
+						"@context": "https://schema.org",
+						"@type": "BreadcrumbList",
+						itemListElement: e.map(function (e, n) {
+							return {
+								"@type": "ListItem",
+								position: n + 1,
+								item: "https://www.good-thinking.uk/".concat(e.path),
+								name: e.title,
+							};
+						}),
+					};
+					return JSON.stringify(n, void 0, 2);
+				},
+				m = function (e) {
+					var n = e.breadcrumbs,
+						t = void 0 === n ? [] : n;
+					return (0, i.jsxs)(i.Fragment, {
+						children: [
+							(0, i.jsx)(h(), {
+								children: (0, i.jsx)("script", {
+									type: "application/ld+json",
+									dangerouslySetInnerHTML: { __html: p(t) },
+								}),
+							}),
+							(0, i.jsxs)(d.Z, {
+								separator: (0, i.jsx)(r.Z, {
+									sx: { mb: { xs: 0.2, md: 0 } },
+									children: (0, i.jsx)(x.X, { chevronColor: "black" }),
+								}),
+								"aria-label": "breadcrumbs",
+								children: [
+									(0, i.jsx)(c.rU, {
+										href: "/",
+										sx: {
+											display: "flex",
+											alignItems: "center",
+											mb: { xs: 0.5, md: 0 },
+										},
+										children: (0, i.jsx)("img", {
+											alt: "Homepage",
+											src: "/good-thinking-archive/assets/images/home.svg",
+											width: 14,
+											height: 14,
+										}),
+									}),
+									t.map(function (e, n) {
+										var t = e.path,
+											s = (e.slug, e.title);
+										return (0, i.jsx)(
+											r.Z,
+											{
+												sx: { mb: { xs: 0.5, md: 0 } },
+												children: (0, i.jsx)(
+													c.rU,
+													{
+														href: "/".concat(t),
+														sx: function (e) {
+															var n = e.palette;
+															return {
+																color: n.text.secondary,
+																"&:hover": { color: n.primary.main },
+																transition: "color 0.1s",
+																fontSize: { xs: "0.85rem", md: "1.1rem" },
+															};
+														},
+														children: s,
+													},
+													t,
+												),
+											},
+											t,
+										);
+									}),
+								],
+							}),
+						],
+					});
+				},
+				f = function (e) {
+					var n = e.breadcrumbs,
+						t = void 0 === n ? [] : n,
+						a = e.hideBreadcrumbs,
+						d = void 0 !== a && a;
+					return (0, i.jsxs)(r.Z, {
+						position: "relative",
+						overflow: "hidden",
+						mb: 2,
+						children: [
+							t.length < 2 &&
+								(0, i.jsxs)(i.Fragment, {
+									children: [
+										(0, i.jsx)(r.Z, {
+											sx: {
+												position: "absolute",
+												left: "calc(50% - 90px)",
+												top: -15,
+												width: 180,
+												height: 100,
+												zIndex: -1,
+												display: { xs: "none", md: "block" },
+											},
+											children: (0, i.jsx)(l(), {
+												alt: "",
+												layout: "fill",
+												src: "/good-thinking-archive/assets/images/triangle-blue.png",
+											}),
+										}),
+										(0, i.jsx)(r.Z, {
+											sx: {
+												position: "absolute",
+												left: "calc(50% - 155px)",
+												top: -15,
+												width: 75,
+												height: 46,
+												zIndex: -1,
+												display: { xs: "none", md: "block" },
+											},
+											children: (0, i.jsx)(l(), {
+												alt: "",
+												layout: "fill",
+												src: "/good-thinking-archive/assets/images/triangle-purple.png",
+											}),
+										}),
+									],
+								}),
+							(0, i.jsx)(r.Z, {
+								sx: {
+									position: "absolute",
+									width: 180,
+									height: 100,
+									rotate: "135deg",
+									top: -30,
+									left: -90,
+									zIndex: -1,
+									display: d ? { xs: "none", md: "block" } : "none",
+								},
+								children: (0, i.jsx)(l(), {
+									alt: "",
+									layout: "fill",
+									src: "/good-thinking-archive/assets/images/triangle-green.png",
+								}),
+							}),
+							(0, i.jsxs)(s.Z, {
+								className: "do-not-print",
+								sx: {
+									display: "flex",
+									alignItems: "center",
+									justifyContent: "space-between",
+									my: 4,
+								},
+								children: [
+									d ? (0, i.jsx)(r.Z, {}) : (0, i.jsx)(m, { breadcrumbs: t }),
+									(0, i.jsxs)(r.Z, {
+										sx: { display: { xs: d ? "flex" : "none", md: "flex" } },
+										children: [
+											(0, i.jsx)(o.Z, {
+												sx: { color: "#635E5D", fontSize: "0.875rem", mr: 1 },
+												children: "Approved by",
+											}),
+											(0, i.jsx)(l(), {
+												alt: "NHS logo",
+												src: "/good-thinking-archive/assets/images/nhs.svg",
+												width: 45,
+												height: 18,
+											}),
+										],
+									}),
+								],
+							}),
+						],
+					});
+				};
+		},
+	},
+]);

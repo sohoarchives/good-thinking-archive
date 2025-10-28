@@ -1,0 +1,1081 @@
+{
+	"pageProps": {
+		"id": "256",
+		"global": {
+			"favicon": {
+				"data": {
+					"id": "318",
+					"attributes": {
+						"alternativeText": "Good Thinking logo favicon",
+						"width": null,
+						"height": null,
+						"mime": "image/x-icon",
+						"url": "/good-thinking-archive/assets/favicon_18540578c9.ico",
+						"size": 15.41,
+						"formats": null,
+						"hash": "favicon_18540578c9",
+						"name": "favicon.ico",
+						"provider": "aws-s3"
+					}
+				}
+			},
+			"globalMetadata": {
+				"id": "1",
+				"title": "Good Thinking - NHS approved wellbeing service",
+				"titleSuffix": "| Good Thinking",
+				"description": "Anxious, stressed, depressed or having trouble sleeping? Find NHS-approved mental health tools and advice to support you.",
+				"image": {
+					"data": {
+						"id": "61",
+						"attributes": {
+							"alternativeText": "Group of friends sitting on grass in front of London skyline",
+							"width": 1772,
+							"height": 1000,
+							"mime": "image/png",
+							"url": "/good-thinking-archive/assets/OG_Image_a7bd58e917.png",
+							"size": 140.96,
+							"formats": {
+								"large": {
+									"ext": ".png",
+									"url": "/good-thinking-archive/assets/large_OG_Image_a7bd58e917.png",
+									"hash": "large_OG_Image_a7bd58e917",
+									"mime": "image/png",
+									"name": "large_OG Image.png",
+									"path": null,
+									"size": 318.15,
+									"width": 1000,
+									"height": 564
+								},
+								"small": {
+									"ext": ".png",
+									"url": "/good-thinking-archive/assets/small_OG_Image_a7bd58e917.png",
+									"hash": "small_OG_Image_a7bd58e917",
+									"mime": "image/png",
+									"name": "small_OG Image.png",
+									"path": null,
+									"size": 94.39,
+									"width": 500,
+									"height": 282
+								},
+								"medium": {
+									"ext": ".png",
+									"url": "/good-thinking-archive/assets/medium_OG_Image_a7bd58e917.png",
+									"hash": "medium_OG_Image_a7bd58e917",
+									"mime": "image/png",
+									"name": "medium_OG Image.png",
+									"path": null,
+									"size": 195.54,
+									"width": 750,
+									"height": 423
+								},
+								"thumbnail": {
+									"ext": ".png",
+									"url": "/good-thinking-archive/assets/thumbnail_OG_Image_a7bd58e917.png",
+									"hash": "thumbnail_OG_Image_a7bd58e917",
+									"mime": "image/png",
+									"name": "thumbnail_OG Image.png",
+									"path": null,
+									"size": 29.12,
+									"width": 245,
+									"height": 138
+								}
+							},
+							"hash": "OG_Image_a7bd58e917",
+							"name": "OG Image.png",
+							"provider": "aws-s3"
+						}
+					}
+				},
+				"twitterUsername": "good-thinking"
+			},
+			"navbar": {
+				"id": "1",
+				"logo": {
+					"data": {
+						"id": "419",
+						"attributes": {
+							"alternativeText": "Good Thinking tree logo",
+							"width": 784,
+							"height": 310,
+							"mime": "image/png",
+							"url": "/good-thinking-archive/assets/good_thinking_logo_7c3c6f2edf.png",
+							"size": 19.88,
+							"formats": {
+								"small": {
+									"ext": ".png",
+									"url": "/good-thinking-archive/assets/small_good_thinking_logo_7c3c6f2edf.png",
+									"hash": "small_good_thinking_logo_7c3c6f2edf",
+									"mime": "image/png",
+									"name": "small_good-thinking-logo.png",
+									"path": null,
+									"size": 69.92,
+									"width": 500,
+									"height": 198
+								},
+								"medium": {
+									"ext": ".png",
+									"url": "/good-thinking-archive/assets/medium_good_thinking_logo_7c3c6f2edf.png",
+									"hash": "medium_good_thinking_logo_7c3c6f2edf",
+									"mime": "image/png",
+									"name": "medium_good-thinking-logo.png",
+									"path": null,
+									"size": 117.96,
+									"width": 750,
+									"height": 297
+								},
+								"thumbnail": {
+									"ext": ".png",
+									"url": "/good-thinking-archive/assets/thumbnail_good_thinking_logo_7c3c6f2edf.png",
+									"hash": "thumbnail_good_thinking_logo_7c3c6f2edf",
+									"mime": "image/png",
+									"name": "thumbnail_good-thinking-logo.png",
+									"path": null,
+									"size": 28.9,
+									"width": 245,
+									"height": 97
+								}
+							},
+							"hash": "good_thinking_logo_7c3c6f2edf",
+							"name": "good-thinking-logo.png",
+							"provider": "aws-s3"
+						}
+					}
+				},
+				"links": [
+					{
+						"id": "14",
+						"url": "/latest/all",
+						"text": "Latest advice",
+						"newTab": false
+					},
+					{
+						"id": "15",
+						"url": "/how-to-use-good-thinking",
+						"text": "How to use",
+						"newTab": false
+					}
+				],
+				"button": {
+					"id": "16",
+					"url": "/urgent-support",
+					"text": "Urgent support",
+					"newTab": false
+				}
+			},
+			"menu": {
+				"id": "1",
+				"bottomLinks": {
+					"id": "4",
+					"header": "Get in touch",
+					"links": [
+						{
+							"id": "49",
+							"url": "/campaign-hub",
+							"text": "Campaign hub",
+							"newTab": false
+						},
+						{
+							"id": "104",
+							"url": "/about-good-thinking",
+							"text": "About us",
+							"newTab": false
+						},
+						{
+							"id": "50",
+							"url": "/contact-us",
+							"text": "Contact us",
+							"newTab": false
+						}
+					]
+				},
+				"linkColumns": [
+					{
+						"id": "3",
+						"header": "I want help with...",
+						"links": [
+							{ "id": "17", "url": "/sleep", "text": "Sleep", "newTab": false },
+							{
+								"id": "45",
+								"url": "/anxiety",
+								"text": "Anxiety",
+								"newTab": false
+							},
+							{
+								"id": "46",
+								"url": "/low-mood",
+								"text": "Low mood",
+								"newTab": false
+							},
+							{
+								"id": "47",
+								"url": "/stress",
+								"text": "Stress",
+								"newTab": false
+							}
+						]
+					},
+					{
+						"id": "5",
+						"header": "I'm looking for support for...",
+						"links": [
+							{
+								"id": "35",
+								"url": "/youngpeople",
+								"text": "Young people",
+								"newTab": false
+							},
+							{
+								"id": "37",
+								"url": "/bereavement",
+								"text": "Someone who is grieving",
+								"newTab": false
+							},
+							{
+								"id": "120",
+								"url": "/students",
+								"text": "Students",
+								"newTab": false
+							},
+							{
+								"id": "42",
+								"url": "/faith-and-belief-communities",
+								"text": "Faith and belief communities",
+								"newTab": false
+							},
+							{
+								"id": "40",
+								"url": "/employers-and-employees",
+								"text": "Employers and employees",
+								"newTab": false
+							}
+						]
+					},
+					{
+						"id": "6",
+						"header": "I want to find...",
+						"links": [
+							{
+								"id": "56",
+								"url": "/urgent-support",
+								"text": "Urgent support",
+								"newTab": false
+							},
+							{
+								"id": "55",
+								"url": "/latest/all",
+								"text": "Latest advice",
+								"newTab": false
+							},
+							{
+								"id": "36",
+								"url": "/self-assessments",
+								"text": "Self-assessments",
+								"newTab": false
+							},
+							{
+								"id": "38",
+								"url": "/quizzes",
+								"text": "Quick quizzes",
+								"newTab": false
+							},
+							{
+								"id": "39",
+								"url": "/free-apps-for",
+								"text": "Free apps",
+								"newTab": false
+							},
+							{
+								"id": "43",
+								"url": "/how-guides",
+								"text": "How to guides",
+								"newTab": false
+							},
+							{
+								"id": "44",
+								"url": "/workbooks",
+								"text": "Workbooks",
+								"newTab": false
+							},
+							{
+								"id": "41",
+								"url": "/podcasts",
+								"text": "Podcasts, videos and webinars",
+								"newTab": false
+							},
+							{
+								"id": "57",
+								"url": "/coronavirus",
+								"text": "COVID-19 advice",
+								"newTab": false
+							}
+						]
+					}
+				]
+			},
+			"footer": {
+				"id": "1",
+				"logo": {
+					"data": {
+						"id": "322",
+						"attributes": {
+							"alternativeText": "Good Thinking logo in white",
+							"width": 1440,
+							"height": 618,
+							"mime": "image/png",
+							"url": "/good-thinking-archive/assets/Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+							"size": 13.62,
+							"formats": {
+								"large": {
+									"ext": ".png",
+									"url": "/good-thinking-archive/assets/large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"hash": "large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
+									"mime": "image/png",
+									"name": "large_Good_Thinking_logo-RGB-white-72PPI.png",
+									"path": null,
+									"size": 43.81,
+									"width": 1000,
+									"height": 429
+								},
+								"small": {
+									"ext": ".png",
+									"url": "/good-thinking-archive/assets/small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"hash": "small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
+									"mime": "image/png",
+									"name": "small_Good_Thinking_logo-RGB-white-72PPI.png",
+									"path": null,
+									"size": 19.98,
+									"width": 500,
+									"height": 215
+								},
+								"medium": {
+									"ext": ".png",
+									"url": "/good-thinking-archive/assets/medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"hash": "medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
+									"mime": "image/png",
+									"name": "medium_Good_Thinking_logo-RGB-white-72PPI.png",
+									"path": null,
+									"size": 31.73,
+									"width": 750,
+									"height": 322
+								},
+								"thumbnail": {
+									"ext": ".png",
+									"url": "/good-thinking-archive/assets/thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"hash": "thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
+									"mime": "image/png",
+									"name": "thumbnail_Good_Thinking_logo-RGB-white-72PPI.png",
+									"path": null,
+									"size": 8.94,
+									"width": 245,
+									"height": 105
+								}
+							},
+							"hash": "Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
+							"name": "Good_Thinking_logo-RGB-white-72PPI.png",
+							"provider": "aws-s3"
+						}
+					}
+				},
+				"socials": [
+					{
+						"id": "1",
+						"site": "instagram",
+						"url": "https://www.instagram.com/goodthinkinguk/"
+					},
+					{
+						"id": "2",
+						"site": "twitter",
+						"url": "https://twitter.com/goodthinkinguk"
+					},
+					{
+						"id": "3",
+						"site": "linkedin",
+						"url": "https://www.linkedin.com/company/goodthinking/"
+					},
+					{
+						"id": "7",
+						"site": "facebook",
+						"url": "https://www.facebook.com/goodthinkinguk/"
+					}
+				],
+				"description": "Good Thinking provides a range of resources to help Londoners improve their mental wellbeing.",
+				"linkColumns": [
+					{
+						"id": "2",
+						"header": "Topic",
+						"links": [
+							{ "id": "11", "url": "/sleep", "text": "Sleep", "newTab": false },
+							{
+								"id": "8",
+								"url": "/anxiety",
+								"text": "Anxiety",
+								"newTab": false
+							},
+							{
+								"id": "9",
+								"url": "/low-mood",
+								"text": "Low mood",
+								"newTab": false
+							},
+							{
+								"id": "10",
+								"url": "/stress",
+								"text": "Stress",
+								"newTab": false
+							}
+						]
+					},
+					{
+						"id": "1",
+						"header": "Audience",
+						"links": [
+							{
+								"id": "4",
+								"url": "/youngpeople",
+								"text": "Young people",
+								"newTab": false
+							},
+							{
+								"id": "6",
+								"url": "/bereavement",
+								"text": "Someone who is grieving",
+								"newTab": false
+							},
+							{
+								"id": "119",
+								"url": "/students",
+								"text": "Students",
+								"newTab": false
+							},
+							{
+								"id": "5",
+								"url": "/faith-and-belief-communities",
+								"text": "Faith & belief communities",
+								"newTab": false
+							},
+							{
+								"id": "7",
+								"url": "/employers-and-employees",
+								"text": "Employers & employees",
+								"newTab": false
+							}
+						]
+					}
+				],
+				"bottomLinks": [
+					{
+						"id": "1",
+						"url": "/about-good-thinking",
+						"newTab": false,
+						"text": "About Good Thinking"
+					},
+					{
+						"id": "34",
+						"url": "/contact-us",
+						"newTab": false,
+						"text": "Contact us"
+					},
+					{
+						"id": "2",
+						"url": "/accessibility",
+						"newTab": false,
+						"text": "Accessibility"
+					},
+					{
+						"id": "3",
+						"url": "/terms-and-conditions",
+						"newTab": false,
+						"text": "Terms and Conditions"
+					}
+				]
+			},
+			"subscribeFooterText": {
+				"id": "1",
+				"heading": null,
+				"copy": "<p class=\"ql-align-center\">Get the latest tips and resources for Londoners delivered to your inbox every month.</p>"
+			},
+			"partners": {
+				"id": "2",
+				"partners": [
+					{
+						"id": "5",
+						"link": "https://www.transformationpartners.nhs.uk/ ",
+						"logo": {
+							"data": {
+								"id": "454",
+								"attributes": {
+									"alternativeText": "TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
+									"width": 2979,
+									"height": 822,
+									"mime": "image/png",
+									"url": "/good-thinking-archive/assets/TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+									"size": 28.57,
+									"formats": {
+										"large": {
+											"ext": ".png",
+											"url": "/good-thinking-archive/assets/large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"hash": "large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
+											"mime": "image/png",
+											"name": "large_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
+											"path": null,
+											"size": 43.24,
+											"width": 1000,
+											"height": 276
+										},
+										"small": {
+											"ext": ".png",
+											"url": "/good-thinking-archive/assets/small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"hash": "small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
+											"mime": "image/png",
+											"name": "small_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
+											"path": null,
+											"size": 19.2,
+											"width": 500,
+											"height": 138
+										},
+										"medium": {
+											"ext": ".png",
+											"url": "/good-thinking-archive/assets/medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"hash": "medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
+											"mime": "image/png",
+											"name": "medium_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
+											"path": null,
+											"size": 30.94,
+											"width": 750,
+											"height": 207
+										},
+										"thumbnail": {
+											"ext": ".png",
+											"url": "/good-thinking-archive/assets/thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"hash": "thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
+											"mime": "image/png",
+											"name": "thumbnail_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
+											"path": null,
+											"size": 7.99,
+											"width": 245,
+											"height": 68
+										}
+									},
+									"hash": "TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
+									"name": "TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
+									"provider": "aws-s3"
+								}
+							}
+						},
+						"name": "Transformation Partners in Health and Care"
+					},
+					{
+						"id": "6",
+						"link": "https://www.londoncouncils.gov.uk/",
+						"logo": {
+							"data": {
+								"id": "315",
+								"attributes": {
+									"alternativeText": "London Councils",
+									"width": 1200,
+									"height": 576,
+									"mime": "image/png",
+									"url": "/good-thinking-archive/assets/London_Councils_logo_b7a368c43d.png",
+									"size": 17.25,
+									"formats": {
+										"large": {
+											"ext": ".png",
+											"url": "/good-thinking-archive/assets/large_London_Councils_logo_b7a368c43d.png",
+											"hash": "large_London_Councils_logo_b7a368c43d",
+											"mime": "image/png",
+											"name": "large_London_Councils_logo.png",
+											"path": null,
+											"size": 93.61,
+											"width": 1000,
+											"height": 480
+										},
+										"small": {
+											"ext": ".png",
+											"url": "/good-thinking-archive/assets/small_London_Councils_logo_b7a368c43d.png",
+											"hash": "small_London_Councils_logo_b7a368c43d",
+											"mime": "image/png",
+											"name": "small_London_Councils_logo.png",
+											"path": null,
+											"size": 41.38,
+											"width": 500,
+											"height": 240
+										},
+										"medium": {
+											"ext": ".png",
+											"url": "/good-thinking-archive/assets/medium_London_Councils_logo_b7a368c43d.png",
+											"hash": "medium_London_Councils_logo_b7a368c43d",
+											"mime": "image/png",
+											"name": "medium_London_Councils_logo.png",
+											"path": null,
+											"size": 66.57,
+											"width": 750,
+											"height": 360
+										},
+										"thumbnail": {
+											"ext": ".png",
+											"url": "/good-thinking-archive/assets/thumbnail_London_Councils_logo_b7a368c43d.png",
+											"hash": "thumbnail_London_Councils_logo_b7a368c43d",
+											"mime": "image/png",
+											"name": "thumbnail_London_Councils_logo.png",
+											"path": null,
+											"size": 17.48,
+											"width": 245,
+											"height": 118
+										}
+									},
+									"hash": "London_Councils_logo_b7a368c43d",
+									"name": "London_Councils_logo.png",
+									"provider": "aws-s3"
+								}
+							}
+						},
+						"name": "London Councils"
+					},
+					{
+						"id": "7",
+						"link": "https://thriveldn.co.uk/",
+						"logo": {
+							"data": {
+								"id": "316",
+								"attributes": {
+									"alternativeText": "Thrive LDN",
+									"width": 164,
+									"height": 28,
+									"mime": "image/svg+xml",
+									"url": "/good-thinking-archive/assets/thriveldn_logo_new_46bc98177f.svg",
+									"size": 2.59,
+									"formats": null,
+									"hash": "thriveldn_logo_new_46bc98177f",
+									"name": "thriveldn-logo-new.svg",
+									"provider": "aws-s3"
+								}
+							}
+						},
+						"name": "Thrive LDN"
+					},
+					{
+						"id": "8",
+						"link": "https://www.london.gov.uk/programmes-strategies/health-and-wellbeing",
+						"logo": {
+							"data": {
+								"id": "317",
+								"attributes": {
+									"alternativeText": "Mayor of London",
+									"width": 179,
+									"height": 15,
+									"mime": "image/svg+xml",
+									"url": "/good-thinking-archive/assets/mayor_of_london_637a4de9c4.svg",
+									"size": 7.16,
+									"formats": null,
+									"hash": "mayor_of_london_637a4de9c4",
+									"name": "mayor-of-london.svg",
+									"provider": "aws-s3"
+								}
+							}
+						},
+						"name": "Mayor of London"
+					},
+					{
+						"id": "9",
+						"link": "https://www.adph.org.uk/networks/london/",
+						"logo": {
+							"data": {
+								"id": "542",
+								"attributes": {
+									"alternativeText": "ADPH Logo.png",
+									"width": 1233,
+									"height": 355,
+									"mime": "image/png",
+									"url": "/good-thinking-archive/assets/ADPH_Logo_9507f2c60f.png",
+									"size": 24.44,
+									"formats": {
+										"large": {
+											"ext": ".png",
+											"url": "/good-thinking-archive/assets/large_ADPH_Logo_9507f2c60f.png",
+											"hash": "large_ADPH_Logo_9507f2c60f",
+											"mime": "image/png",
+											"name": "large_ADPH Logo.png",
+											"path": null,
+											"size": 82.84,
+											"width": 1000,
+											"height": 288
+										},
+										"small": {
+											"ext": ".png",
+											"url": "/good-thinking-archive/assets/small_ADPH_Logo_9507f2c60f.png",
+											"hash": "small_ADPH_Logo_9507f2c60f",
+											"mime": "image/png",
+											"name": "small_ADPH Logo.png",
+											"path": null,
+											"size": 30.24,
+											"width": 500,
+											"height": 144
+										},
+										"medium": {
+											"ext": ".png",
+											"url": "/good-thinking-archive/assets/medium_ADPH_Logo_9507f2c60f.png",
+											"hash": "medium_ADPH_Logo_9507f2c60f",
+											"mime": "image/png",
+											"name": "medium_ADPH Logo.png",
+											"path": null,
+											"size": 54.54,
+											"width": 750,
+											"height": 216
+										},
+										"thumbnail": {
+											"ext": ".png",
+											"url": "/good-thinking-archive/assets/thumbnail_ADPH_Logo_9507f2c60f.png",
+											"hash": "thumbnail_ADPH_Logo_9507f2c60f",
+											"mime": "image/png",
+											"name": "thumbnail_ADPH Logo.png",
+											"path": null,
+											"size": 10.88,
+											"width": 245,
+											"height": 71
+										}
+									},
+									"hash": "ADPH_Logo_9507f2c60f",
+									"name": "ADPH Logo.png",
+									"provider": "aws-s3"
+								}
+							}
+						},
+						"name": "ADPH London"
+					}
+				]
+			}
+		},
+		"howToUse": {
+			"description": null,
+			"headline": null,
+			"howToUseSection": [
+				{
+					"id": "2",
+					"tabText": "Start from the home page",
+					"bodyText": "<p>Find support, advice and resources by:</p><ul><li>Mental health concern</li></ul><p>Sleep, Anxiety, Low mood, Stress.</p><ul><li>Audience</li></ul><p>Young people, Employers and employees, Someone who is grieving, Faith and belief communities.</p><ul><li>Type of support</li></ul><p>Self-assessments, quick quizzes, free apps, podcasts, videos, how to guides, workbooks.</p>",
+					"image": {
+						"data": {
+							"id": "351",
+							"attributes": {
+								"alternativeText": "Person using a desktop computer",
+								"width": 3515,
+								"height": 3516,
+								"mime": "image/png",
+								"url": "/good-thinking-archive/assets/Person_using_desktop_computer_23da712bdb.png",
+								"size": 445.61,
+								"formats": {
+									"large": {
+										"ext": ".png",
+										"url": "/good-thinking-archive/assets/large_Person_using_desktop_computer_23da712bdb.png",
+										"hash": "large_Person_using_desktop_computer_23da712bdb",
+										"mime": "image/png",
+										"name": "large_Person using desktop computer.png",
+										"path": null,
+										"size": 393.38,
+										"width": 1000,
+										"height": 1000
+									},
+									"small": {
+										"ext": ".png",
+										"url": "/good-thinking-archive/assets/small_Person_using_desktop_computer_23da712bdb.png",
+										"hash": "small_Person_using_desktop_computer_23da712bdb",
+										"mime": "image/png",
+										"name": "small_Person using desktop computer.png",
+										"path": null,
+										"size": 129.77,
+										"width": 500,
+										"height": 500
+									},
+									"medium": {
+										"ext": ".png",
+										"url": "/good-thinking-archive/assets/medium_Person_using_desktop_computer_23da712bdb.png",
+										"hash": "medium_Person_using_desktop_computer_23da712bdb",
+										"mime": "image/png",
+										"name": "medium_Person using desktop computer.png",
+										"path": null,
+										"size": 248.95,
+										"width": 750,
+										"height": 750
+									},
+									"thumbnail": {
+										"ext": ".png",
+										"url": "/good-thinking-archive/assets/thumbnail_Person_using_desktop_computer_23da712bdb.png",
+										"hash": "thumbnail_Person_using_desktop_computer_23da712bdb",
+										"mime": "image/png",
+										"name": "thumbnail_Person using desktop computer.png",
+										"path": null,
+										"size": 22.4,
+										"width": 156,
+										"height": 156
+									}
+								},
+								"hash": "Person_using_desktop_computer_23da712bdb",
+								"name": "Person using desktop computer.png",
+								"provider": "aws-s3"
+							}
+						}
+					},
+					"buttonLink": {
+						"id": "30",
+						"url": "/",
+						"text": "Good Thinking homepage",
+						"newTab": false
+					}
+				},
+				{
+					"id": "1",
+					"tabText": "Get expert advice",
+					"bodyText": "<h3><strong>Get expert advice from Good Thinking </strong></h3><p>The Good Thinking team has created a broad range of advice in collaboration with clinical and subject-area experts, designed to support Londoners with everyday mental health challenges.</p><p>In our Latest Advice section, you'll find short guides <span style=\"color: rgb(30, 12, 6);\">with tips and resource recommendations to help you with a range of concerns including dealing with uncertainty, money worries, getting enough sleep and coping with bereavement.&nbsp;</span></p><p><strong>If you’re looking for advice on a specific subject, type in your topic in the ‘search<span class=\"ql-cursor\">﻿</span>’ box at the top of the page.</strong></p>",
+					"image": {
+						"data": {
+							"id": "359",
+							"attributes": {
+								"alternativeText": "Hands holding a tablet showing a Good Thinking page",
+								"width": 3117,
+								"height": 2536,
+								"mime": "image/png",
+								"url": "/good-thinking-archive/assets/Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+								"size": 439.49,
+								"formats": {
+									"large": {
+										"ext": ".png",
+										"url": "/good-thinking-archive/assets/large_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"hash": "large_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
+										"mime": "image/png",
+										"name": "large_Hand holding a tablet showing a Good Thinking page.png",
+										"path": null,
+										"size": 513.88,
+										"width": 1000,
+										"height": 814
+									},
+									"small": {
+										"ext": ".png",
+										"url": "/good-thinking-archive/assets/small_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"hash": "small_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
+										"mime": "image/png",
+										"name": "small_Hand holding a tablet showing a Good Thinking page.png",
+										"path": null,
+										"size": 160.81,
+										"width": 500,
+										"height": 407
+									},
+									"medium": {
+										"ext": ".png",
+										"url": "/good-thinking-archive/assets/medium_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"hash": "medium_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
+										"mime": "image/png",
+										"name": "medium_Hand holding a tablet showing a Good Thinking page.png",
+										"path": null,
+										"size": 319.35,
+										"width": 750,
+										"height": 610
+									},
+									"thumbnail": {
+										"ext": ".png",
+										"url": "/good-thinking-archive/assets/thumbnail_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667.png",
+										"hash": "thumbnail_Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
+										"mime": "image/png",
+										"name": "thumbnail_Hand holding a tablet showing a Good Thinking page.png",
+										"path": null,
+										"size": 33.33,
+										"width": 192,
+										"height": 156
+									}
+								},
+								"hash": "Hand_holding_a_tablet_showing_a_Good_Thinking_page_d8283b4667",
+								"name": "Hand holding a tablet showing a Good Thinking page.png",
+								"provider": "aws-s3"
+							}
+						}
+					},
+					"buttonLink": {
+						"id": "31",
+						"url": "/latest/all",
+						"text": "Latest advice",
+						"newTab": false
+					}
+				},
+				{
+					"id": "4",
+					"tabText": "Take a self-assessment",
+					"bodyText": "<h3><strong>Use the Good Thinking self-assessment tool</strong></h3><p>Our in-depth, clinically validated self-assessments are a thorough assessment of both your mental and physical wellbeing. They may seem quite ‘medical’ because they are based on the types of questions a doctor or a psychologist might ask you.</p><ul><li>Each self-assessment takes around 20 minutes to complete</li><li>Answer questions about yourself or someone you may be concerned about</li><li>You’ll get a personalised list of recommended actions to take forward</li></ul>",
+					"image": {
+						"data": {
+							"id": "365",
+							"attributes": {
+								"alternativeText": "Person using a laptop to do self-assessment",
+								"width": 4345,
+								"height": 2894,
+								"mime": "image/png",
+								"url": "/good-thinking-archive/assets/Person_using_laptop_to_do_self_assessment_60457968d2.png",
+								"size": 538.92,
+								"formats": {
+									"large": {
+										"ext": ".png",
+										"url": "/good-thinking-archive/assets/large_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"hash": "large_Person_using_laptop_to_do_self_assessment_60457968d2",
+										"mime": "image/png",
+										"name": "large_Person using laptop to do self-assessment.png",
+										"path": null,
+										"size": 471.01,
+										"width": 1000,
+										"height": 666
+									},
+									"small": {
+										"ext": ".png",
+										"url": "/good-thinking-archive/assets/small_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"hash": "small_Person_using_laptop_to_do_self_assessment_60457968d2",
+										"mime": "image/png",
+										"name": "small_Person using laptop to do self-assessment.png",
+										"path": null,
+										"size": 146.91,
+										"width": 500,
+										"height": 333
+									},
+									"medium": {
+										"ext": ".png",
+										"url": "/good-thinking-archive/assets/medium_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"hash": "medium_Person_using_laptop_to_do_self_assessment_60457968d2",
+										"mime": "image/png",
+										"name": "medium_Person using laptop to do self-assessment.png",
+										"path": null,
+										"size": 291.39,
+										"width": 750,
+										"height": 500
+									},
+									"thumbnail": {
+										"ext": ".png",
+										"url": "/good-thinking-archive/assets/thumbnail_Person_using_laptop_to_do_self_assessment_60457968d2.png",
+										"hash": "thumbnail_Person_using_laptop_to_do_self_assessment_60457968d2",
+										"mime": "image/png",
+										"name": "thumbnail_Person using laptop to do self-assessment.png",
+										"path": null,
+										"size": 42.53,
+										"width": 234,
+										"height": 156
+									}
+								},
+								"hash": "Person_using_laptop_to_do_self_assessment_60457968d2",
+								"name": "Person using laptop to do self-assessment.png",
+								"provider": "aws-s3"
+							}
+						}
+					},
+					"buttonLink": {
+						"id": "32",
+						"url": "/self-assessments",
+						"text": "Take a self-assessment",
+						"newTab": false
+					}
+				},
+				{
+					"id": "3",
+					"tabText": "Take a quick quiz",
+					"bodyText": "<h3><strong>Take the Good Thinking quiz</strong></h3><p>Take one of our quizzes on anxiety, sleep, low mood and stress.</p><p>Answer three simple questions, such as “How often are you affected by this?”, and you’ll then receive personalised recommendations for apps and other resources to help you.</p>",
+					"image": {
+						"data": {
+							"id": "339",
+							"attributes": {
+								"alternativeText": "Phone with  information boxes coming out from it",
+								"width": 3515,
+								"height": 3515,
+								"mime": "image/png",
+								"url": "/good-thinking-archive/assets/Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+								"size": 262.22,
+								"formats": {
+									"large": {
+										"ext": ".png",
+										"url": "/good-thinking-archive/assets/large_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"hash": "large_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
+										"mime": "image/png",
+										"name": "large_Phone with text boxes coming out from it.png",
+										"path": null,
+										"size": 275.83,
+										"width": 1000,
+										"height": 1000
+									},
+									"small": {
+										"ext": ".png",
+										"url": "/good-thinking-archive/assets/small_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"hash": "small_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
+										"mime": "image/png",
+										"name": "small_Phone with text boxes coming out from it.png",
+										"path": null,
+										"size": 94.13,
+										"width": 500,
+										"height": 500
+									},
+									"medium": {
+										"ext": ".png",
+										"url": "/good-thinking-archive/assets/medium_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"hash": "medium_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
+										"mime": "image/png",
+										"name": "medium_Phone with text boxes coming out from it.png",
+										"path": null,
+										"size": 178.15,
+										"width": 750,
+										"height": 750
+									},
+									"thumbnail": {
+										"ext": ".png",
+										"url": "/good-thinking-archive/assets/thumbnail_Phone_with_text_boxes_coming_out_from_it_b133244e7b.png",
+										"hash": "thumbnail_Phone_with_text_boxes_coming_out_from_it_b133244e7b",
+										"mime": "image/png",
+										"name": "thumbnail_Phone with text boxes coming out from it.png",
+										"path": null,
+										"size": 16.21,
+										"width": 156,
+										"height": 156
+									}
+								},
+								"hash": "Phone_with_text_boxes_coming_out_from_it_b133244e7b",
+								"name": "Phone with text boxes coming out from it.png",
+								"provider": "aws-s3"
+							}
+						}
+					},
+					"buttonLink": {
+						"id": "33",
+						"url": "/quizzes",
+						"text": "Take a quick quiz",
+						"newTab": false
+					}
+				}
+			],
+			"updatedAt": "2022-11-13T22:35:32.387Z"
+		},
+		"preview": false,
+		"pageData": {
+			"path": "urgent-support",
+			"slug": "urgent-support",
+			"title": "Urgent Support",
+			"subtitle": "If you're concerned about your mental health, your GP is always a good place to start. If you feel very distressed and can’t wait, or feel unable to keep yourself safe, choose one of the options below.",
+			"updatedAt": "2024-08-24T10:04:24.785Z",
+			"breadcrumbs": [
+				{
+					"id": "256",
+					"path": "urgent-support",
+					"title": "Urgent Support",
+					"slug": "urgent-support"
+				}
+			],
+			"headerImage": { "data": null },
+			"metadata": {
+				"id": "562",
+				"description": "If you can't wait to see your GP, here are some contact details for crisis support, on the Good Thinking site.",
+				"title": "Urgent Support",
+				"image": { "data": null }
+			},
+			"author": null,
+			"contentSections": [
+				{
+					"__typename": "ComponentSectionsRichText",
+					"id": "80",
+					"content": "<h2><strong>Free help and advice if you want to speak to someone anonymously</strong></h2><h3><a href=\"https://www.giveusashout.org/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong><u>Shout Crisis Text Line</u></strong></a></h3><p>Shout offers confidential 24/7 crisis text support for times when you need immediate assistance.</p><ul><li><strong>Text \"SHOUT\" to 85258</strong> or <a href=\"https://www.giveusashout.org/\" rel=\"noopener noreferrer\" target=\"_blank\">visit Shout Crisis Text Line</a></li></ul><h3><a href=\"https://www.samaritans.org/how-we-can-help/contact-samaritan/talk-us-phone/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong><u>The Samaritans: Free 24 hour support</u></strong></a></h3><p>“A safe place for you to talk any time you like, in your own way – about whatever’s getting to you. We won't judge you or tell you what to do, we'll listen to you.”&nbsp;</p><ul><li><strong>Email: jo@samaritans.org</strong></li><li><strong>Call: 116 123</strong></li></ul><h3><a href=\"https://papyrus-uk.org/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong><u>Papyrus</u></strong></a></h3><p>“Confidential support and advice to young people struggling with thoughts of suicide, and anyone worried about a young person.”</p><ul><li><strong>Call:&nbsp;0800 068 41 41</strong></li><li><strong>Text:&nbsp;07860 039967</strong></li><li><strong>Email: pat@papyrus-uk.org</strong></li><li><strong>Opening hours: </strong>9am to midnight every day of the year, including weekends and bank holidays.</li></ul><p><br></p><h2>Urgent Mental Health Support</h2><p>To find urgent mental health support in your local area:</p><ul><li><a href=\"/resources/your-local-crisis-line/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Telephone numbers for urgent mental health support.</strong></a></li></ul><p><br></p><h2><strong>Urgent, non-emergency medical advice</strong></h2><p>If you need help urgently but are not at risk of harm or serious illness, use the NHS 111 non-emergency advice online or call 111:</p><ul><li><a href=\"http://www.nhs.uk/NHSEngland/AboutNHSservices/Emergencyandurgentcareservices/Pages/NHS-111.aspx\" rel=\"noopener noreferrer\" target=\"_blank\">NHS 111 Online</a><strong>&nbsp;</strong></li><li><strong>Call: 111</strong></li><li>Use the NHS 111&nbsp;<a href=\"http://interpreternow.co.uk/nhs111\" rel=\"noopener noreferrer\" target=\"_blank\">British Sign Language Service</a></li></ul><p><br></p><h2><strong>Immediate Support</strong></h2><p>Go to your local A&amp;E:</p><ul><li><a href=\"https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-go-to-ae/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Find your nearest A&amp;E</strong></a></li></ul><p>If you feel that you need help immediately call for an ambulance:</p><ul><li><strong>Call or Text: 999</strong></li></ul>",
+					"columnWidth": "full"
+				}
+			]
+		}
+	},
+	"__N_SSG": true
+}
