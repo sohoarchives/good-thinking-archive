@@ -2587,7 +2587,7 @@
 					? null
 					: e.startsWith("http") || e.startsWith("//")
 						? e
-						: "".concat("").concat(e);
+						: "".concat("/good-thinking-archive/assets").concat(e);
 			}
 			i.d(t, {
 				b: function () {
