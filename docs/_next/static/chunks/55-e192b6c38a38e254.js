@@ -176,7 +176,7 @@
 									children: (0, n.jsx)(o.E, {
 										localMedia: {
 											alternativeText: e.site,
-											url: "/images/"
+											url: "/good-thinking-archive/assets/images/"
 												.concat("twitter" === e.site ? "x" : e.site)
 												.concat(
 													s
@@ -827,7 +827,7 @@
 								sx: { position: "absolute", top: 24, right: 24 },
 								children: (0, r.jsx)("img", {
 									alt: "Close menu",
-									src: "/images/close.svg",
+									src: "/good-thinking-archive/assets/images/close.svg",
 								}),
 							}),
 							n.map(function (e) {
@@ -964,7 +964,7 @@
 								sx: { "&:hover": { background: "none", opacity: 0.6 } },
 								children: (0, r.jsx)("img", {
 									alt: "Open menu",
-									src: "/images/burger.svg",
+									src: "/good-thinking-archive/assets/images/burger.svg",
 								}),
 							}),
 							(0, r.jsx)(j.Z, {
@@ -1032,7 +1032,7 @@
 																	? void 0
 																	: i.url) && void 0 !== o
 															? o
-															: "/images/gt-navbar-logo.svg",
+															: "/good-thinking-archive/assets/images/gt-navbar-logo.svg",
 												}),
 											}),
 											(0, r.jsx)(l.Z, {
@@ -1493,7 +1493,7 @@
 										children: (0, r.jsx)(q.Z, {
 											alt: "",
 											component: "img",
-											src: "/images/thumbs-down.svg",
+											src: "/good-thinking-archive/assets/images/thumbs-down.svg",
 											style: { position: "relative", top: 2 },
 										}),
 									}),
@@ -1520,7 +1520,7 @@
 										children: (0, r.jsx)(q.Z, {
 											alt: "",
 											component: "img",
-											src: "/images/thumbs-up.svg",
+											src: "/good-thinking-archive/assets/images/thumbs-up.svg",
 											style: { position: "relative", bottom: 1 },
 										}),
 									}),
@@ -2515,7 +2515,7 @@
 				I = "\n"
 					.concat(
 						M.join("\n"),
-						'\n  \n  ul li {\n    list-style-position: outside;\n    list-style-image: url("/images/orange-dot.png");\n    padding-left: 15px;\n    margin-bottom: 1rem;\n    opacity: 0.8;\n  }\n  \n  p a, li:not(.MuiBreadcrumbs-li) a {\n    color: ',
+						'\n  \n  ul li {\n    list-style-position: outside;\n    list-style-image: url("/good-thinking-archive/assets/images/orange-dot.png");\n    padding-left: 15px;\n    margin-bottom: 1rem;\n    opacity: 0.8;\n  }\n  \n  p a, li:not(.MuiBreadcrumbs-li) a {\n    color: ',
 					)
 					.concat(
 						m,

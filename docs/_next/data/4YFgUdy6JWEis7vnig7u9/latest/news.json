@@ -9,7 +9,7 @@
 						"width": null,
 						"height": null,
 						"mime": "image/x-icon",
-						"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/favicon_18540578c9.ico",
+						"url": "/good-thinking-archives/assets/favicon_18540578c9.ico",
 						"size": 15.41,
 						"formats": null,
 						"hash": "favicon_18540578c9",
@@ -31,12 +31,12 @@
 							"width": 1772,
 							"height": 1000,
 							"mime": "image/png",
-							"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/OG_Image_a7bd58e917.png",
+							"url": "/good-thinking-archives/assets/OG_Image_a7bd58e917.png",
 							"size": 140.96,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/large_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archives/assets/large_OG_Image_a7bd58e917.png",
 									"hash": "large_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "large_OG Image.png",
@@ -47,7 +47,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/small_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archives/assets/small_OG_Image_a7bd58e917.png",
 									"hash": "small_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "small_OG Image.png",
@@ -58,7 +58,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/medium_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archives/assets/medium_OG_Image_a7bd58e917.png",
 									"hash": "medium_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "medium_OG Image.png",
@@ -69,7 +69,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thumbnail_OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archives/assets/thumbnail_OG_Image_a7bd58e917.png",
 									"hash": "thumbnail_OG_Image_a7bd58e917",
 									"mime": "image/png",
 									"name": "thumbnail_OG Image.png",
@@ -97,12 +97,12 @@
 							"width": 784,
 							"height": 310,
 							"mime": "image/png",
-							"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/good_thinking_logo_7c3c6f2edf.png",
+							"url": "/good-thinking-archives/assets/good_thinking_logo_7c3c6f2edf.png",
 							"size": 19.88,
 							"formats": {
 								"small": {
 									"ext": ".png",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/small_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archives/assets/small_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "small_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "small_good-thinking-logo.png",
@@ -113,7 +113,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/medium_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archives/assets/medium_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "medium_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "medium_good-thinking-logo.png",
@@ -124,7 +124,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thumbnail_good_thinking_logo_7c3c6f2edf.png",
+									"url": "/good-thinking-archives/assets/thumbnail_good_thinking_logo_7c3c6f2edf.png",
 									"hash": "thumbnail_good_thinking_logo_7c3c6f2edf",
 									"mime": "image/png",
 									"name": "thumbnail_good-thinking-logo.png",
@@ -321,12 +321,12 @@
 							"width": 1440,
 							"height": 618,
 							"mime": "image/png",
-							"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+							"url": "/good-thinking-archives/assets/Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 							"size": 13.62,
 							"formats": {
 								"large": {
 									"ext": ".png",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archives/assets/large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "large_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "large_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -337,7 +337,7 @@
 								},
 								"small": {
 									"ext": ".png",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archives/assets/small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "small_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "small_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -348,7 +348,7 @@
 								},
 								"medium": {
 									"ext": ".png",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archives/assets/medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "medium_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "medium_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -359,7 +359,7 @@
 								},
 								"thumbnail": {
 									"ext": ".png",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
+									"url": "/good-thinking-archives/assets/thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba.png",
 									"hash": "thumbnail_Good_Thinking_logo_RGB_white_72_PPI_77379535ba",
 									"mime": "image/png",
 									"name": "thumbnail_Good_Thinking_logo-RGB-white-72PPI.png",
@@ -507,12 +507,12 @@
 									"width": 2979,
 									"height": 822,
 									"mime": "image/png",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+									"url": "/good-thinking-archives/assets/TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 									"size": 28.57,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archives/assets/large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "large_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "large_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -523,7 +523,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archives/assets/small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "small_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "small_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -534,7 +534,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archives/assets/medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "medium_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "medium_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -545,7 +545,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
+											"url": "/good-thinking-archives/assets/thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196.png",
 											"hash": "thumbnail_TPHC_Master_Logo_Landscape_RGB_Reversed_Jan23_47173ac196",
 											"mime": "image/png",
 											"name": "thumbnail_TPHC_MasterLogo_Landscape_RGB_Reversed_Jan23.png",
@@ -574,12 +574,12 @@
 									"width": 1200,
 									"height": 576,
 									"mime": "image/png",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/London_Councils_logo_b7a368c43d.png",
+									"url": "/good-thinking-archives/assets/London_Councils_logo_b7a368c43d.png",
 									"size": 17.25,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/large_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archives/assets/large_London_Councils_logo_b7a368c43d.png",
 											"hash": "large_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "large_London_Councils_logo.png",
@@ -590,7 +590,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/small_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archives/assets/small_London_Councils_logo_b7a368c43d.png",
 											"hash": "small_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "small_London_Councils_logo.png",
@@ -601,7 +601,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/medium_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archives/assets/medium_London_Councils_logo_b7a368c43d.png",
 											"hash": "medium_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "medium_London_Councils_logo.png",
@@ -612,7 +612,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thumbnail_London_Councils_logo_b7a368c43d.png",
+											"url": "/good-thinking-archives/assets/thumbnail_London_Councils_logo_b7a368c43d.png",
 											"hash": "thumbnail_London_Councils_logo_b7a368c43d",
 											"mime": "image/png",
 											"name": "thumbnail_London_Councils_logo.png",
@@ -641,7 +641,7 @@
 									"width": 164,
 									"height": 28,
 									"mime": "image/svg+xml",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thriveldn_logo_new_46bc98177f.svg",
+									"url": "/good-thinking-archives/assets/thriveldn_logo_new_46bc98177f.svg",
 									"size": 2.59,
 									"formats": null,
 									"hash": "thriveldn_logo_new_46bc98177f",
@@ -663,7 +663,7 @@
 									"width": 179,
 									"height": 15,
 									"mime": "image/svg+xml",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/mayor_of_london_637a4de9c4.svg",
+									"url": "/good-thinking-archives/assets/mayor_of_london_637a4de9c4.svg",
 									"size": 7.16,
 									"formats": null,
 									"hash": "mayor_of_london_637a4de9c4",
@@ -685,12 +685,12 @@
 									"width": 1233,
 									"height": 355,
 									"mime": "image/png",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/ADPH_Logo_9507f2c60f.png",
+									"url": "/good-thinking-archives/assets/ADPH_Logo_9507f2c60f.png",
 									"size": 24.44,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/large_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archives/assets/large_ADPH_Logo_9507f2c60f.png",
 											"hash": "large_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "large_ADPH Logo.png",
@@ -701,7 +701,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/small_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archives/assets/small_ADPH_Logo_9507f2c60f.png",
 											"hash": "small_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "small_ADPH Logo.png",
@@ -712,7 +712,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/medium_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archives/assets/medium_ADPH_Logo_9507f2c60f.png",
 											"hash": "medium_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "medium_ADPH Logo.png",
@@ -723,7 +723,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thumbnail_ADPH_Logo_9507f2c60f.png",
+											"url": "/good-thinking-archives/assets/thumbnail_ADPH_Logo_9507f2c60f.png",
 											"hash": "thumbnail_ADPH_Logo_9507f2c60f",
 											"mime": "image/png",
 											"name": "thumbnail_ADPH Logo.png",
@@ -774,12 +774,12 @@
 									"width": 800,
 									"height": 1200,
 									"mime": "image/jpeg",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/5_b1a7d38596.jpg",
+									"url": "/good-thinking-archives/assets/5_b1a7d38596.jpg",
 									"size": 176.35,
 									"formats": {
 										"large": {
 											"ext": ".jpg",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/large_5_b1a7d38596.jpg",
+											"url": "/good-thinking-archives/assets/large_5_b1a7d38596.jpg",
 											"hash": "large_5_b1a7d38596",
 											"mime": "image/jpeg",
 											"name": "large_5.jpg",
@@ -791,7 +791,7 @@
 										},
 										"small": {
 											"ext": ".jpg",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/small_5_b1a7d38596.jpg",
+											"url": "/good-thinking-archives/assets/small_5_b1a7d38596.jpg",
 											"hash": "small_5_b1a7d38596",
 											"mime": "image/jpeg",
 											"name": "small_5.jpg",
@@ -803,7 +803,7 @@
 										},
 										"medium": {
 											"ext": ".jpg",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/medium_5_b1a7d38596.jpg",
+											"url": "/good-thinking-archives/assets/medium_5_b1a7d38596.jpg",
 											"hash": "medium_5_b1a7d38596",
 											"mime": "image/jpeg",
 											"name": "medium_5.jpg",
@@ -815,7 +815,7 @@
 										},
 										"thumbnail": {
 											"ext": ".jpg",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thumbnail_5_b1a7d38596.jpg",
+											"url": "/good-thinking-archives/assets/thumbnail_5_b1a7d38596.jpg",
 											"hash": "thumbnail_5_b1a7d38596",
 											"mime": "image/jpeg",
 											"name": "thumbnail_5.jpg",
@@ -841,12 +841,12 @@
 								"width": 640,
 								"height": 1078,
 								"mime": "image/jpeg",
-								"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/5_84d2fed6c4.jpg",
+								"url": "/good-thinking-archives/assets/5_84d2fed6c4.jpg",
 								"size": 135.87,
 								"formats": {
 									"large": {
 										"ext": ".jpg",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/large_5_84d2fed6c4.jpg",
+										"url": "/good-thinking-archives/assets/large_5_84d2fed6c4.jpg",
 										"hash": "large_5_84d2fed6c4",
 										"mime": "image/jpeg",
 										"name": "large_5.jpg",
@@ -858,7 +858,7 @@
 									},
 									"small": {
 										"ext": ".jpg",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/small_5_84d2fed6c4.jpg",
+										"url": "/good-thinking-archives/assets/small_5_84d2fed6c4.jpg",
 										"hash": "small_5_84d2fed6c4",
 										"mime": "image/jpeg",
 										"name": "small_5.jpg",
@@ -870,7 +870,7 @@
 									},
 									"medium": {
 										"ext": ".jpg",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/medium_5_84d2fed6c4.jpg",
+										"url": "/good-thinking-archives/assets/medium_5_84d2fed6c4.jpg",
 										"hash": "medium_5_84d2fed6c4",
 										"mime": "image/jpeg",
 										"name": "medium_5.jpg",
@@ -882,7 +882,7 @@
 									},
 									"thumbnail": {
 										"ext": ".jpg",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thumbnail_5_84d2fed6c4.jpg",
+										"url": "/good-thinking-archives/assets/thumbnail_5_84d2fed6c4.jpg",
 										"hash": "thumbnail_5_84d2fed6c4",
 										"mime": "image/jpeg",
 										"name": "thumbnail_5.jpg",
@@ -1013,12 +1013,12 @@
 								"width": 400,
 								"height": 400,
 								"mime": "image/png",
-								"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Roundel_b235197567.png",
+								"url": "/good-thinking-archives/assets/Roundel_b235197567.png",
 								"size": 10.52,
 								"formats": {
 									"thumbnail": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thumbnail_Roundel_b235197567.png",
+										"url": "/good-thinking-archives/assets/thumbnail_Roundel_b235197567.png",
 										"hash": "thumbnail_Roundel_b235197567",
 										"mime": "image/png",
 										"name": "thumbnail_Roundel.png",
@@ -1050,7 +1050,7 @@
 								{
 									"id": "859",
 									"title": "Advice on supporting young people",
-									"content": "<ul><li><strong>Have regular conversations</strong> – create a safe space where everyone can speak openly about what is going on and remember to listen to your child rather than feeling you should have all the answers.&nbsp;For practical tips on starting a conversation explore our guide to&nbsp;<a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Parents_and_carers_looking_out_for_children_and_young_people_guide_ea4aec98af.pdf\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(68, 87, 53);\">Looking out for children and young people</a>.</li><li><strong>Recognise that no one is to blame for their eating disorder</strong> – not them and not you.</li><li><strong>Make use of your support network</strong> (friends and, if possible, other families in a similar situation) so you don’t feel as if you’re going through with this on your own.</li><li><strong>Talk to your child about social media</strong> and the whether this has an impact on their relationship with food.</li><li><strong>Spot the early warning signs</strong> - for example, a sudden increase in exercise or finding excuses to skip meals.</li><li><strong>Remember to look after yourself.</strong> This is a stressful situation for everyone so make sure you take regular breaks and maintain habits that are good for your own mental health.&nbsp;</li><li><strong>Make use of specialist organisations</strong>, such as <a href=\"https://www.beateatingdisorders.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">beat</a>, who can offer advice and guidance through trained advisors.</li></ul>"
+									"content": "<ul><li><strong>Have regular conversations</strong> – create a safe space where everyone can speak openly about what is going on and remember to listen to your child rather than feeling you should have all the answers.&nbsp;For practical tips on starting a conversation explore our guide to&nbsp;<a href=\"/good-thinking-archives/assets/Parents_and_carers_looking_out_for_children_and_young_people_guide_ea4aec98af.pdf\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(68, 87, 53);\">Looking out for children and young people</a>.</li><li><strong>Recognise that no one is to blame for their eating disorder</strong> – not them and not you.</li><li><strong>Make use of your support network</strong> (friends and, if possible, other families in a similar situation) so you don’t feel as if you’re going through with this on your own.</li><li><strong>Talk to your child about social media</strong> and the whether this has an impact on their relationship with food.</li><li><strong>Spot the early warning signs</strong> - for example, a sudden increase in exercise or finding excuses to skip meals.</li><li><strong>Remember to look after yourself.</strong> This is a stressful situation for everyone so make sure you take regular breaks and maintain habits that are good for your own mental health.&nbsp;</li><li><strong>Make use of specialist organisations</strong>, such as <a href=\"https://www.beateatingdisorders.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">beat</a>, who can offer advice and guidance through trained advisors.</li></ul>"
 								},
 								{
 									"id": "858",
@@ -1106,12 +1106,12 @@
 								"width": 1920,
 								"height": 1080,
 								"mime": "image/png",
-								"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Untitled_design_13_93f5bba619.png",
+								"url": "/good-thinking-archives/assets/Untitled_design_13_93f5bba619.png",
 								"size": 260,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/large_Untitled_design_13_93f5bba619.png",
+										"url": "/good-thinking-archives/assets/large_Untitled_design_13_93f5bba619.png",
 										"hash": "large_Untitled_design_13_93f5bba619",
 										"mime": "image/png",
 										"name": "large_Untitled design (13).png",
@@ -1123,7 +1123,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/small_Untitled_design_13_93f5bba619.png",
+										"url": "/good-thinking-archives/assets/small_Untitled_design_13_93f5bba619.png",
 										"hash": "small_Untitled_design_13_93f5bba619",
 										"mime": "image/png",
 										"name": "small_Untitled design (13).png",
@@ -1135,7 +1135,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/medium_Untitled_design_13_93f5bba619.png",
+										"url": "/good-thinking-archives/assets/medium_Untitled_design_13_93f5bba619.png",
 										"hash": "medium_Untitled_design_13_93f5bba619",
 										"mime": "image/png",
 										"name": "medium_Untitled design (13).png",
@@ -1147,7 +1147,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thumbnail_Untitled_design_13_93f5bba619.png",
+										"url": "/good-thinking-archives/assets/thumbnail_Untitled_design_13_93f5bba619.png",
 										"hash": "thumbnail_Untitled_design_13_93f5bba619",
 										"mime": "image/png",
 										"name": "thumbnail_Untitled design (13).png",
@@ -1195,12 +1195,12 @@
 								"width": 4000,
 								"height": 4000,
 								"mime": "image/png",
-								"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Bereavemment_6b8c1695e1.png",
+								"url": "/good-thinking-archives/assets/Bereavemment_6b8c1695e1.png",
 								"size": 374.12,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/large_Bereavemment_6b8c1695e1.png",
+										"url": "/good-thinking-archives/assets/large_Bereavemment_6b8c1695e1.png",
 										"hash": "large_Bereavemment_6b8c1695e1",
 										"mime": "image/png",
 										"name": "large_Bereavemment.png",
@@ -1212,7 +1212,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/small_Bereavemment_6b8c1695e1.png",
+										"url": "/good-thinking-archives/assets/small_Bereavemment_6b8c1695e1.png",
 										"hash": "small_Bereavemment_6b8c1695e1",
 										"mime": "image/png",
 										"name": "small_Bereavemment.png",
@@ -1224,7 +1224,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/medium_Bereavemment_6b8c1695e1.png",
+										"url": "/good-thinking-archives/assets/medium_Bereavemment_6b8c1695e1.png",
 										"hash": "medium_Bereavemment_6b8c1695e1",
 										"mime": "image/png",
 										"name": "medium_Bereavemment.png",
@@ -1236,7 +1236,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thumbnail_Bereavemment_6b8c1695e1.png",
+										"url": "/good-thinking-archives/assets/thumbnail_Bereavemment_6b8c1695e1.png",
 										"hash": "thumbnail_Bereavemment_6b8c1695e1",
 										"mime": "image/png",
 										"name": "thumbnail_Bereavemment.png",
@@ -1264,7 +1264,7 @@
 						{
 							"__typename": "ComponentSectionsRichText",
 							"id": "671",
-							"content": "<p><img src=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Graphic_person_under_stack_of_shapes_a702a2f9bc.png\" alt=\"Graphic - person under stack of shapes.png\"></p>",
+							"content": "<p><img src=\"/good-thinking-archives/assets/Graphic_person_under_stack_of_shapes_a702a2f9bc.png\" alt=\"Graphic - person under stack of shapes.png\"></p>",
 							"columnWidth": "half"
 						},
 						{
@@ -1274,7 +1274,7 @@
 								{
 									"id": "843",
 									"title": "Advice for adults",
-									"content": "<p>The death of a loved one can have an enormous impact on your mental health. You’re likely to experience a range of emotions and it’s important that you acknowledge these feelings and look after yourself when grieving.&nbsp;</p><p>Our article on ‘<a href=\"https://www.good-thinking.uk/bereavement/cope-bereavement-and-grief\" rel=\"noopener noreferrer\" target=\"_blank\">How to cope with bereavement and grief</a>’ contains tips to help boost your wellbeing and links to Good Thinking resources.&nbsp;</p><p>If you’re having trouble sleeping, we’d also recommend trying a <a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Meditainment_Falling_Asleep_e2b58a0506.mp3\" rel=\"noopener noreferrer\" target=\"_blank\">guided meditation</a>, such as this one from the <a href=\"https://www.good-thinking.uk/resources/meditainment\" rel=\"noopener noreferrer\" target=\"_blank\">Meditainment app</a> by our partner Wellmind Health.</p><p>In the ‘Useful websites’ section, we’ve included links to organisations that can support you if you’ve experienced baby loss, lost someone to suicide or experienced loss due to cancer.</p>"
+									"content": "<p>The death of a loved one can have an enormous impact on your mental health. You’re likely to experience a range of emotions and it’s important that you acknowledge these feelings and look after yourself when grieving.&nbsp;</p><p>Our article on ‘<a href=\"https://www.good-thinking.uk/bereavement/cope-bereavement-and-grief\" rel=\"noopener noreferrer\" target=\"_blank\">How to cope with bereavement and grief</a>’ contains tips to help boost your wellbeing and links to Good Thinking resources.&nbsp;</p><p>If you’re having trouble sleeping, we’d also recommend trying a <a href=\"/good-thinking-archives/assets/Meditainment_Falling_Asleep_e2b58a0506.mp3\" rel=\"noopener noreferrer\" target=\"_blank\">guided meditation</a>, such as this one from the <a href=\"https://www.good-thinking.uk/resources/meditainment\" rel=\"noopener noreferrer\" target=\"_blank\">Meditainment app</a> by our partner Wellmind Health.</p><p>In the ‘Useful websites’ section, we’ve included links to organisations that can support you if you’ve experienced baby loss, lost someone to suicide or experienced loss due to cancer.</p>"
 								},
 								{
 									"id": "844",
@@ -1294,7 +1294,7 @@
 								{
 									"id": "847",
 									"title": "Advice for healthcare professionals and bereavement practitioners",
-									"content": "<p>As part of our faith-based bereavement resources, we’ve produced several guides for professionals who support people during their grief journey.&nbsp;</p><p>These include '<a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/JC_0323_Good_Thinking_Bereavement_v3_cd24b34921.pdf?updated_at=2022-11-01T16:40:05.740Z\" rel=\"noopener noreferrer\" target=\"_blank\">How to provide culturally sensitive bereavement support</a>' and '<a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/JC_0323_Good_Thinking_Reference_Card_V2_No_Logo_c4ef72385d.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">A guide for healthcare professionals: Death and bereavement in Buddhism</a>'.</p><p>Our friends at Thrive LDN have also partnered with the Zero Suicide Alliance to create a <a href=\"https://thriveldn.co.uk/about/our-activities/suicide-prevention/\" rel=\"noopener noreferrer\" target=\"_blank\">training programme</a> to help people identify warning signs and to feel comfortable having conversations about suicide.</p>"
+									"content": "<p>As part of our faith-based bereavement resources, we’ve produced several guides for professionals who support people during their grief journey.&nbsp;</p><p>These include '<a href=\"/good-thinking-archives/assets/JC_0323_Good_Thinking_Bereavement_v3_cd24b34921.pdf?updated_at=2022-11-01T16:40:05.740Z\" rel=\"noopener noreferrer\" target=\"_blank\">How to provide culturally sensitive bereavement support</a>' and '<a href=\"/good-thinking-archives/assets/JC_0323_Good_Thinking_Reference_Card_V2_No_Logo_c4ef72385d.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">A guide for healthcare professionals: Death and bereavement in Buddhism</a>'.</p><p>Our friends at Thrive LDN have also partnered with the Zero Suicide Alliance to create a <a href=\"https://thriveldn.co.uk/about/our-activities/suicide-prevention/\" rel=\"noopener noreferrer\" target=\"_blank\">training programme</a> to help people identify warning signs and to feel comfortable having conversations about suicide.</p>"
 								},
 								{
 									"id": "848",
@@ -1387,12 +1387,12 @@
 								"width": 4000,
 								"height": 4000,
 								"mime": "image/png",
-								"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Faith_home_page_aac3fc6171.png",
+								"url": "/good-thinking-archives/assets/Faith_home_page_aac3fc6171.png",
 								"size": 706.3,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/large_Faith_home_page_aac3fc6171.png",
+										"url": "/good-thinking-archives/assets/large_Faith_home_page_aac3fc6171.png",
 										"hash": "large_Faith_home_page_aac3fc6171",
 										"mime": "image/png",
 										"name": "large_Faith home page.png",
@@ -1404,7 +1404,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/small_Faith_home_page_aac3fc6171.png",
+										"url": "/good-thinking-archives/assets/small_Faith_home_page_aac3fc6171.png",
 										"hash": "small_Faith_home_page_aac3fc6171",
 										"mime": "image/png",
 										"name": "small_Faith home page.png",
@@ -1416,7 +1416,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/medium_Faith_home_page_aac3fc6171.png",
+										"url": "/good-thinking-archives/assets/medium_Faith_home_page_aac3fc6171.png",
 										"hash": "medium_Faith_home_page_aac3fc6171",
 										"mime": "image/png",
 										"name": "medium_Faith home page.png",
@@ -1428,7 +1428,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thumbnail_Faith_home_page_aac3fc6171.png",
+										"url": "/good-thinking-archives/assets/thumbnail_Faith_home_page_aac3fc6171.png",
 										"hash": "thumbnail_Faith_home_page_aac3fc6171",
 										"mime": "image/png",
 										"name": "thumbnail_Faith home page.png",
@@ -1462,7 +1462,7 @@
 						{
 							"__typename": "ComponentSectionsRichText",
 							"id": "646",
-							"content": "<p><img src=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Employees_3a3ec32e6e.png\" alt=\"Employees.png\"></p>",
+							"content": "<p><img src=\"/good-thinking-archives/assets/Employees_3a3ec32e6e.png\" alt=\"Employees.png\"></p>",
 							"columnWidth": "half"
 						},
 						{
@@ -1472,27 +1472,27 @@
 								{
 									"id": "720",
 									"title": "Yemisi Osibote, Head of Workforce – Staff Experience, Royal Free London NHS Foundation Trust",
-									"content": "<p><img src=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Yemisi_Osibote_Royal_Free_90de553383.jpg\" alt=\"Yemisi Osibote Royal Free.jpg\"></p><p>Everybody’s mental health matters. We have more than 12,000 members of staff working across around 70 locations in north London, and we are committed to supporting their mental health in any way we can. It doesn’t just benefit them; it means they can continue to provide the very best care for our patients.&nbsp;</p><p>If anyone feels stressed or unhappy, it’s important to talk to someone so they don’t feel alone – and the trust offers a variety of talking therapies which staff can access whenever they need. This includes Care First, which provides a 24/7/365 support line and counselling service. The trust’s occupational health service has qualified clinical psychologists, occupational therapists, nurses, and physicians available to support staff’s emotional and psychological needs. For peer level support, the trust has trained mental health first aiders who assist by listening to staff and signposting them to appropriate services. Monthly managing stress sessions are provided virtually and chaplains of a variety of faiths are also available for spiritual care and support. In addition, one of our physiotherapists runs a staff walking group at the Royal Free Hospital; exercise is a crucial way in which can improve both our physical and mental health. Finally, our flexible working policy helps staff achieve a healthy work-life balance.</p><p>London is a wonderful place to live and it’s a city on the go. From the minute you wake up, you’re on a treadmill. Will the bus or train be on time? Will childcare run smoothly today? It’s important to build a network of supportive peers both at work and outside of work to help you cope with these pressures. Using one’s annual leave regularly to rest and recuperate is vital in achieving good mental health. Stepping away to relax, sleep and exercise helps to reduce stress levels and avoid burning out.</p><p>One of the most important things we do at the trust is to ask our employees what kind of mental health support they need through the national NHS survey. We work with our staff networks and wellbeing champions forum to keep evaluating what works and what doesn’t. For example, our employees wanted staff health and wellbeing days to be held at least three or four times a year. We work with various stakeholders to organise these – and a crucial part of the event are the massages provided to staff, which are funded by the Royal Free Charity. The trust also has an arts therapist who can help staff relieve stress through creativity. Our annual staff awards are aimed boosting staff morale and emphasising how much the trust appreciates and values everyone’s contributions to patient care.</p><p>Self-care is key. We all need to know ourselves, spot signs of poor mental health, understand our stress triggers and seek help. To continuously lower our stress levels, we need to seek out what we enjoy doing to avoid burn out. I like to get out into nature and take long walks whenever I have the opportunity; this helps to lower my stress levels and avoid burn out.&nbsp;&nbsp;</p><p><a href=\"https://www.royalfree.nhs.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Royal Free London NHS Foundation Trust</a></p>"
+									"content": "<p><img src=\"/good-thinking-archives/assets/Yemisi_Osibote_Royal_Free_90de553383.jpg\" alt=\"Yemisi Osibote Royal Free.jpg\"></p><p>Everybody’s mental health matters. We have more than 12,000 members of staff working across around 70 locations in north London, and we are committed to supporting their mental health in any way we can. It doesn’t just benefit them; it means they can continue to provide the very best care for our patients.&nbsp;</p><p>If anyone feels stressed or unhappy, it’s important to talk to someone so they don’t feel alone – and the trust offers a variety of talking therapies which staff can access whenever they need. This includes Care First, which provides a 24/7/365 support line and counselling service. The trust’s occupational health service has qualified clinical psychologists, occupational therapists, nurses, and physicians available to support staff’s emotional and psychological needs. For peer level support, the trust has trained mental health first aiders who assist by listening to staff and signposting them to appropriate services. Monthly managing stress sessions are provided virtually and chaplains of a variety of faiths are also available for spiritual care and support. In addition, one of our physiotherapists runs a staff walking group at the Royal Free Hospital; exercise is a crucial way in which can improve both our physical and mental health. Finally, our flexible working policy helps staff achieve a healthy work-life balance.</p><p>London is a wonderful place to live and it’s a city on the go. From the minute you wake up, you’re on a treadmill. Will the bus or train be on time? Will childcare run smoothly today? It’s important to build a network of supportive peers both at work and outside of work to help you cope with these pressures. Using one’s annual leave regularly to rest and recuperate is vital in achieving good mental health. Stepping away to relax, sleep and exercise helps to reduce stress levels and avoid burning out.</p><p>One of the most important things we do at the trust is to ask our employees what kind of mental health support they need through the national NHS survey. We work with our staff networks and wellbeing champions forum to keep evaluating what works and what doesn’t. For example, our employees wanted staff health and wellbeing days to be held at least three or four times a year. We work with various stakeholders to organise these – and a crucial part of the event are the massages provided to staff, which are funded by the Royal Free Charity. The trust also has an arts therapist who can help staff relieve stress through creativity. Our annual staff awards are aimed boosting staff morale and emphasising how much the trust appreciates and values everyone’s contributions to patient care.</p><p>Self-care is key. We all need to know ourselves, spot signs of poor mental health, understand our stress triggers and seek help. To continuously lower our stress levels, we need to seek out what we enjoy doing to avoid burn out. I like to get out into nature and take long walks whenever I have the opportunity; this helps to lower my stress levels and avoid burn out.&nbsp;&nbsp;</p><p><a href=\"https://www.royalfree.nhs.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Royal Free London NHS Foundation Trust</a></p>"
 								},
 								{
 									"id": "719",
 									"title": "Tom Hagley, Marketing Director & Specialist Mentor ASD, UMO ",
-									"content": "<p><img src=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Tom_Hagley_UMO_e2838eb735.jpg\" alt=\"Tom Hagley UMO.jpg\"></p><p>Employers put a lot of focus on productivity but it’s really important that people feel valued and supported at work. If an organisation takes a proactive approach to mental health in the workplace and communicates well, it can make a world of difference.&nbsp;</p><p>For neurodivergent employees, for example, this might mean providing flexible hours and supporting them with routines at work. Employers in London also need to consider how living and working in the capital brings certain pressures – housing is expensive, commutes can be complex and time-consuming, and even though there are millions of people, you can still feel lonely.</p><p>Wellbeing initiatives that I’ve seen working well include flexible schedules, coaching and mentoring for employees (especially young workers and neurodivergent colleagues) and a safe space where staff can speak to someone without fear of judgement. Training in task management and time management can also be helpful for reducing workplace stress.</p><p>Through my own work as a specialist mentor at UMO for people with autism and ADHD, I’ve learned that there’s no substitute for talking things through. Of course, managers and supervisors need to have the right training and resources in place to support their teams.</p><p>The most important thing is to normalise conversations about mental health in the workplace. If you take your employees’ wellbeing seriously and respect them as individuals, they’ll repay you a thousand times over.</p><p><a href=\"https://umo.services/\" rel=\"noopener noreferrer\" target=\"_blank\">Umo Services</a></p>"
+									"content": "<p><img src=\"/good-thinking-archives/assets/Tom_Hagley_UMO_e2838eb735.jpg\" alt=\"Tom Hagley UMO.jpg\"></p><p>Employers put a lot of focus on productivity but it’s really important that people feel valued and supported at work. If an organisation takes a proactive approach to mental health in the workplace and communicates well, it can make a world of difference.&nbsp;</p><p>For neurodivergent employees, for example, this might mean providing flexible hours and supporting them with routines at work. Employers in London also need to consider how living and working in the capital brings certain pressures – housing is expensive, commutes can be complex and time-consuming, and even though there are millions of people, you can still feel lonely.</p><p>Wellbeing initiatives that I’ve seen working well include flexible schedules, coaching and mentoring for employees (especially young workers and neurodivergent colleagues) and a safe space where staff can speak to someone without fear of judgement. Training in task management and time management can also be helpful for reducing workplace stress.</p><p>Through my own work as a specialist mentor at UMO for people with autism and ADHD, I’ve learned that there’s no substitute for talking things through. Of course, managers and supervisors need to have the right training and resources in place to support their teams.</p><p>The most important thing is to normalise conversations about mental health in the workplace. If you take your employees’ wellbeing seriously and respect them as individuals, they’ll repay you a thousand times over.</p><p><a href=\"https://umo.services/\" rel=\"noopener noreferrer\" target=\"_blank\">Umo Services</a></p>"
 								},
 								{
 									"id": "722",
 									"title": "Anna King, Commercial Director, Health Innovation Network (HIN) South London",
-									"content": "<p><img src=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Anna_King_Health_Innovation_Network_8b95d7f931.jpg\" alt=\"Anna King Health Innovation Network.jpg\"></p><p>Poor mental health can happen at any stage of life. We want people to stay fit and well and to live happy and fulfilling lives. We also know that mental health conditions are a major reason for sickness and absence from work.</p><p>As an employer in London, you have to be conscious of the challenges your employees face and support them in their wellbeing. For example, hybrid working works for some colleagues, but for others they might experience social isolation if they work from home most of the time. Getting out and about – into work or the community – is generally a good thing.</p><p>At the Health Innovation Network (HIN) South London, we have fantastic volunteer staff wellbeing representatives who spend time working on wellbeing initiatives for colleagues, such as wellbeing walks and other activities. I also work with a Trust in South East London that has a great programme of support for their employees, including additional support for international employees dealing with cultural challenges.</p><p>It can be difficult for employers (especially smaller organisations) to support employees who have different mental wellbeing needs or who might be looking for support for a family member or friend. I’d recommend seeing what’s available online at Good Thinking – there are lots of wellbeing resources, including digital apps and tools like My Possible Self, that you can use.</p><p>Fresh air and sunshine are my favourite ways to boost my own wellbeing. I also enjoy seeing colleagues in person at work – informal conversations can be really helpful to solve problems and keep things in perspective.</p><p><a href=\"https://thehealthinnovationnetwork.co.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">The Health Innovation Network</a></p>"
+									"content": "<p><img src=\"/good-thinking-archives/assets/Anna_King_Health_Innovation_Network_8b95d7f931.jpg\" alt=\"Anna King Health Innovation Network.jpg\"></p><p>Poor mental health can happen at any stage of life. We want people to stay fit and well and to live happy and fulfilling lives. We also know that mental health conditions are a major reason for sickness and absence from work.</p><p>As an employer in London, you have to be conscious of the challenges your employees face and support them in their wellbeing. For example, hybrid working works for some colleagues, but for others they might experience social isolation if they work from home most of the time. Getting out and about – into work or the community – is generally a good thing.</p><p>At the Health Innovation Network (HIN) South London, we have fantastic volunteer staff wellbeing representatives who spend time working on wellbeing initiatives for colleagues, such as wellbeing walks and other activities. I also work with a Trust in South East London that has a great programme of support for their employees, including additional support for international employees dealing with cultural challenges.</p><p>It can be difficult for employers (especially smaller organisations) to support employees who have different mental wellbeing needs or who might be looking for support for a family member or friend. I’d recommend seeing what’s available online at Good Thinking – there are lots of wellbeing resources, including digital apps and tools like My Possible Self, that you can use.</p><p>Fresh air and sunshine are my favourite ways to boost my own wellbeing. I also enjoy seeing colleagues in person at work – informal conversations can be really helpful to solve problems and keep things in perspective.</p><p><a href=\"https://thehealthinnovationnetwork.co.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">The Health Innovation Network</a></p>"
 								},
 								{
 									"id": "721",
 									"title": "Daron Oram, Senior Programme Manager (HIV Charter Mark), National AIDS Trust ",
-									"content": "<p><img src=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Daron_Oram_National_AIDS_Trust_2a9e90cb81.jpg\" alt=\"Daron Oram National AIDS Trust.jpg\"></p><p>Mental health has a direct relationship with employee engagement, productivity, loyalty and much more. It affects everyone within an organisation but there might be particular employees that need more support – for example, people from marginalised groups who face stigma and discrimination and people who work in high-pressured or difficult roles.</p><p>People in London can live quite isolated lives so you have to get the balance right with hybrid working. For me, it’s important to come into the office as it’s such a positive environment. Londoners might also struggle with the cost of living and balancing work with caring responsibilities at home.&nbsp;</p><p>Here at the National AIDS Trust, we do core hours at work – having this flexibility gives us more autonomy. I used to work at a mental health charity, which had Wellbeing Wednesday once a month, where you could take the afternoon off to do something good for your wellbeing.</p><p>Employers shouldn’t assume that line managers know how to deal with mental health conditions. They need training and support. And it’s important that high achievers aren’t ignored – they might be struggling even if they don’t seem to be.</p><p>Fortunately, there’s growing awareness of the importance of wellbeing in the workplace. My personal tip if your mental health isn’t too good would be to ask for help as early as possible.</p><p><a href=\"https://www.nat.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">National AIDS Trust</a></p>"
+									"content": "<p><img src=\"/good-thinking-archives/assets/Daron_Oram_National_AIDS_Trust_2a9e90cb81.jpg\" alt=\"Daron Oram National AIDS Trust.jpg\"></p><p>Mental health has a direct relationship with employee engagement, productivity, loyalty and much more. It affects everyone within an organisation but there might be particular employees that need more support – for example, people from marginalised groups who face stigma and discrimination and people who work in high-pressured or difficult roles.</p><p>People in London can live quite isolated lives so you have to get the balance right with hybrid working. For me, it’s important to come into the office as it’s such a positive environment. Londoners might also struggle with the cost of living and balancing work with caring responsibilities at home.&nbsp;</p><p>Here at the National AIDS Trust, we do core hours at work – having this flexibility gives us more autonomy. I used to work at a mental health charity, which had Wellbeing Wednesday once a month, where you could take the afternoon off to do something good for your wellbeing.</p><p>Employers shouldn’t assume that line managers know how to deal with mental health conditions. They need training and support. And it’s important that high achievers aren’t ignored – they might be struggling even if they don’t seem to be.</p><p>Fortunately, there’s growing awareness of the importance of wellbeing in the workplace. My personal tip if your mental health isn’t too good would be to ask for help as early as possible.</p><p><a href=\"https://www.nat.org.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">National AIDS Trust</a></p>"
 								},
 								{
 									"id": "718",
 									"title": "Jenny Taylor, Project Manager, Transformation Partners in Health and Care",
-									"content": "<p><img src=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Jenny_Taylor_TPHC_7dee8780e7.jpg\" alt=\"Jenny Taylor TPHC.jpg\"></p><p>We know that one in four adults in the UK experience poor mental health – it can happen at any age and stage of life and may affect someone in the workplace. With people spending so much time at work, it’s essential that employers encourage open conversations about health and wellbeing.&nbsp;</p><p>My advice to wellbeing leads would be to start small and build up. Make sure you have the right policies and processes in place, train your line managers so they have the skills to support their teams and provide a safe space where people can talk. You should also take advantage of the many free resources available to support people with lowering stress, improving sleep and dealing with other issues.</p><p>Here at Transformation Partners in Health and Care, we have a Wellbeing Matters network that promotes good wellbeing and organises events for colleagues. These include an annual Wellbeing Day, ‘tea and chat' for World Sleep Day, a staff picnic for Inclusion Week and regular wellbeing walks. They are really popular and it’s great to see so many colleagues getting involved. We also include regular tips and wellbeing advice in our employee newsletter.</p><p>One of the ways I prioritise my own mental health is to set clear boundaries at work. I always take a break from my desk at lunchtime (I often go for a walk) and I encourage my team to do the same.</p><p><a href=\"https://www.transformationpartners.nhs.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Transformation Partners in Health and Care</a></p>"
+									"content": "<p><img src=\"/good-thinking-archives/assets/Jenny_Taylor_TPHC_7dee8780e7.jpg\" alt=\"Jenny Taylor TPHC.jpg\"></p><p>We know that one in four adults in the UK experience poor mental health – it can happen at any age and stage of life and may affect someone in the workplace. With people spending so much time at work, it’s essential that employers encourage open conversations about health and wellbeing.&nbsp;</p><p>My advice to wellbeing leads would be to start small and build up. Make sure you have the right policies and processes in place, train your line managers so they have the skills to support their teams and provide a safe space where people can talk. You should also take advantage of the many free resources available to support people with lowering stress, improving sleep and dealing with other issues.</p><p>Here at Transformation Partners in Health and Care, we have a Wellbeing Matters network that promotes good wellbeing and organises events for colleagues. These include an annual Wellbeing Day, ‘tea and chat' for World Sleep Day, a staff picnic for Inclusion Week and regular wellbeing walks. They are really popular and it’s great to see so many colleagues getting involved. We also include regular tips and wellbeing advice in our employee newsletter.</p><p>One of the ways I prioritise my own mental health is to set clear boundaries at work. I always take a break from my desk at lunchtime (I often go for a walk) and I encourage my team to do the same.</p><p><a href=\"https://www.transformationpartners.nhs.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Transformation Partners in Health and Care</a></p>"
 								},
 								{
 									"id": "727",
@@ -1514,13 +1514,13 @@
 						{
 							"__typename": "ComponentSectionsRichText",
 							"id": "649",
-							"content": "<h3><br></h3><p><br></p><h3>Good Thinking resources</h3><ul><li><a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Good_Thinking_Employers_Toolkit_Oct_2024_ce72478a36.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Employer toolkit</a></li><li><a href=\"https://www.good-thinking.uk/advice/five-ways-good-mental-wellbeing\" rel=\"noopener noreferrer\" target=\"_blank\">Five ways to good mental wellbeing</a></li><li><a href=\"https://www.good-thinking.uk/free-apps-for/apps-adults\" rel=\"noopener noreferrer\" target=\"_blank\">Free NHS-approved wellbeing apps</a></li><li><a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Looking_out_for_friends_and_colleagues_at_work_guide_c6ee3e3d3e.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Looking out for friends and colleagues at work</a></li><li><a href=\"https://good-thinking.s3.amazonaws.com/documents/JC0423_GT_Mental_Health_and_Me_v4_1.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Mental health and me</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities\" rel=\"noopener noreferrer\" target=\"_blank\">Mental health resources for faith and belief communities</a></li></ul>",
+							"content": "<h3><br></h3><p><br></p><h3>Good Thinking resources</h3><ul><li><a href=\"/good-thinking-archives/assets/Good_Thinking_Employers_Toolkit_Oct_2024_ce72478a36.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Employer toolkit</a></li><li><a href=\"https://www.good-thinking.uk/advice/five-ways-good-mental-wellbeing\" rel=\"noopener noreferrer\" target=\"_blank\">Five ways to good mental wellbeing</a></li><li><a href=\"https://www.good-thinking.uk/free-apps-for/apps-adults\" rel=\"noopener noreferrer\" target=\"_blank\">Free NHS-approved wellbeing apps</a></li><li><a href=\"/good-thinking-archives/assets/Looking_out_for_friends_and_colleagues_at_work_guide_c6ee3e3d3e.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Looking out for friends and colleagues at work</a></li><li><a href=\"https://good-thinking.s3.amazonaws.com/documents/JC0423_GT_Mental_Health_and_Me_v4_1.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Mental health and me</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities\" rel=\"noopener noreferrer\" target=\"_blank\">Mental health resources for faith and belief communities</a></li></ul>",
 							"columnWidth": "half"
 						},
 						{
 							"__typename": "ComponentSectionsRichText",
 							"id": "650",
-							"content": "<p><img src=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Hand_holding_a_tablet_showing_a_Good_Thinking_page_cbee2e2023.png\" alt=\"Hand holding a tablet showing a Good Thinking page.png\"></p>",
+							"content": "<p><img src=\"/good-thinking-archives/assets/Hand_holding_a_tablet_showing_a_Good_Thinking_page_cbee2e2023.png\" alt=\"Hand holding a tablet showing a Good Thinking page.png\"></p>",
 							"columnWidth": "half"
 						}
 					]
@@ -1570,12 +1570,12 @@
 								"width": 4000,
 								"height": 4000,
 								"mime": "image/png",
-								"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/People_walking_together_outside_1c9fcb4bce.png",
+								"url": "/good-thinking-archives/assets/People_walking_together_outside_1c9fcb4bce.png",
 								"size": 335.8,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/large_People_walking_together_outside_1c9fcb4bce.png",
+										"url": "/good-thinking-archives/assets/large_People_walking_together_outside_1c9fcb4bce.png",
 										"hash": "large_People_walking_together_outside_1c9fcb4bce",
 										"mime": "image/png",
 										"name": "large_People walking together outside.png",
@@ -1586,7 +1586,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/small_People_walking_together_outside_1c9fcb4bce.png",
+										"url": "/good-thinking-archives/assets/small_People_walking_together_outside_1c9fcb4bce.png",
 										"hash": "small_People_walking_together_outside_1c9fcb4bce",
 										"mime": "image/png",
 										"name": "small_People walking together outside.png",
@@ -1597,7 +1597,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/medium_People_walking_together_outside_1c9fcb4bce.png",
+										"url": "/good-thinking-archives/assets/medium_People_walking_together_outside_1c9fcb4bce.png",
 										"hash": "medium_People_walking_together_outside_1c9fcb4bce",
 										"mime": "image/png",
 										"name": "medium_People walking together outside.png",
@@ -1608,7 +1608,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thumbnail_People_walking_together_outside_1c9fcb4bce.png",
+										"url": "/good-thinking-archives/assets/thumbnail_People_walking_together_outside_1c9fcb4bce.png",
 										"hash": "thumbnail_People_walking_together_outside_1c9fcb4bce",
 										"mime": "image/png",
 										"name": "thumbnail_People walking together outside.png",
@@ -1655,12 +1655,12 @@
 								"width": 512,
 								"height": 512,
 								"mime": "image/png",
-								"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/David_Gradon_circle_headshot_537ce6b164.png",
+								"url": "/good-thinking-archives/assets/David_Gradon_circle_headshot_537ce6b164.png",
 								"size": 89.88,
 								"formats": {
 									"small": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/small_David_Gradon_circle_headshot_537ce6b164.png",
+										"url": "/good-thinking-archives/assets/small_David_Gradon_circle_headshot_537ce6b164.png",
 										"hash": "small_David_Gradon_circle_headshot_537ce6b164",
 										"mime": "image/png",
 										"name": "small_David Gradon circle headshot.png",
@@ -1671,7 +1671,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thumbnail_David_Gradon_circle_headshot_537ce6b164.png",
+										"url": "/good-thinking-archives/assets/thumbnail_David_Gradon_circle_headshot_537ce6b164.png",
 										"hash": "thumbnail_David_Gradon_circle_headshot_537ce6b164",
 										"mime": "image/png",
 										"name": "thumbnail_David Gradon circle headshot.png",
@@ -1716,7 +1716,7 @@
 						{
 							"__typename": "ComponentSectionsRichText",
 							"id": "618",
-							"content": "<p><img src=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Picture1_fd0210431a.png\" alt=\"Picture1.png\"></p>",
+							"content": "<p><img src=\"/good-thinking-archives/assets/Picture1_fd0210431a.png\" alt=\"Picture1.png\"></p>",
 							"columnWidth": "half"
 						},
 						{
@@ -1752,7 +1752,7 @@
 						{
 							"__typename": "ComponentSectionsRichText",
 							"id": "620",
-							"content": "<p><img src=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/de476a62_2f99_4297_97c7_4fbd3966825d_c28bac24bd_b2dfd3afd2.jpg\" alt=\"de476a62_2f99_4297_97c7_4fbd3966825d_c28bac24bd.jpg\"></p>",
+							"content": "<p><img src=\"/good-thinking-archives/assets/de476a62_2f99_4297_97c7_4fbd3966825d_c28bac24bd_b2dfd3afd2.jpg\" alt=\"de476a62_2f99_4297_97c7_4fbd3966825d_c28bac24bd.jpg\"></p>",
 							"columnWidth": "half"
 						},
 						{
@@ -1793,12 +1793,12 @@
 									"width": 4000,
 									"height": 4000,
 									"mime": "image/png",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Faith_home_page_e7a5ad5a2d.png",
+									"url": "/good-thinking-archives/assets/Faith_home_page_e7a5ad5a2d.png",
 									"size": 706.3,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/large_Faith_home_page_e7a5ad5a2d.png",
+											"url": "/good-thinking-archives/assets/large_Faith_home_page_e7a5ad5a2d.png",
 											"hash": "large_Faith_home_page_e7a5ad5a2d",
 											"mime": "image/png",
 											"name": "large_Faith home page.png",
@@ -1809,7 +1809,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/small_Faith_home_page_e7a5ad5a2d.png",
+											"url": "/good-thinking-archives/assets/small_Faith_home_page_e7a5ad5a2d.png",
 											"hash": "small_Faith_home_page_e7a5ad5a2d",
 											"mime": "image/png",
 											"name": "small_Faith home page.png",
@@ -1820,7 +1820,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/medium_Faith_home_page_e7a5ad5a2d.png",
+											"url": "/good-thinking-archives/assets/medium_Faith_home_page_e7a5ad5a2d.png",
 											"hash": "medium_Faith_home_page_e7a5ad5a2d",
 											"mime": "image/png",
 											"name": "medium_Faith home page.png",
@@ -1831,7 +1831,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thumbnail_Faith_home_page_e7a5ad5a2d.png",
+											"url": "/good-thinking-archives/assets/thumbnail_Faith_home_page_e7a5ad5a2d.png",
 											"hash": "thumbnail_Faith_home_page_e7a5ad5a2d",
 											"mime": "image/png",
 											"name": "thumbnail_Faith home page.png",
@@ -1856,12 +1856,12 @@
 								"width": 4000,
 								"height": 4000,
 								"mime": "image/png",
-								"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Faith_home_page_e7a5ad5a2d.png",
+								"url": "/good-thinking-archives/assets/Faith_home_page_e7a5ad5a2d.png",
 								"size": 706.3,
 								"formats": {
 									"large": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/large_Faith_home_page_e7a5ad5a2d.png",
+										"url": "/good-thinking-archives/assets/large_Faith_home_page_e7a5ad5a2d.png",
 										"hash": "large_Faith_home_page_e7a5ad5a2d",
 										"mime": "image/png",
 										"name": "large_Faith home page.png",
@@ -1872,7 +1872,7 @@
 									},
 									"small": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/small_Faith_home_page_e7a5ad5a2d.png",
+										"url": "/good-thinking-archives/assets/small_Faith_home_page_e7a5ad5a2d.png",
 										"hash": "small_Faith_home_page_e7a5ad5a2d",
 										"mime": "image/png",
 										"name": "small_Faith home page.png",
@@ -1883,7 +1883,7 @@
 									},
 									"medium": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/medium_Faith_home_page_e7a5ad5a2d.png",
+										"url": "/good-thinking-archives/assets/medium_Faith_home_page_e7a5ad5a2d.png",
 										"hash": "medium_Faith_home_page_e7a5ad5a2d",
 										"mime": "image/png",
 										"name": "medium_Faith home page.png",
@@ -1894,7 +1894,7 @@
 									},
 									"thumbnail": {
 										"ext": ".png",
-										"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thumbnail_Faith_home_page_e7a5ad5a2d.png",
+										"url": "/good-thinking-archives/assets/thumbnail_Faith_home_page_e7a5ad5a2d.png",
 										"hash": "thumbnail_Faith_home_page_e7a5ad5a2d",
 										"mime": "image/png",
 										"name": "thumbnail_Faith home page.png",
@@ -1952,7 +1952,7 @@
 						{
 							"__typename": "ComponentSectionsRichText",
 							"id": "592",
-							"content": "<p><strong>Looking for support from Good Thinking for yourself or someone you know?</strong></p><ul><li>Check out our <a href=\"https://www.good-thinking.uk/free-apps-for\" rel=\"noopener noreferrer\" target=\"_blank\">free NHS-approved wellbeing apps</a></li><li>Use our '<a href=\"https://www.good-thinking.uk/find-help-for-you\" rel=\"noopener noreferrer\" target=\"_blank\">find the right the help for you</a>' tool for tailored resources</li><li>Take a look at our <a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Looking_out_for_those_around_you_guide_f8b02d5670.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">quick guide to supporting friends and family</a></li><li>Read our latest <a href=\"https://www.good-thinking.uk/latest/all\" rel=\"noopener noreferrer\" target=\"_blank\">news, advice and blogs</a></li></ul>",
+							"content": "<p><strong>Looking for support from Good Thinking for yourself or someone you know?</strong></p><ul><li>Check out our <a href=\"https://www.good-thinking.uk/free-apps-for\" rel=\"noopener noreferrer\" target=\"_blank\">free NHS-approved wellbeing apps</a></li><li>Use our '<a href=\"https://www.good-thinking.uk/find-help-for-you\" rel=\"noopener noreferrer\" target=\"_blank\">find the right the help for you</a>' tool for tailored resources</li><li>Take a look at our <a href=\"/good-thinking-archives/assets/Looking_out_for_those_around_you_guide_f8b02d5670.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">quick guide to supporting friends and family</a></li><li>Read our latest <a href=\"https://www.good-thinking.uk/latest/all\" rel=\"noopener noreferrer\" target=\"_blank\">news, advice and blogs</a></li></ul>",
 							"columnWidth": "full"
 						}
 					]
@@ -1976,12 +1976,12 @@
 									"width": 6084,
 									"height": 4501,
 									"mime": "image/png",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/JC_0432_Good_Thinking_Parents_Guide_Illustration_2_male_adults_82988637de.png",
+									"url": "/good-thinking-archives/assets/JC_0432_Good_Thinking_Parents_Guide_Illustration_2_male_adults_82988637de.png",
 									"size": 335.85,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/large_JC_0432_Good_Thinking_Parents_Guide_Illustration_2_male_adults_82988637de.png",
+											"url": "/good-thinking-archives/assets/large_JC_0432_Good_Thinking_Parents_Guide_Illustration_2_male_adults_82988637de.png",
 											"hash": "large_JC_0432_Good_Thinking_Parents_Guide_Illustration_2_male_adults_82988637de",
 											"mime": "image/png",
 											"name": "large_JC0432_Good Thinking_Parents Guide Illustration_2_male_adults.png",
@@ -1992,7 +1992,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/small_JC_0432_Good_Thinking_Parents_Guide_Illustration_2_male_adults_82988637de.png",
+											"url": "/good-thinking-archives/assets/small_JC_0432_Good_Thinking_Parents_Guide_Illustration_2_male_adults_82988637de.png",
 											"hash": "small_JC_0432_Good_Thinking_Parents_Guide_Illustration_2_male_adults_82988637de",
 											"mime": "image/png",
 											"name": "small_JC0432_Good Thinking_Parents Guide Illustration_2_male_adults.png",
@@ -2003,7 +2003,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/medium_JC_0432_Good_Thinking_Parents_Guide_Illustration_2_male_adults_82988637de.png",
+											"url": "/good-thinking-archives/assets/medium_JC_0432_Good_Thinking_Parents_Guide_Illustration_2_male_adults_82988637de.png",
 											"hash": "medium_JC_0432_Good_Thinking_Parents_Guide_Illustration_2_male_adults_82988637de",
 											"mime": "image/png",
 											"name": "medium_JC0432_Good Thinking_Parents Guide Illustration_2_male_adults.png",
@@ -2014,7 +2014,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thumbnail_JC_0432_Good_Thinking_Parents_Guide_Illustration_2_male_adults_82988637de.png",
+											"url": "/good-thinking-archives/assets/thumbnail_JC_0432_Good_Thinking_Parents_Guide_Illustration_2_male_adults_82988637de.png",
 											"hash": "thumbnail_JC_0432_Good_Thinking_Parents_Guide_Illustration_2_male_adults_82988637de",
 											"mime": "image/png",
 											"name": "thumbnail_JC0432_Good Thinking_Parents Guide Illustration_2_male_adults.png",
@@ -2051,7 +2051,7 @@
 						{
 							"__typename": "ComponentSectionsRichText",
 							"id": "452",
-							"content": "<h3>Further Good Thinking resources</h3><ul><li><a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">'Five ways to wellbeing’ posters for children and young people</a></li><li>&nbsp;<a href=\"https://www.good-thinking.uk/free-apps-young-people\" rel=\"noopener noreferrer\" target=\"_blank\">Free NHS-approved wellbeing apps for under-18s</a></li><li>&nbsp;<a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Good_Thinking_Leaflet_ed155edd51.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking printable postcard flyer</a></li><li>&nbsp;<a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/JC_0423_Good_Thinking_Poster_A4_AW_01_763d8bef5e.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking printable poster</a></li><li>&nbsp;<a href=\"https://www.good-thinking.uk/articles/how-get-urgent-support\" rel=\"noopener noreferrer\" target=\"_blank\">Urgent support for children and young people</a></li></ul>",
+							"content": "<h3>Further Good Thinking resources</h3><ul><li><a href=\"/good-thinking-archives/assets/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">'Five ways to wellbeing’ posters for children and young people</a></li><li>&nbsp;<a href=\"https://www.good-thinking.uk/free-apps-young-people\" rel=\"noopener noreferrer\" target=\"_blank\">Free NHS-approved wellbeing apps for under-18s</a></li><li>&nbsp;<a href=\"/good-thinking-archives/assets/Good_Thinking_Leaflet_ed155edd51.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking printable postcard flyer</a></li><li>&nbsp;<a href=\"/good-thinking-archives/assets/JC_0423_Good_Thinking_Poster_A4_AW_01_763d8bef5e.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking printable poster</a></li><li>&nbsp;<a href=\"https://www.good-thinking.uk/articles/how-get-urgent-support\" rel=\"noopener noreferrer\" target=\"_blank\">Urgent support for children and young people</a></li></ul>",
 							"columnWidth": "full"
 						}
 					]
@@ -2097,12 +2097,12 @@
 								{
 									"id": "468",
 									"title": "Looking out for those around you",
-									"content": "<p><a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Looking_out_for_those_around_you_guide_f8b02d5670.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking’s quick guide to supporting friends, family and others in your local community who may be struggling with their mental health</a></p>"
+									"content": "<p><a href=\"/good-thinking-archives/assets/Looking_out_for_those_around_you_guide_f8b02d5670.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking’s quick guide to supporting friends, family and others in your local community who may be struggling with their mental health</a></p>"
 								},
 								{
 									"id": "469",
 									"title": "Looking out for friends and colleagues at work",
-									"content": "<p><a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Looking_out_for_friends_and_colleagues_at_work_guide_c6ee3e3d3e.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking’s quick guide to supporting people you work with who may be struggling with their mental health</a></p>"
+									"content": "<p><a href=\"/good-thinking-archives/assets/Looking_out_for_friends_and_colleagues_at_work_guide_c6ee3e3d3e.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking’s quick guide to supporting people you work with who may be struggling with their mental health</a></p>"
 								}
 							]
 						},
@@ -2122,7 +2122,7 @@
 						{
 							"__typename": "ComponentSectionsRichText",
 							"id": "448",
-							"content": "<h2><strong>Resources highlighted at the webinar</strong></h2><ul><li><a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Looking_out_for_those_around_you_guide_f8b02d5670.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Looking out for those around you guide</a></li><li><a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Looking_out_for_friends_and_colleagues_at_work_guide_c6ee3e3d3e.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Looking out for friends and colleagues at work guide</a></li><li><a href=\"https://www.good-thinking.uk/employers-and-employees\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking employer toolkit</a></li><li><a href=\"https://thriveldn.co.uk/communications/toolkits-and-resources/toolkit/thrive-ldn-mental-health-conversation-starter/\" rel=\"noopener noreferrer\" target=\"_blank\">Thrive LDN mental health conversation starter guide</a></li><li><a href=\"https://thriveldn.co.uk/latest/news-and-blog/all/core-conversations/\" rel=\"noopener noreferrer\" target=\"_blank\">Thrive LDN core conversations training</a></li><li><a href=\"https://www.good-thinking.uk/apps/\" rel=\"noopener noreferrer\" target=\"_blank\">Free NHS-approved wellbeing apps for adults</a></li><li><a href=\"https://www.good-thinking.uk/urgent-support/\" rel=\"noopener noreferrer\" target=\"_blank\">Urgent support</a></li></ul><p><br></p><h2><strong>Good Thinking resources</strong></h2><ul><li><a href=\"https://www.good-thinking.uk/articles/five-ways-good-mental-wellbeing\" rel=\"noopener noreferrer\" target=\"_blank\">Five ways to good mental wellbeing guide</a></li><li>'Five ways to good mental wellbeing’ guides for different faiths including <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/buddhism/\" rel=\"noopener noreferrer\" target=\"_blank\">Buddhism</a>, <a href=\"/good-thinking-archive/faith-and-belief-communities/christianity\" rel=\"noopener noreferrer\" target=\"_blank\">Christianity</a>, <a href=\"/good-thinking-archive/faith-and-belief-communities/hinduism/\" rel=\"noopener noreferrer\" target=\"_blank\">Hinduism</a>, <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/islam/\" rel=\"noopener noreferrer\" target=\"_blank\">Islam</a>, <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/judaism/\" rel=\"noopener noreferrer\" target=\"_blank\">Judaism</a>, <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/rastafari\" rel=\"noopener noreferrer\" target=\"_blank\">Rastafari</a> and <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/sikhi/\" rel=\"noopener noreferrer\" target=\"_blank\">Sikhi</a></li><li><a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">'Five ways to wellbeing’ posters for children and young people</a></li><li><a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Good_Thinking_Leaflet_ed155edd51.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking printable postcard flyer</a></li><li><a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/JC_0423_Good_Thinking_Poster_A4_AW_01_763d8bef5e.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking printable poster</a></li></ul>",
+							"content": "<h2><strong>Resources highlighted at the webinar</strong></h2><ul><li><a href=\"/good-thinking-archives/assets/Looking_out_for_those_around_you_guide_f8b02d5670.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Looking out for those around you guide</a></li><li><a href=\"/good-thinking-archives/assets/Looking_out_for_friends_and_colleagues_at_work_guide_c6ee3e3d3e.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Looking out for friends and colleagues at work guide</a></li><li><a href=\"https://www.good-thinking.uk/employers-and-employees\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking employer toolkit</a></li><li><a href=\"https://thriveldn.co.uk/communications/toolkits-and-resources/toolkit/thrive-ldn-mental-health-conversation-starter/\" rel=\"noopener noreferrer\" target=\"_blank\">Thrive LDN mental health conversation starter guide</a></li><li><a href=\"https://thriveldn.co.uk/latest/news-and-blog/all/core-conversations/\" rel=\"noopener noreferrer\" target=\"_blank\">Thrive LDN core conversations training</a></li><li><a href=\"https://www.good-thinking.uk/apps/\" rel=\"noopener noreferrer\" target=\"_blank\">Free NHS-approved wellbeing apps for adults</a></li><li><a href=\"https://www.good-thinking.uk/urgent-support/\" rel=\"noopener noreferrer\" target=\"_blank\">Urgent support</a></li></ul><p><br></p><h2><strong>Good Thinking resources</strong></h2><ul><li><a href=\"https://www.good-thinking.uk/articles/five-ways-good-mental-wellbeing\" rel=\"noopener noreferrer\" target=\"_blank\">Five ways to good mental wellbeing guide</a></li><li>'Five ways to good mental wellbeing’ guides for different faiths including <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/buddhism/\" rel=\"noopener noreferrer\" target=\"_blank\">Buddhism</a>, <a href=\"/good-thinking-archive/faith-and-belief-communities/christianity\" rel=\"noopener noreferrer\" target=\"_blank\">Christianity</a>, <a href=\"/good-thinking-archive/faith-and-belief-communities/hinduism/\" rel=\"noopener noreferrer\" target=\"_blank\">Hinduism</a>, <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/islam/\" rel=\"noopener noreferrer\" target=\"_blank\">Islam</a>, <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/judaism/\" rel=\"noopener noreferrer\" target=\"_blank\">Judaism</a>, <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/rastafari\" rel=\"noopener noreferrer\" target=\"_blank\">Rastafari</a> and <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/sikhi/\" rel=\"noopener noreferrer\" target=\"_blank\">Sikhi</a></li><li><a href=\"/good-thinking-archives/assets/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">'Five ways to wellbeing’ posters for children and young people</a></li><li><a href=\"/good-thinking-archives/assets/Good_Thinking_Leaflet_ed155edd51.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking printable postcard flyer</a></li><li><a href=\"/good-thinking-archives/assets/JC_0423_Good_Thinking_Poster_A4_AW_01_763d8bef5e.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking printable poster</a></li></ul>",
 							"columnWidth": "full"
 						}
 					]
@@ -2152,7 +2152,7 @@
 						{
 							"__typename": "ComponentSectionsRichText",
 							"id": "442",
-							"content": "<p><img src=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Person_giving_food_to_others_7f848496cd.png\" alt=\"Person giving a bag of food to two older people\"></p>",
+							"content": "<p><img src=\"/good-thinking-archives/assets/Person_giving_food_to_others_7f848496cd.png\" alt=\"Person giving a bag of food to two older people\"></p>",
 							"columnWidth": "half"
 						},
 						{
@@ -2172,7 +2172,7 @@
 								{
 									"id": "464",
 									"title": "Share Good Thinking’s free resources ",
-									"content": "<p>Over the last five years, Good Thinking has helped hundreds of thousands of Londoners to deal with anxiety, stress, low mood and sleep problems.&nbsp;</p><p>We provide free NHS-approved wellbeing apps, a self-assessment tool, quick quizzes, articles, podcasts and other free resources.</p><p>If you’re hosting an event for Great Mental Health Day this month (or you’d like to promote good mental wellbeing in your community all year round), print out and share Good Thinking’s resources with as many people as possible. As a free 24/7 digital service, we can help you to start a positive conversation about mental wellbeing and help all Londoners to get their 2023 off to a great start.</p><p>How to bring Good Thinking into your event:</p><ul><li>Print out <a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Good_Thinking_Leaflet_ed155edd51.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking postcard flyers</a> and place them around the space you are using for your event or meeting</li><li>Print some of our posters and stick them up around your event space or in communal areas (4 posters available - <a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/JC_0423_Good_Thinking_Poster_A4_AW_01_763d8bef5e.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">poster 1</a>, <a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/JC_0423_Good_Thinking_Poster_A4_AW_02_39da00f16b.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">poster 2</a>, <a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/JC_0423_Good_Thinking_Poster_A4_AW_03_32ed9e7f26.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">poster 3</a>, <a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/JC_0423_Good_Thinking_Poster_A4_AW_04_f2699fe195.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">poster 4</a>)</li><li>Print some Good Thinking resources to share with attendees, like our <a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Five ways to wellbeing for children and young people (posters)</a> or the <a href=\"https://www.good-thinking.uk/faith-and-belief-communities\" rel=\"noopener noreferrer\" target=\"_blank\">Five ways to good mental wellbeing for faith and belief communities (various guides including Buddhism, Christianity and Judaism)</a></li></ul>"
+									"content": "<p>Over the last five years, Good Thinking has helped hundreds of thousands of Londoners to deal with anxiety, stress, low mood and sleep problems.&nbsp;</p><p>We provide free NHS-approved wellbeing apps, a self-assessment tool, quick quizzes, articles, podcasts and other free resources.</p><p>If you’re hosting an event for Great Mental Health Day this month (or you’d like to promote good mental wellbeing in your community all year round), print out and share Good Thinking’s resources with as many people as possible. As a free 24/7 digital service, we can help you to start a positive conversation about mental wellbeing and help all Londoners to get their 2023 off to a great start.</p><p>How to bring Good Thinking into your event:</p><ul><li>Print out <a href=\"/good-thinking-archives/assets/Good_Thinking_Leaflet_ed155edd51.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Good Thinking postcard flyers</a> and place them around the space you are using for your event or meeting</li><li>Print some of our posters and stick them up around your event space or in communal areas (4 posters available - <a href=\"/good-thinking-archives/assets/JC_0423_Good_Thinking_Poster_A4_AW_01_763d8bef5e.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">poster 1</a>, <a href=\"/good-thinking-archives/assets/JC_0423_Good_Thinking_Poster_A4_AW_02_39da00f16b.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">poster 2</a>, <a href=\"/good-thinking-archives/assets/JC_0423_Good_Thinking_Poster_A4_AW_03_32ed9e7f26.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">poster 3</a>, <a href=\"/good-thinking-archives/assets/JC_0423_Good_Thinking_Poster_A4_AW_04_f2699fe195.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">poster 4</a>)</li><li>Print some Good Thinking resources to share with attendees, like our <a href=\"/good-thinking-archives/assets/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Five ways to wellbeing for children and young people (posters)</a> or the <a href=\"https://www.good-thinking.uk/faith-and-belief-communities\" rel=\"noopener noreferrer\" target=\"_blank\">Five ways to good mental wellbeing for faith and belief communities (various guides including Buddhism, Christianity and Judaism)</a></li></ul>"
 								},
 								{
 									"id": "465",
@@ -2240,7 +2240,7 @@
 						{
 							"__typename": "ComponentSectionsRichText",
 							"id": "436",
-							"content": "<p><br></p><p><br></p><p><img src=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/FG_user_feedback_4399d6acce.png\" alt=\"Feeling Good user feedback quotes\"></p>",
+							"content": "<p><br></p><p><br></p><p><img src=\"/good-thinking-archives/assets/FG_user_feedback_4399d6acce.png\" alt=\"Feeling Good user feedback quotes\"></p>",
 							"columnWidth": "half"
 						},
 						{
@@ -2271,12 +2271,12 @@
 									"width": 1772,
 									"height": 1000,
 									"mime": "image/png",
-									"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/OG_Image_a7bd58e917.png",
+									"url": "/good-thinking-archives/assets/OG_Image_a7bd58e917.png",
 									"size": 140.96,
 									"formats": {
 										"large": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/large_OG_Image_a7bd58e917.png",
+											"url": "/good-thinking-archives/assets/large_OG_Image_a7bd58e917.png",
 											"hash": "large_OG_Image_a7bd58e917",
 											"mime": "image/png",
 											"name": "large_OG Image.png",
@@ -2287,7 +2287,7 @@
 										},
 										"small": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/small_OG_Image_a7bd58e917.png",
+											"url": "/good-thinking-archives/assets/small_OG_Image_a7bd58e917.png",
 											"hash": "small_OG_Image_a7bd58e917",
 											"mime": "image/png",
 											"name": "small_OG Image.png",
@@ -2298,7 +2298,7 @@
 										},
 										"medium": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/medium_OG_Image_a7bd58e917.png",
+											"url": "/good-thinking-archives/assets/medium_OG_Image_a7bd58e917.png",
 											"hash": "medium_OG_Image_a7bd58e917",
 											"mime": "image/png",
 											"name": "medium_OG Image.png",
@@ -2309,7 +2309,7 @@
 										},
 										"thumbnail": {
 											"ext": ".png",
-											"url": "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/thumbnail_OG_Image_a7bd58e917.png",
+											"url": "/good-thinking-archives/assets/thumbnail_OG_Image_a7bd58e917.png",
 											"hash": "thumbnail_OG_Image_a7bd58e917",
 											"mime": "image/png",
 											"name": "thumbnail_OG Image.png",
@@ -2409,7 +2409,7 @@
 								{
 									"id": "332",
 									"title": "2. Five ways to good mental wellbeing",
-									"content": "<p>These five steps, which are recommended by the NHS, Mind and other mental health organisations, include connecting with other people and being physically active. They are such a good starting point for improving mental wellbeing that we have worked with faith leaders, youth groups and other organisations across London to develop various resources based on this framework.</p><p>Check out Good Thinking’s <a href=\"https://www.good-thinking.uk/articles/five-ways-good-mental-wellbeing/\" rel=\"noopener noreferrer\" target=\"_blank\">Five ways to good mental wellbeing guide for adults</a>, <a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Five ways to wellbeing posters for children and young people</a> and <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/\" rel=\"noopener noreferrer\" target=\"_blank\">Five ways to good mental wellbeing for faith and belief communities</a>.</p>"
+									"content": "<p>These five steps, which are recommended by the NHS, Mind and other mental health organisations, include connecting with other people and being physically active. They are such a good starting point for improving mental wellbeing that we have worked with faith leaders, youth groups and other organisations across London to develop various resources based on this framework.</p><p>Check out Good Thinking’s <a href=\"https://www.good-thinking.uk/articles/five-ways-good-mental-wellbeing/\" rel=\"noopener noreferrer\" target=\"_blank\">Five ways to good mental wellbeing guide for adults</a>, <a href=\"/good-thinking-archives/assets/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Five ways to wellbeing posters for children and young people</a> and <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/\" rel=\"noopener noreferrer\" target=\"_blank\">Five ways to good mental wellbeing for faith and belief communities</a>.</p>"
 								},
 								{
 									"id": "334",
@@ -2439,7 +2439,7 @@
 						{
 							"__typename": "ComponentSectionsRichText",
 							"id": "382",
-							"content": "<p>How can we make mental health and wellbeing a global priority for everyone? That is the theme of this year’s World Mental Health Day, which the Good Thinking team supports wholeheartedly. On the 10th of October, we’re delighted to be joining Thrive LDN, the Mayor of London and other organisations for Access All Areas, a free World Mental Health Day festival created by young Londoners for young Londoners at City Hall.</p><p><br></p><p class=\"ql-align-center\"><strong>“By incorporating people’s beliefs and values into NHS guidance not only makes it more relatable and useful… It gives us a sense of belonging in an inclusive Britain.” </strong>Dr Imrana Siddiqui, GP and Clinical Lead for Mental Health, NEL CCG</p><p class=\"ql-align-center\"><br></p><p>The NHS is working hard to put mental health on an equal footing with physical health and, here at Good Thinking, we’re supporting Londoners by providing a free 24/7 digital mental wellbeing service. Over the last five years, we have spoken to many Londoners (e.g. through our Digital Health Ambassadors programme and other user research) to better understand their needs, tailor our content and reach people where they are looking for support (e.g. on social media and in community groups).</p><p><br></p><p class=\"ql-align-center\"><strong>“I prefer to use self-help tools because I think you have more freedom of choice to explore what is out there and make your own decisions.”</strong> Participant in Good Thinking user research&nbsp;</p><p class=\"ql-align-center\"><br></p><p>Recognising that there is no ‘one size fits all’ solution when it comes to mental health, our website contains resources:</p><ul><li>For a broad range of audiences, including <a href=\"https://www.good-thinking.uk/parents-and-carers\" rel=\"noopener noreferrer\" target=\"_blank\">parents and carers</a>, <a href=\"https://www.good-thinking.uk/youngpeople/\" rel=\"noopener noreferrer\" target=\"_blank\">young people</a> and <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/\" rel=\"noopener noreferrer\" target=\"_blank\">faith communities</a></li><li>To address the most common mental health concerns, including <a href=\"https://www.good-thinking.uk/anxiety/\" rel=\"noopener noreferrer\" target=\"_blank\">anxiety</a>, <a href=\"https://www.good-thinking.uk/low-mood/\" rel=\"noopener noreferrer\" target=\"_blank\">low mood</a>, <a href=\"https://www.good-thinking.uk/stress/\" rel=\"noopener noreferrer\" target=\"_blank\">stress</a> and <a href=\"https://www.good-thinking.uk/sleep/\" rel=\"noopener noreferrer\" target=\"_blank\">sleep problems</a></li><li>In different formats, including <a href=\"https://www.good-thinking.uk/free-apps-for/\" rel=\"noopener noreferrer\" target=\"_blank\">apps</a>, <a href=\"https://www.good-thinking.uk/how-guides/\" rel=\"noopener noreferrer\" target=\"_blank\">guides</a>, <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/\" rel=\"noopener noreferrer\" target=\"_blank\">podcasts</a>, <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/\" rel=\"noopener noreferrer\" target=\"_blank\">videos</a> and <a href=\"https://www.good-thinking.uk/workbooks/\" rel=\"noopener noreferrer\" target=\"_blank\">workbooks</a></li></ul><p>We also work closely with digital inclusion experts, such as the London Office of Technology and Innovation (LOTI), to better understand digital inequalities and ensure that as many Londoners as possible can access our free wellbeing apps and other online resources.</p><p><br></p><p class=\"ql-align-center\"><strong>“There’s always hope… it’s really important that we are able to challenge people’s misconceptions around mental health conditions.”</strong>Juliette Burton, member of The Speakers Collective</p><p class=\"ql-align-center\"><br></p><p>One in four adults in the UK experience mental ill health and it is often more prevalent in the communities facing the most inequalities. With the COVID-19 pandemic having disproportionately affected ethnic minority groups and a number of research studies associating religion and spirituality with better mental health, in 2021, the Good Thinking team developed a range of culturally competent mental health resources.</p><p>We worked with faith leaders, local councils, health professionals, voluntary organisations and local residents to co-create the resources, which include ‘Five ways to good mental wellbeing’ guides for the following faiths:&nbsp;</p><ul><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/buddhism/\" rel=\"noopener noreferrer\" target=\"_blank\">Buddhism</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/christianity/\" rel=\"noopener noreferrer\" target=\"_blank\">Christianity</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/hinduism/\" rel=\"noopener noreferrer\" target=\"_blank\">Hinduism</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/islam/\" rel=\"noopener noreferrer\" target=\"_blank\">Islam</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/judaism/\" rel=\"noopener noreferrer\" target=\"_blank\">Judaism</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/rastafari/\" rel=\"noopener noreferrer\" target=\"_blank\">Rastafari</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/sikhi/\" rel=\"noopener noreferrer\" target=\"_blank\">Sikhi</a></li></ul><p><br></p><p class=\"ql-align-center\"><strong>“Good Thinking gives us some very important tools that we can use to manage our mental wellbeing, while engaging with our faith-based traditions.” </strong>Muhammad Uddin, Newham Muslim Forum</p><p><br></p><p>As we adapt to living with COVID-19, other events such as the cost of living crisis and the war in Ukraine are putting a strain on Londoners’ mental health, so it’s more important than ever to reach out for help. Good Thinking is here to support you on your path to good mental wellbeing – not just on World Mental Health Day but every day.</p><p>&nbsp;Learn more about <a href=\"https://www.mentalhealth.org.uk/our-work/public-engagement/world-mental-health-day\" rel=\"noopener noreferrer\" target=\"_blank\">World Mental Health Day</a> and the <a href=\"https://thriveldn.co.uk/campaigns/access-all-areas/\" rel=\"noopener noreferrer\" target=\"_blank\">Access All Areas festival</a> for young Londoners on 10 October. You can also follow #WorldMentalHealthDay on social media and share your messages of hope at <a href=\"https://www.instagram.com/messagesof.hope\" rel=\"noopener noreferrer\" target=\"_blank\">@messagesof.hope</a> on Instagram.</p><p><br></p><h2>Good Thinking resources</h2><ul><li><a href=\"https://www.good-thinking.uk/bereavement/\" rel=\"noopener noreferrer\" target=\"_blank\">Faith-based bereavement resources</a></li><li><a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">‘Five ways to wellbeing for children and young people’ posters</a></li><li><a href=\"https://www.good-thinking.uk/apps/\" rel=\"noopener noreferrer\" target=\"_blank\">Free NHS-approved wellbeing apps for adults, including Be Mindful and tomo</a></li><li><a href=\"https://www.good-thinking.uk/free-apps-young-people/\" rel=\"noopener noreferrer\" target=\"_blank\">Free NHS-approved wellbeing apps for young people, including Clear Fear and Student Health App</a></li><li><a href=\"https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/JC_0423_GT_Mental_Health_and_Me_v4_1_6edfce37dd.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">‘Mental health and me' guide</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/\" rel=\"noopener noreferrer\" target=\"_blank\">Mental wellbeing guides for faith and belief communities</a></li><li><a href=\"https://www.good-thinking.uk/podcasts-videos-webinars\" rel=\"noopener noreferrer\" target=\"_blank\">Podcast interviews with a range of organisations, including Christians Against Poverty, The Muslim Youth Helpline and The Student Room</a></li><li>&nbsp;<a href=\"https://www.good-thinking.uk/coronavirus/speakers-collective-series/\" rel=\"noopener noreferrer\" target=\"_blank\">The Speakers Collective mini-series (videos about how COVID-19 affected people with lived experience of mental health)</a></li></ul>",
+							"content": "<p>How can we make mental health and wellbeing a global priority for everyone? That is the theme of this year’s World Mental Health Day, which the Good Thinking team supports wholeheartedly. On the 10th of October, we’re delighted to be joining Thrive LDN, the Mayor of London and other organisations for Access All Areas, a free World Mental Health Day festival created by young Londoners for young Londoners at City Hall.</p><p><br></p><p class=\"ql-align-center\"><strong>“By incorporating people’s beliefs and values into NHS guidance not only makes it more relatable and useful… It gives us a sense of belonging in an inclusive Britain.” </strong>Dr Imrana Siddiqui, GP and Clinical Lead for Mental Health, NEL CCG</p><p class=\"ql-align-center\"><br></p><p>The NHS is working hard to put mental health on an equal footing with physical health and, here at Good Thinking, we’re supporting Londoners by providing a free 24/7 digital mental wellbeing service. Over the last five years, we have spoken to many Londoners (e.g. through our Digital Health Ambassadors programme and other user research) to better understand their needs, tailor our content and reach people where they are looking for support (e.g. on social media and in community groups).</p><p><br></p><p class=\"ql-align-center\"><strong>“I prefer to use self-help tools because I think you have more freedom of choice to explore what is out there and make your own decisions.”</strong> Participant in Good Thinking user research&nbsp;</p><p class=\"ql-align-center\"><br></p><p>Recognising that there is no ‘one size fits all’ solution when it comes to mental health, our website contains resources:</p><ul><li>For a broad range of audiences, including <a href=\"https://www.good-thinking.uk/parents-and-carers\" rel=\"noopener noreferrer\" target=\"_blank\">parents and carers</a>, <a href=\"https://www.good-thinking.uk/youngpeople/\" rel=\"noopener noreferrer\" target=\"_blank\">young people</a> and <a href=\"https://www.good-thinking.uk/faith-and-belief-communities/\" rel=\"noopener noreferrer\" target=\"_blank\">faith communities</a></li><li>To address the most common mental health concerns, including <a href=\"https://www.good-thinking.uk/anxiety/\" rel=\"noopener noreferrer\" target=\"_blank\">anxiety</a>, <a href=\"https://www.good-thinking.uk/low-mood/\" rel=\"noopener noreferrer\" target=\"_blank\">low mood</a>, <a href=\"https://www.good-thinking.uk/stress/\" rel=\"noopener noreferrer\" target=\"_blank\">stress</a> and <a href=\"https://www.good-thinking.uk/sleep/\" rel=\"noopener noreferrer\" target=\"_blank\">sleep problems</a></li><li>In different formats, including <a href=\"https://www.good-thinking.uk/free-apps-for/\" rel=\"noopener noreferrer\" target=\"_blank\">apps</a>, <a href=\"https://www.good-thinking.uk/how-guides/\" rel=\"noopener noreferrer\" target=\"_blank\">guides</a>, <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/\" rel=\"noopener noreferrer\" target=\"_blank\">podcasts</a>, <a href=\"https://www.good-thinking.uk/podcasts-videos-webinars/\" rel=\"noopener noreferrer\" target=\"_blank\">videos</a> and <a href=\"https://www.good-thinking.uk/workbooks/\" rel=\"noopener noreferrer\" target=\"_blank\">workbooks</a></li></ul><p>We also work closely with digital inclusion experts, such as the London Office of Technology and Innovation (LOTI), to better understand digital inequalities and ensure that as many Londoners as possible can access our free wellbeing apps and other online resources.</p><p><br></p><p class=\"ql-align-center\"><strong>“There’s always hope… it’s really important that we are able to challenge people’s misconceptions around mental health conditions.”</strong>Juliette Burton, member of The Speakers Collective</p><p class=\"ql-align-center\"><br></p><p>One in four adults in the UK experience mental ill health and it is often more prevalent in the communities facing the most inequalities. With the COVID-19 pandemic having disproportionately affected ethnic minority groups and a number of research studies associating religion and spirituality with better mental health, in 2021, the Good Thinking team developed a range of culturally competent mental health resources.</p><p>We worked with faith leaders, local councils, health professionals, voluntary organisations and local residents to co-create the resources, which include ‘Five ways to good mental wellbeing’ guides for the following faiths:&nbsp;</p><ul><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/buddhism/\" rel=\"noopener noreferrer\" target=\"_blank\">Buddhism</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/christianity/\" rel=\"noopener noreferrer\" target=\"_blank\">Christianity</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/hinduism/\" rel=\"noopener noreferrer\" target=\"_blank\">Hinduism</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/islam/\" rel=\"noopener noreferrer\" target=\"_blank\">Islam</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/judaism/\" rel=\"noopener noreferrer\" target=\"_blank\">Judaism</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/rastafari/\" rel=\"noopener noreferrer\" target=\"_blank\">Rastafari</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/sikhi/\" rel=\"noopener noreferrer\" target=\"_blank\">Sikhi</a></li></ul><p><br></p><p class=\"ql-align-center\"><strong>“Good Thinking gives us some very important tools that we can use to manage our mental wellbeing, while engaging with our faith-based traditions.” </strong>Muhammad Uddin, Newham Muslim Forum</p><p><br></p><p>As we adapt to living with COVID-19, other events such as the cost of living crisis and the war in Ukraine are putting a strain on Londoners’ mental health, so it’s more important than ever to reach out for help. Good Thinking is here to support you on your path to good mental wellbeing – not just on World Mental Health Day but every day.</p><p>&nbsp;Learn more about <a href=\"https://www.mentalhealth.org.uk/our-work/public-engagement/world-mental-health-day\" rel=\"noopener noreferrer\" target=\"_blank\">World Mental Health Day</a> and the <a href=\"https://thriveldn.co.uk/campaigns/access-all-areas/\" rel=\"noopener noreferrer\" target=\"_blank\">Access All Areas festival</a> for young Londoners on 10 October. You can also follow #WorldMentalHealthDay on social media and share your messages of hope at <a href=\"https://www.instagram.com/messagesof.hope\" rel=\"noopener noreferrer\" target=\"_blank\">@messagesof.hope</a> on Instagram.</p><p><br></p><h2>Good Thinking resources</h2><ul><li><a href=\"https://www.good-thinking.uk/bereavement/\" rel=\"noopener noreferrer\" target=\"_blank\">Faith-based bereavement resources</a></li><li><a href=\"/good-thinking-archives/assets/JC_0423_CYP_5_Ways_Poster_v3b_c9c05c4725.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">‘Five ways to wellbeing for children and young people’ posters</a></li><li><a href=\"https://www.good-thinking.uk/apps/\" rel=\"noopener noreferrer\" target=\"_blank\">Free NHS-approved wellbeing apps for adults, including Be Mindful and tomo</a></li><li><a href=\"https://www.good-thinking.uk/free-apps-young-people/\" rel=\"noopener noreferrer\" target=\"_blank\">Free NHS-approved wellbeing apps for young people, including Clear Fear and Student Health App</a></li><li><a href=\"/good-thinking-archives/assets/JC_0423_GT_Mental_Health_and_Me_v4_1_6edfce37dd.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">‘Mental health and me' guide</a></li><li><a href=\"https://www.good-thinking.uk/faith-and-belief-communities/\" rel=\"noopener noreferrer\" target=\"_blank\">Mental wellbeing guides for faith and belief communities</a></li><li><a href=\"https://www.good-thinking.uk/podcasts-videos-webinars\" rel=\"noopener noreferrer\" target=\"_blank\">Podcast interviews with a range of organisations, including Christians Against Poverty, The Muslim Youth Helpline and The Student Room</a></li><li>&nbsp;<a href=\"https://www.good-thinking.uk/coronavirus/speakers-collective-series/\" rel=\"noopener noreferrer\" target=\"_blank\">The Speakers Collective mini-series (videos about how COVID-19 affected people with lived experience of mental health)</a></li></ul>",
 							"columnWidth": "full"
 						}
 					]
